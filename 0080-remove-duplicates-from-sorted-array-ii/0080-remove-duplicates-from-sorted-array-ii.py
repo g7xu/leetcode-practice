@@ -10,11 +10,8 @@ class Solution:
         pre = None
         while f < len(nums):
             
-            # print(nums[f] == pre)
-
             if pre is not None and nums[f] == pre:
                 c += 1
-                # print('hi')
             else:
                 c = 1
                 pre = nums[f]
@@ -27,11 +24,5 @@ class Solution:
             s += 1
             f += 1
             res += 1
-
-            print(res)
-            # print(c)
-            # print(pre)
-            # print(nums)
-
 
         return res
