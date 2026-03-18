@@ -54,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0743-network-delay-time](https://github.com/g7xu/leetcode-practice/tree/main/0743-network-delay-time/) | Medium |
 | [0767-reorganize-string](https://github.com/g7xu/leetcode-practice/tree/main/0767-reorganize-string/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
@@ -94,4 +95,20 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0050-powx-n](https://github.com/g7xu/leetcode-practice/tree/main/0050-powx-n/) | Medium |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0743-network-delay-time](https://github.com/g7xu/leetcode-practice/tree/main/0743-network-delay-time/) | Medium |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0743-network-delay-time](https://github.com/g7xu/leetcode-practice/tree/main/0743-network-delay-time/) | Medium |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0743-network-delay-time](https://github.com/g7xu/leetcode-practice/tree/main/0743-network-delay-time/) | Medium |
+## Shortest Path
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0743-network-delay-time](https://github.com/g7xu/leetcode-practice/tree/main/0743-network-delay-time/) | Medium |
 <!---LeetCode Topics End-->
