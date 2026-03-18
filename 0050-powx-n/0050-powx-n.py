@@ -1,7 +1,7 @@
 # brute force
 ## for loop n times
 
-# 
+# using while loop here can achieve a space complexity of O(1) since no stack
 
 class Solution:
     def myPow(self, x: float, n: int) -> float:
