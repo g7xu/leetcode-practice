@@ -17,11 +17,3 @@ class Solution:
             res += 1
 
         return res
-
-        # res = 0
-        # for i in range(len(arrive_time) - 1):
-        #     res += 1
-        #     if arrive_time[i + 1] - arrive_time[i] <= 1:
-        #         return res
-
-        # return res + 1
