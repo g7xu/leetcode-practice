@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0904-fruit-into-baskets](https://github.com/g7xu/leetcode-practice/tree/main/0904-fruit-into-baskets/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/g7xu/leetcode-practice/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/g7xu/leetcode-practice/tree/main/2341-maximum-number-of-pairs-in-array/) | Easy |
+| [2365-task-scheduler-ii](https://github.com/g7xu/leetcode-practice/tree/main/2365-task-scheduler-ii/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -24,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0904-fruit-into-baskets](https://github.com/g7xu/leetcode-practice/tree/main/0904-fruit-into-baskets/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/g7xu/leetcode-practice/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/g7xu/leetcode-practice/tree/main/2341-maximum-number-of-pairs-in-array/) | Easy |
+| [2365-task-scheduler-ii](https://github.com/g7xu/leetcode-practice/tree/main/2365-task-scheduler-ii/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -124,4 +126,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/g7xu/leetcode-practice/tree/main/0169-majority-element/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2365-task-scheduler-ii](https://github.com/g7xu/leetcode-practice/tree/main/2365-task-scheduler-ii/) | Medium |
 <!---LeetCode Topics End-->
