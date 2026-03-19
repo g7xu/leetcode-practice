@@ -10,8 +10,6 @@ class Solution:
 
             d += 1
             task_coolDown[task] = d + space + 1
-            # print(d)
-            # print(task_coolDown)
 
         return d
 
