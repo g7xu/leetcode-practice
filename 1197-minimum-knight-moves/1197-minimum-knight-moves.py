@@ -5,10 +5,8 @@ from collections import deque
 
 class Solution:
     def minKnightMoves(self, x: int, y: int) -> int:        
-
-
         queue = deque([[0, 0]])
-        visited = set()
+        visited = set((0, 0))
         step = 0
         while queue:
             for _ in range(len(queue)):
