@@ -1,8 +1,7 @@
 class Solution:
     def removeKdigits(self, num: str, k: int) -> str:
         mono_stack = []
-        print(len(num))
-
+        
         for i in range(len(num)):
             while mono_stack and int(mono_stack[-1]) > int(num[i]) and k > 0:
                 mono_stack.pop()
