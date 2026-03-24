@@ -11,9 +11,7 @@ class Solution:
             for char in s:
                 bucket[ord(char) - ord('a')] += 1
 
-            # print(bucket)
-
-            return ','.join([str(i) for i in bucket])
+            return tuple(bucket)
 
         group = dict()
 
