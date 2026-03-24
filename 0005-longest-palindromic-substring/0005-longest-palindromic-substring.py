@@ -50,6 +50,9 @@ class Solution:
         dp = [[-1 for _ in range(len(s))] for _ in range(len(s))] 
 
         def solve(i, j, s, dp):
+            if dp[i][j] != -1:
+                return dp[i][j]
+
             if i == j:
                 dp[i][j] = 1
                 return 1
