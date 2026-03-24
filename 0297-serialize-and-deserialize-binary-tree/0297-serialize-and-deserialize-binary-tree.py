@@ -32,7 +32,6 @@ class Codec:
 
         r_serialize(root, res)
 
-        print(res)
         return res[0][:-1]
 
         
