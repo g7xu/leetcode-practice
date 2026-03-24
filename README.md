@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/g7xu/leetcode-practice/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
+| [0049-group-anagrams](https://github.com/g7xu/leetcode-practice/tree/main/0049-group-anagrams/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/g7xu/leetcode-practice/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/g7xu/leetcode-practice/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0169-majority-element](https://github.com/g7xu/leetcode-practice/tree/main/0169-majority-element/) | Easy |
@@ -25,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/g7xu/leetcode-practice/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0049-group-anagrams](https://github.com/g7xu/leetcode-practice/tree/main/0049-group-anagrams/) | Medium |
 | [0076-minimum-window-substring](https://github.com/g7xu/leetcode-practice/tree/main/0076-minimum-window-substring/) | Hard |
 | [0142-linked-list-cycle-ii](https://github.com/g7xu/leetcode-practice/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0169-majority-element](https://github.com/g7xu/leetcode-practice/tree/main/0169-majority-element/) | Easy |
@@ -62,6 +64,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/g7xu/leetcode-practice/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0005-longest-palindromic-substring](https://github.com/g7xu/leetcode-practice/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0049-group-anagrams](https://github.com/g7xu/leetcode-practice/tree/main/0049-group-anagrams/) | Medium |
 | [0076-minimum-window-substring](https://github.com/g7xu/leetcode-practice/tree/main/0076-minimum-window-substring/) | Hard |
 | [0151-reverse-words-in-a-string](https://github.com/g7xu/leetcode-practice/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0242-valid-anagram](https://github.com/g7xu/leetcode-practice/tree/main/0242-valid-anagram/) | Easy |
@@ -81,6 +84,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0049-group-anagrams](https://github.com/g7xu/leetcode-practice/tree/main/0049-group-anagrams/) | Medium |
 | [0169-majority-element](https://github.com/g7xu/leetcode-practice/tree/main/0169-majority-element/) | Easy |
 | [0242-valid-anagram](https://github.com/g7xu/leetcode-practice/tree/main/0242-valid-anagram/) | Easy |
 | [0280-wiggle-sort](https://github.com/g7xu/leetcode-practice/tree/main/0280-wiggle-sort/) | Medium |
