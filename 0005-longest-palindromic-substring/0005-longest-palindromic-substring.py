@@ -77,9 +77,7 @@ class Solution:
                 if j < i:
                     continue
 
-                solve(i, j, s, dp)
-
-                if dp[i][j] and j - i + 1 > resLen:
+                if (solve(i, j, s, dp)) and j - i + 1 > resLen:
                     res = s[i : j + 1]
                     resLen = j - i + 1
 
