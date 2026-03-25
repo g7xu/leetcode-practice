@@ -62,6 +62,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0096-unique-binary-search-trees](https://github.com/g7xu/leetcode-practice/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0204-count-primes](https://github.com/g7xu/leetcode-practice/tree/main/0204-count-primes/) | Medium |
 | [1180-count-substrings-with-only-one-distinct-letter](https://github.com/g7xu/leetcode-practice/tree/main/1180-count-substrings-with-only-one-distinct-letter/) | Easy |
+| [1688-count-of-matches-in-tournament](https://github.com/g7xu/leetcode-practice/tree/main/1688-count-of-matches-in-tournament/) | Easy |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -210,6 +211,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1688-count-of-matches-in-tournament](https://github.com/g7xu/leetcode-practice/tree/main/1688-count-of-matches-in-tournament/) | Easy |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/g7xu/leetcode-practice/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [2365-task-scheduler-ii](https://github.com/g7xu/leetcode-practice/tree/main/2365-task-scheduler-ii/) | Medium |
 ## Queue
