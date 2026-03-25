@@ -15,7 +15,8 @@ class Solution:
             while Queue:
                 x, y = Queue.popleft()
                 
-                if grid[x][y] == 
+                if grid[x][y] == 0:
+                    continue
                 
                 size += 1
                 grid[x][y] = 0
