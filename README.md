@@ -148,6 +148,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0096-unique-binary-search-trees](https://github.com/g7xu/leetcode-practice/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/g7xu/leetcode-practice/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0198-house-robber](https://github.com/g7xu/leetcode-practice/tree/main/0198-house-robber/) | Medium |
+| [0576-out-of-boundary-paths](https://github.com/g7xu/leetcode-practice/tree/main/0576-out-of-boundary-paths/) | Medium |
 | [0646-maximum-length-of-pair-chain](https://github.com/g7xu/leetcode-practice/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
 | [0740-delete-and-earn](https://github.com/g7xu/leetcode-practice/tree/main/0740-delete-and-earn/) | Medium |
 ## Linked List
