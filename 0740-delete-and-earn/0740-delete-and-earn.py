@@ -1,25 +1,23 @@
 class Solution:
     def deleteAndEarn(self, nums: List[int]) -> int:
-        count = Counter(nums)
-        visited = set()
+        counter = Counter(nums)
+        num_points = sorted((num, num * counter[num]) for num in set(nums))
 
         @cache
-        def helper(p, nums, visited):
-            if p >= len(nums):
+        def helper(i):
+            if i >= len(num_points):
                 return 0
 
-            cand = []
-            # pick
-            if nums[p] + 1 not in visited and nums[p] - 1 not in visited:
-                visited = set(visited)
-                visited.add(nums[p])
-                cand.append(count[nums[p]] * nums[p] + helper(p + 1, nums, frozenset(visited)))
-                visited.remove(nums[p])
+            val, pts = num_points[i]
 
-            # not pick
-            cand.append(helper(p + 1, nums, frozenset(visited)))
+            # find next non-adjacent value index
+            skip = i + 1
+            if skip < len(num_points) and num_points[skip][0] == val + 1:
+                skip += 1
 
-            return max(cand)
+            take = pts + helper(skip)
+            dont_take = helper(i + 1)
 
-        nums = tuple(set(nums))
-        return helper(0, nums, frozenset(visited))
+            return max(take, dont_take)
+
+        return helper(0)
