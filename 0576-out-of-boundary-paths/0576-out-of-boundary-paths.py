@@ -26,10 +26,10 @@ class Solution:
                 if nr < 0 or nr >= m or nc < 0 or nc >= n:
                     t += 1
                 else:
-                    t += helper(nr, nc, maxMove - 1, m, n) % MOD
+                    t =  (t + helper(nr, nc, maxMove - 1, m, n)) % MOD
 
             return t
 
             
 
-        return helper(startRow, startColumn, maxMove, m, n) % MOD
+        return helper(startRow, startColumn, maxMove, m, n)
