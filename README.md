@@ -30,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1980-find-unique-binary-string](https://github.com/g7xu/leetcode-practice/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/g7xu/leetcode-practice/tree/main/2341-maximum-number-of-pairs-in-array/) | Easy |
 | [2365-task-scheduler-ii](https://github.com/g7xu/leetcode-practice/tree/main/2365-task-scheduler-ii/) | Medium |
+| [3667-sort-array-by-absolute-value](https://github.com/g7xu/leetcode-practice/tree/main/3667-sort-array-by-absolute-value/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -63,6 +64,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0204-count-primes](https://github.com/g7xu/leetcode-practice/tree/main/0204-count-primes/) | Medium |
 | [1180-count-substrings-with-only-one-distinct-letter](https://github.com/g7xu/leetcode-practice/tree/main/1180-count-substrings-with-only-one-distinct-letter/) | Easy |
 | [1688-count-of-matches-in-tournament](https://github.com/g7xu/leetcode-practice/tree/main/1688-count-of-matches-in-tournament/) | Easy |
+| [3667-sort-array-by-absolute-value](https://github.com/g7xu/leetcode-practice/tree/main/3667-sort-array-by-absolute-value/) | Easy |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -109,6 +111,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0905-sort-array-by-parity](https://github.com/g7xu/leetcode-practice/tree/main/0905-sort-array-by-parity/) | Easy |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/g7xu/leetcode-practice/tree/main/1913-maximum-product-difference-between-two-pairs/) | Easy |
 | [1921-eliminate-maximum-number-of-monsters](https://github.com/g7xu/leetcode-practice/tree/main/1921-eliminate-maximum-number-of-monsters/) | Medium |
+| [3667-sort-array-by-absolute-value](https://github.com/g7xu/leetcode-practice/tree/main/3667-sort-array-by-absolute-value/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -130,6 +133,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0557-reverse-words-in-a-string-iii](https://github.com/g7xu/leetcode-practice/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 | [0567-permutation-in-string](https://github.com/g7xu/leetcode-practice/tree/main/0567-permutation-in-string/) | Medium |
 | [0905-sort-array-by-parity](https://github.com/g7xu/leetcode-practice/tree/main/0905-sort-array-by-parity/) | Easy |
+| [3667-sort-array-by-absolute-value](https://github.com/g7xu/leetcode-practice/tree/main/3667-sort-array-by-absolute-value/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
