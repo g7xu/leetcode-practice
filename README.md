@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0904-fruit-into-baskets](https://github.com/g7xu/leetcode-practice/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0905-sort-array-by-parity](https://github.com/g7xu/leetcode-practice/tree/main/0905-sort-array-by-parity/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/g7xu/leetcode-practice/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/g7xu/leetcode-practice/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/g7xu/leetcode-practice/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [1765-map-of-highest-peak](https://github.com/g7xu/leetcode-practice/tree/main/1765-map-of-highest-peak/) | Medium |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/g7xu/leetcode-practice/tree/main/1913-maximum-product-difference-between-two-pairs/) | Easy |
@@ -63,6 +64,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0096-unique-binary-search-trees](https://github.com/g7xu/leetcode-practice/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0204-count-primes](https://github.com/g7xu/leetcode-practice/tree/main/0204-count-primes/) | Medium |
 | [1180-count-substrings-with-only-one-distinct-letter](https://github.com/g7xu/leetcode-practice/tree/main/1180-count-substrings-with-only-one-distinct-letter/) | Easy |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/g7xu/leetcode-practice/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1688-count-of-matches-in-tournament](https://github.com/g7xu/leetcode-practice/tree/main/1688-count-of-matches-in-tournament/) | Easy |
 | [3667-sort-array-by-absolute-value](https://github.com/g7xu/leetcode-practice/tree/main/3667-sort-array-by-absolute-value/) | Easy |
 ## Enumeration
@@ -155,6 +157,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0576-out-of-boundary-paths](https://github.com/g7xu/leetcode-practice/tree/main/0576-out-of-boundary-paths/) | Medium |
 | [0646-maximum-length-of-pair-chain](https://github.com/g7xu/leetcode-practice/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
 | [0740-delete-and-earn](https://github.com/g7xu/leetcode-practice/tree/main/0740-delete-and-earn/) | Medium |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/g7xu/leetcode-practice/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -269,4 +272,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/g7xu/leetcode-practice/tree/main/0238-product-of-array-except-self/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/g7xu/leetcode-practice/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/g7xu/leetcode-practice/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 <!---LeetCode Topics End-->
