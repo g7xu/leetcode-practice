@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0271-encode-and-decode-strings](https://github.com/g7xu/leetcode-practice/tree/main/0271-encode-and-decode-strings/) | Medium |
 | [0280-wiggle-sort](https://github.com/g7xu/leetcode-practice/tree/main/0280-wiggle-sort/) | Medium |
 | [0362-design-hit-counter](https://github.com/g7xu/leetcode-practice/tree/main/0362-design-hit-counter/) | Medium |
+| [0422-valid-word-square](https://github.com/g7xu/leetcode-practice/tree/main/0422-valid-word-square/) | Easy |
 | [0646-maximum-length-of-pair-chain](https://github.com/g7xu/leetcode-practice/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
 | [0695-max-area-of-island](https://github.com/g7xu/leetcode-practice/tree/main/0695-max-area-of-island/) | Medium |
 | [0740-delete-and-earn](https://github.com/g7xu/leetcode-practice/tree/main/0740-delete-and-earn/) | Medium |
@@ -265,6 +266,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0422-valid-word-square](https://github.com/g7xu/leetcode-practice/tree/main/0422-valid-word-square/) | Easy |
 | [0695-max-area-of-island](https://github.com/g7xu/leetcode-practice/tree/main/0695-max-area-of-island/) | Medium |
 | [1765-map-of-highest-peak](https://github.com/g7xu/leetcode-practice/tree/main/1765-map-of-highest-peak/) | Medium |
 ## Prefix Sum
