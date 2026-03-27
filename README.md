@@ -170,6 +170,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/g7xu/leetcode-practice/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0155-min-stack](https://github.com/g7xu/leetcode-practice/tree/main/0155-min-stack/) | Medium |
 | [0402-remove-k-digits](https://github.com/g7xu/leetcode-practice/tree/main/0402-remove-k-digits/) | Medium |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/g7xu/leetcode-practice/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
@@ -188,6 +189,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/g7xu/leetcode-practice/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0226-invert-binary-tree](https://github.com/g7xu/leetcode-practice/tree/main/0226-invert-binary-tree/) | Easy |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/g7xu/leetcode-practice/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/g7xu/leetcode-practice/tree/main/0323-number-of-connected-components-in-an-undirected-graph/) | Medium |
@@ -236,6 +238,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0096-unique-binary-search-trees](https://github.com/g7xu/leetcode-practice/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0102-binary-tree-level-order-traversal](https://github.com/g7xu/leetcode-practice/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
+| [0144-binary-tree-preorder-traversal](https://github.com/g7xu/leetcode-practice/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0226-invert-binary-tree](https://github.com/g7xu/leetcode-practice/tree/main/0226-invert-binary-tree/) | Easy |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/g7xu/leetcode-practice/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 ## Binary Search Tree
@@ -247,6 +250,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0096-unique-binary-search-trees](https://github.com/g7xu/leetcode-practice/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0102-binary-tree-level-order-traversal](https://github.com/g7xu/leetcode-practice/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
+| [0144-binary-tree-preorder-traversal](https://github.com/g7xu/leetcode-practice/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0226-invert-binary-tree](https://github.com/g7xu/leetcode-practice/tree/main/0226-invert-binary-tree/) | Easy |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/g7xu/leetcode-practice/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 ## Data Stream
