@@ -10,9 +10,7 @@ class Solution(object):
 
         for num in nums:
             c[num] += 1
-
-        for freq in c.values():
-            if freq >= 2:
+            if c[num] >= 2:
                 return True
 
         return False
