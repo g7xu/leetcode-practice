@@ -17,7 +17,6 @@ class Solution(object):
             elif revert[i] == '9':
                 revert[i] = '6'
 
-        print(revert)
         if int("".join(revert)) == n:
             return False
 
