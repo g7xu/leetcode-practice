@@ -101,6 +101,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1980-find-unique-binary-string](https://github.com/g7xu/leetcode-practice/tree/main/1980-find-unique-binary-string/) | Medium |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/g7xu/leetcode-practice/tree/main/1985-find-the-kth-largest-integer-in-the-array/) | Medium |
 | [2405-optimal-partition-of-string](https://github.com/g7xu/leetcode-practice/tree/main/2405-optimal-partition-of-string/) | Medium |
+| [3110-score-of-a-string](https://github.com/g7xu/leetcode-practice/tree/main/3110-score-of-a-string/) | Easy |
 | [3174-clear-digits](https://github.com/g7xu/leetcode-practice/tree/main/3174-clear-digits/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
