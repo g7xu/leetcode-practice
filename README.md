@@ -73,6 +73,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0050-powx-n](https://github.com/g7xu/leetcode-practice/tree/main/0050-powx-n/) | Medium |
 | [0096-unique-binary-search-trees](https://github.com/g7xu/leetcode-practice/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0204-count-primes](https://github.com/g7xu/leetcode-practice/tree/main/0204-count-primes/) | Medium |
+| [1056-confusing-number](https://github.com/g7xu/leetcode-practice/tree/main/1056-confusing-number/) | Easy |
 | [1180-count-substrings-with-only-one-distinct-letter](https://github.com/g7xu/leetcode-practice/tree/main/1180-count-substrings-with-only-one-distinct-letter/) | Easy |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/g7xu/leetcode-practice/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1688-count-of-matches-in-tournament](https://github.com/g7xu/leetcode-practice/tree/main/1688-count-of-matches-in-tournament/) | Easy |
