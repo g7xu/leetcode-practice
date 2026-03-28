@@ -4,26 +4,20 @@ class Solution(object):
         :type s: str
         :rtype: int
         """
-        
-        char_collection = set()
-        curr_length = 0
-        max_length = 0
+        bucket = defaultdict(int)
 
-        slow, fast = 0, 0
+        l = r = 0
+        res = 0
+        while r < len(s):
+            # update my bucket
+            bucket[s[r]] += 1
 
-        while fast < len(s):
-            
-            
-            if s[fast] in char_collection:
-                char_collection.remove(s[slow])
-                slow += 1
-                continue
-        
+            # reduce
+            while bucket[s[r]] >= 2:
+                bucket[s[l]] -= 1
+                l += 1
 
-            char_collection.add(s[fast])
-            curr_length = fast - slow + 1
-            max_length = max(curr_length, max_length)
-            fast += 1
+            res = max(res, r - l + 1)
+            r += 1
 
-        return max_length
-        
+        return res
