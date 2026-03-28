@@ -1,32 +1,29 @@
-# counter check the char
+class Solution(object):
+    def lengthOfLongestSubstring(self, s):
+        """
+        :type s: str
+        :rtype: int
+        """
+        
+        char_collection = set()
+        curr_length = 0
+        max_length = 0
 
-# sliding window idea
+        slow, fast = 0, 0
 
-from collections import defaultdict
-
-class Solution:
-    def lengthOfLongestSubstring(self, s: str) -> int:
-        counter = defaultdict(int)
-        input_s = s
-
-        s = f = 0
-        duplicate = 0
-        res = 0
-        while f < len(input_s):
+        while fast < len(s):
             
-            counter[input_s[f]] += 1
-            if counter[input_s[f]] == 2:
-                duplicate += 1
+            
+            if s[fast] in char_collection:
+                char_collection.remove(s[slow])
+                slow += 1
+                continue
+        
 
-            while duplicate:
-                counter[input_s[s]] -= 1
-                if counter[input_s[s]] == 1:
-                    duplicate -= 1
-                
-                s += 1
+            char_collection.add(s[fast])
+            curr_length = fast - slow + 1
+            max_length = max(curr_length, max_length)
+            fast += 1
 
-            res = max(res, f - s + 1)
-            f += 1
-
-        return res
+        return max_length
         
