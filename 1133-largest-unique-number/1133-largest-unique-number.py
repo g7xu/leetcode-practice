@@ -1,3 +1,13 @@
+# brute force
+
+# check freq O(n)
+
+# find largest O(n)
+
+# heap and hashmap
+
+# O(n log n)
+
 class Solution(object):
     def largestUniqueNumber(self, nums):
         """
