@@ -28,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0734-sentence-similarity](https://github.com/g7xu/leetcode-practice/tree/main/0734-sentence-similarity/) | Easy |
 | [0740-delete-and-earn](https://github.com/g7xu/leetcode-practice/tree/main/0740-delete-and-earn/) | Medium |
 | [0760-find-anagram-mappings](https://github.com/g7xu/leetcode-practice/tree/main/0760-find-anagram-mappings/) | Easy |
+| [0846-hand-of-straights](https://github.com/g7xu/leetcode-practice/tree/main/0846-hand-of-straights/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/g7xu/leetcode-practice/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0905-sort-array-by-parity](https://github.com/g7xu/leetcode-practice/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/g7xu/leetcode-practice/tree/main/0977-squares-of-a-sorted-array/) | Easy |
@@ -65,6 +66,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0740-delete-and-earn](https://github.com/g7xu/leetcode-practice/tree/main/0740-delete-and-earn/) | Medium |
 | [0760-find-anagram-mappings](https://github.com/g7xu/leetcode-practice/tree/main/0760-find-anagram-mappings/) | Easy |
 | [0767-reorganize-string](https://github.com/g7xu/leetcode-practice/tree/main/0767-reorganize-string/) | Medium |
+| [0846-hand-of-straights](https://github.com/g7xu/leetcode-practice/tree/main/0846-hand-of-straights/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/g7xu/leetcode-practice/tree/main/0904-fruit-into-baskets/) | Medium |
 | [1133-largest-unique-number](https://github.com/g7xu/leetcode-practice/tree/main/1133-largest-unique-number/) | Easy |
 | [1165-single-row-keyboard](https://github.com/g7xu/leetcode-practice/tree/main/1165-single-row-keyboard/) | Easy |
@@ -141,6 +143,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0402-remove-k-digits](https://github.com/g7xu/leetcode-practice/tree/main/0402-remove-k-digits/) | Medium |
 | [0646-maximum-length-of-pair-chain](https://github.com/g7xu/leetcode-practice/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
 | [0767-reorganize-string](https://github.com/g7xu/leetcode-practice/tree/main/0767-reorganize-string/) | Medium |
+| [0846-hand-of-straights](https://github.com/g7xu/leetcode-practice/tree/main/0846-hand-of-straights/) | Medium |
 | [1921-eliminate-maximum-number-of-monsters](https://github.com/g7xu/leetcode-practice/tree/main/1921-eliminate-maximum-number-of-monsters/) | Medium |
 | [2405-optimal-partition-of-string](https://github.com/g7xu/leetcode-practice/tree/main/2405-optimal-partition-of-string/) | Medium |
 ## Sorting
@@ -153,6 +156,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0280-wiggle-sort](https://github.com/g7xu/leetcode-practice/tree/main/0280-wiggle-sort/) | Medium |
 | [0646-maximum-length-of-pair-chain](https://github.com/g7xu/leetcode-practice/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
 | [0767-reorganize-string](https://github.com/g7xu/leetcode-practice/tree/main/0767-reorganize-string/) | Medium |
+| [0846-hand-of-straights](https://github.com/g7xu/leetcode-practice/tree/main/0846-hand-of-straights/) | Medium |
 | [0905-sort-array-by-parity](https://github.com/g7xu/leetcode-practice/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/g7xu/leetcode-practice/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1133-largest-unique-number](https://github.com/g7xu/leetcode-practice/tree/main/1133-largest-unique-number/) | Easy |
