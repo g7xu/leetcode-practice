@@ -131,6 +131,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0557-reverse-words-in-a-string-iii](https://github.com/g7xu/leetcode-practice/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 | [0567-permutation-in-string](https://github.com/g7xu/leetcode-practice/tree/main/0567-permutation-in-string/) | Medium |
 | [0604-design-compressed-string-iterator](https://github.com/g7xu/leetcode-practice/tree/main/0604-design-compressed-string-iterator/) | Easy |
+| [0678-valid-parenthesis-string](https://github.com/g7xu/leetcode-practice/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0734-sentence-similarity](https://github.com/g7xu/leetcode-practice/tree/main/0734-sentence-similarity/) | Easy |
 | [0767-reorganize-string](https://github.com/g7xu/leetcode-practice/tree/main/0767-reorganize-string/) | Medium |
 | [1165-single-row-keyboard](https://github.com/g7xu/leetcode-practice/tree/main/1165-single-row-keyboard/) | Easy |
@@ -149,6 +150,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0280-wiggle-sort](https://github.com/g7xu/leetcode-practice/tree/main/0280-wiggle-sort/) | Medium |
 | [0402-remove-k-digits](https://github.com/g7xu/leetcode-practice/tree/main/0402-remove-k-digits/) | Medium |
 | [0646-maximum-length-of-pair-chain](https://github.com/g7xu/leetcode-practice/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
+| [0678-valid-parenthesis-string](https://github.com/g7xu/leetcode-practice/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0767-reorganize-string](https://github.com/g7xu/leetcode-practice/tree/main/0767-reorganize-string/) | Medium |
 | [0846-hand-of-straights](https://github.com/g7xu/leetcode-practice/tree/main/0846-hand-of-straights/) | Medium |
 | [1921-eliminate-maximum-number-of-monsters](https://github.com/g7xu/leetcode-practice/tree/main/1921-eliminate-maximum-number-of-monsters/) | Medium |
@@ -225,6 +227,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0416-partition-equal-subset-sum](https://github.com/g7xu/leetcode-practice/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0576-out-of-boundary-paths](https://github.com/g7xu/leetcode-practice/tree/main/0576-out-of-boundary-paths/) | Medium |
 | [0646-maximum-length-of-pair-chain](https://github.com/g7xu/leetcode-practice/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
+| [0678-valid-parenthesis-string](https://github.com/g7xu/leetcode-practice/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0740-delete-and-earn](https://github.com/g7xu/leetcode-practice/tree/main/0740-delete-and-earn/) | Medium |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/g7xu/leetcode-practice/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 ## Linked List
@@ -239,6 +242,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0144-binary-tree-preorder-traversal](https://github.com/g7xu/leetcode-practice/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0155-min-stack](https://github.com/g7xu/leetcode-practice/tree/main/0155-min-stack/) | Medium |
 | [0402-remove-k-digits](https://github.com/g7xu/leetcode-practice/tree/main/0402-remove-k-digits/) | Medium |
+| [0678-valid-parenthesis-string](https://github.com/g7xu/leetcode-practice/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0853-car-fleet](https://github.com/g7xu/leetcode-practice/tree/main/0853-car-fleet/) | Medium |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/g7xu/leetcode-practice/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [3174-clear-digits](https://github.com/g7xu/leetcode-practice/tree/main/3174-clear-digits/) | Easy |
