@@ -84,7 +84,4 @@ class Solution:
                 leftmin = 0
 
 
-        if leftmin == 0:
-            return True
-        
-        return False
+        return leftmin == 0
