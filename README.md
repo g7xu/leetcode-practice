@@ -46,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/g7xu/leetcode-practice/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/g7xu/leetcode-practice/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [1765-map-of-highest-peak](https://github.com/g7xu/leetcode-practice/tree/main/1765-map-of-highest-peak/) | Medium |
+| [1899-merge-triplets-to-form-target-triplet](https://github.com/g7xu/leetcode-practice/tree/main/1899-merge-triplets-to-form-target-triplet/) | Medium |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/g7xu/leetcode-practice/tree/main/1913-maximum-product-difference-between-two-pairs/) | Easy |
 | [1921-eliminate-maximum-number-of-monsters](https://github.com/g7xu/leetcode-practice/tree/main/1921-eliminate-maximum-number-of-monsters/) | Medium |
 | [1929-concatenation-of-array](https://github.com/g7xu/leetcode-practice/tree/main/1929-concatenation-of-array/) | Easy |
@@ -154,6 +155,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0678-valid-parenthesis-string](https://github.com/g7xu/leetcode-practice/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0767-reorganize-string](https://github.com/g7xu/leetcode-practice/tree/main/0767-reorganize-string/) | Medium |
 | [0846-hand-of-straights](https://github.com/g7xu/leetcode-practice/tree/main/0846-hand-of-straights/) | Medium |
+| [1899-merge-triplets-to-form-target-triplet](https://github.com/g7xu/leetcode-practice/tree/main/1899-merge-triplets-to-form-target-triplet/) | Medium |
 | [1921-eliminate-maximum-number-of-monsters](https://github.com/g7xu/leetcode-practice/tree/main/1921-eliminate-maximum-number-of-monsters/) | Medium |
 | [2405-optimal-partition-of-string](https://github.com/g7xu/leetcode-practice/tree/main/2405-optimal-partition-of-string/) | Medium |
 ## Sorting
