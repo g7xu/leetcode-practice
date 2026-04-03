@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0033-search-in-rotated-sorted-array](https://github.com/g7xu/leetcode-practice/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0049-group-anagrams](https://github.com/g7xu/leetcode-practice/tree/main/0049-group-anagrams/) | Medium |
 | [0055-jump-game](https://github.com/g7xu/leetcode-practice/tree/main/0055-jump-game/) | Medium |
+| [0079-word-search](https://github.com/g7xu/leetcode-practice/tree/main/0079-word-search/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/g7xu/leetcode-practice/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0090-subsets-ii](https://github.com/g7xu/leetcode-practice/tree/main/0090-subsets-ii/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/g7xu/leetcode-practice/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
@@ -120,6 +121,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0049-group-anagrams](https://github.com/g7xu/leetcode-practice/tree/main/0049-group-anagrams/) | Medium |
 | [0058-length-of-last-word](https://github.com/g7xu/leetcode-practice/tree/main/0058-length-of-last-word/) | Easy |
 | [0076-minimum-window-substring](https://github.com/g7xu/leetcode-practice/tree/main/0076-minimum-window-substring/) | Hard |
+| [0079-word-search](https://github.com/g7xu/leetcode-practice/tree/main/0079-word-search/) | Medium |
 | [0091-decode-ways](https://github.com/g7xu/leetcode-practice/tree/main/0091-decode-ways/) | Medium |
 | [0097-interleaving-string](https://github.com/g7xu/leetcode-practice/tree/main/0097-interleaving-string/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/g7xu/leetcode-practice/tree/main/0151-reverse-words-in-a-string/) | Medium |
@@ -214,6 +216,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0079-word-search](https://github.com/g7xu/leetcode-practice/tree/main/0079-word-search/) | Medium |
 | [0090-subsets-ii](https://github.com/g7xu/leetcode-practice/tree/main/0090-subsets-ii/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/g7xu/leetcode-practice/tree/main/1980-find-unique-binary-string/) | Medium |
 ## Dynamic Programming
@@ -267,6 +270,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0079-word-search](https://github.com/g7xu/leetcode-practice/tree/main/0079-word-search/) | Medium |
 | [0130-surrounded-regions](https://github.com/g7xu/leetcode-practice/tree/main/0130-surrounded-regions/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/g7xu/leetcode-practice/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0226-invert-binary-tree](https://github.com/g7xu/leetcode-practice/tree/main/0226-invert-binary-tree/) | Easy |
@@ -360,6 +364,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0079-word-search](https://github.com/g7xu/leetcode-practice/tree/main/0079-word-search/) | Medium |
 | [0130-surrounded-regions](https://github.com/g7xu/leetcode-practice/tree/main/0130-surrounded-regions/) | Medium |
 | [0422-valid-word-square](https://github.com/g7xu/leetcode-practice/tree/main/0422-valid-word-square/) | Easy |
 | [0695-max-area-of-island](https://github.com/g7xu/leetcode-practice/tree/main/0695-max-area-of-island/) | Medium |
