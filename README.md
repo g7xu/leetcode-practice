@@ -398,4 +398,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0183-customers-who-never-order](https://github.com/g7xu/leetcode-practice/tree/main/0183-customers-who-never-order/) | Easy |
 | [1821-find-customers-with-positive-revenue-this-year](https://github.com/g7xu/leetcode-practice/tree/main/1821-find-customers-with-positive-revenue-this-year/) | Easy |
+| [1873-calculate-special-bonus](https://github.com/g7xu/leetcode-practice/tree/main/1873-calculate-special-bonus/) | Easy |
 <!---LeetCode Topics End-->
