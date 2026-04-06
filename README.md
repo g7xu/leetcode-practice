@@ -396,6 +396,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0175-combine-two-tables](https://github.com/g7xu/leetcode-practice/tree/main/0175-combine-two-tables/) | Easy |
 | [0183-customers-who-never-order](https://github.com/g7xu/leetcode-practice/tree/main/0183-customers-who-never-order/) | Easy |
 | [1398-customers-who-bought-products-a-and-b-but-not-c](https://github.com/g7xu/leetcode-practice/tree/main/1398-customers-who-bought-products-a-and-b-but-not-c/) | Medium |
 | [1821-find-customers-with-positive-revenue-this-year](https://github.com/g7xu/leetcode-practice/tree/main/1821-find-customers-with-positive-revenue-this-year/) | Easy |
