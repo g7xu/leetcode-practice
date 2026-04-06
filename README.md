@@ -393,4 +393,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0604-design-compressed-string-iterator](https://github.com/g7xu/leetcode-practice/tree/main/0604-design-compressed-string-iterator/) | Easy |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1821-find-customers-with-positive-revenue-this-year](https://github.com/g7xu/leetcode-practice/tree/main/1821-find-customers-with-positive-revenue-this-year/) | Easy |
 <!---LeetCode Topics End-->
