@@ -1,3 +1,5 @@
+# classic DP problem
+
 class Solution:
     def minCostClimbingStairs(self, cost: List[int]) -> int:
         if len(cost) <= 1:
