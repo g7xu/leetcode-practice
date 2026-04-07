@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0033-search-in-rotated-sorted-array](https://github.com/g7xu/leetcode-practice/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0036-valid-sudoku](https://github.com/g7xu/leetcode-practice/tree/main/0036-valid-sudoku/) | Medium |
 | [0039-combination-sum](https://github.com/g7xu/leetcode-practice/tree/main/0039-combination-sum/) | Medium |
+| [0045-jump-game-ii](https://github.com/g7xu/leetcode-practice/tree/main/0045-jump-game-ii/) | Medium |
 | [0049-group-anagrams](https://github.com/g7xu/leetcode-practice/tree/main/0049-group-anagrams/) | Medium |
 | [0055-jump-game](https://github.com/g7xu/leetcode-practice/tree/main/0055-jump-game/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/g7xu/leetcode-practice/tree/main/0073-set-matrix-zeroes/) | Medium |
@@ -161,6 +162,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/g7xu/leetcode-practice/tree/main/0011-container-with-most-water/) | Medium |
+| [0045-jump-game-ii](https://github.com/g7xu/leetcode-practice/tree/main/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/g7xu/leetcode-practice/tree/main/0055-jump-game/) | Medium |
 | [0280-wiggle-sort](https://github.com/g7xu/leetcode-practice/tree/main/0280-wiggle-sort/) | Medium |
 | [0402-remove-k-digits](https://github.com/g7xu/leetcode-practice/tree/main/0402-remove-k-digits/) | Medium |
@@ -236,6 +238,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/g7xu/leetcode-practice/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0045-jump-game-ii](https://github.com/g7xu/leetcode-practice/tree/main/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/g7xu/leetcode-practice/tree/main/0055-jump-game/) | Medium |
 | [0091-decode-ways](https://github.com/g7xu/leetcode-practice/tree/main/0091-decode-ways/) | Medium |
 | [0096-unique-binary-search-trees](https://github.com/g7xu/leetcode-practice/tree/main/0096-unique-binary-search-trees/) | Medium |
