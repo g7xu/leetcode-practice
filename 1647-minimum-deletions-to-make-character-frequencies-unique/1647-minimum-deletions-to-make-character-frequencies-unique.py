@@ -1,6 +1,9 @@
 # [3, 3, 2]
 # [1, 1, 0, 0]
-          
+        
+
+# can be futher optimized withs set
+
 class Solution:
     def minDeletions(self, s: str) -> int:
         freq = Counter(s)
