@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0079-word-search](https://github.com/g7xu/leetcode-practice/tree/main/0079-word-search/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/g7xu/leetcode-practice/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0090-subsets-ii](https://github.com/g7xu/leetcode-practice/tree/main/0090-subsets-ii/) | Medium |
+| [0119-pascals-triangle-ii](https://github.com/g7xu/leetcode-practice/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/g7xu/leetcode-practice/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0130-surrounded-regions](https://github.com/g7xu/leetcode-practice/tree/main/0130-surrounded-regions/) | Medium |
 | [0136-single-number](https://github.com/g7xu/leetcode-practice/tree/main/0136-single-number/) | Easy |
@@ -279,6 +280,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0091-decode-ways](https://github.com/g7xu/leetcode-practice/tree/main/0091-decode-ways/) | Medium |
 | [0096-unique-binary-search-trees](https://github.com/g7xu/leetcode-practice/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0097-interleaving-string](https://github.com/g7xu/leetcode-practice/tree/main/0097-interleaving-string/) | Medium |
+| [0119-pascals-triangle-ii](https://github.com/g7xu/leetcode-practice/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/g7xu/leetcode-practice/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0139-word-break](https://github.com/g7xu/leetcode-practice/tree/main/0139-word-break/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/g7xu/leetcode-practice/tree/main/0152-maximum-product-subarray/) | Medium |
