@@ -28,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0204-count-primes](https://github.com/g7xu/leetcode-practice/tree/main/0204-count-primes/) | Medium |
 | [0217-contains-duplicate](https://github.com/g7xu/leetcode-practice/tree/main/0217-contains-duplicate/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/g7xu/leetcode-practice/tree/main/0238-product-of-array-except-self/) | Medium |
+| [0253-meeting-rooms-ii](https://github.com/g7xu/leetcode-practice/tree/main/0253-meeting-rooms-ii/) | Medium |
 | [0271-encode-and-decode-strings](https://github.com/g7xu/leetcode-practice/tree/main/0271-encode-and-decode-strings/) | Medium |
 | [0280-wiggle-sort](https://github.com/g7xu/leetcode-practice/tree/main/0280-wiggle-sort/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/g7xu/leetcode-practice/tree/main/0300-longest-increasing-subsequence/) | Medium |
@@ -187,6 +188,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0011-container-with-most-water](https://github.com/g7xu/leetcode-practice/tree/main/0011-container-with-most-water/) | Medium |
 | [0045-jump-game-ii](https://github.com/g7xu/leetcode-practice/tree/main/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/g7xu/leetcode-practice/tree/main/0055-jump-game/) | Medium |
+| [0253-meeting-rooms-ii](https://github.com/g7xu/leetcode-practice/tree/main/0253-meeting-rooms-ii/) | Medium |
 | [0280-wiggle-sort](https://github.com/g7xu/leetcode-practice/tree/main/0280-wiggle-sort/) | Medium |
 | [0402-remove-k-digits](https://github.com/g7xu/leetcode-practice/tree/main/0402-remove-k-digits/) | Medium |
 | [0646-maximum-length-of-pair-chain](https://github.com/g7xu/leetcode-practice/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
@@ -205,6 +207,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/g7xu/leetcode-practice/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/g7xu/leetcode-practice/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/g7xu/leetcode-practice/tree/main/0242-valid-anagram/) | Easy |
+| [0253-meeting-rooms-ii](https://github.com/g7xu/leetcode-practice/tree/main/0253-meeting-rooms-ii/) | Medium |
 | [0280-wiggle-sort](https://github.com/g7xu/leetcode-practice/tree/main/0280-wiggle-sort/) | Medium |
 | [0645-set-mismatch](https://github.com/g7xu/leetcode-practice/tree/main/0645-set-mismatch/) | Easy |
 | [0646-maximum-length-of-pair-chain](https://github.com/g7xu/leetcode-practice/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
@@ -223,6 +226,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0253-meeting-rooms-ii](https://github.com/g7xu/leetcode-practice/tree/main/0253-meeting-rooms-ii/) | Medium |
 | [0743-network-delay-time](https://github.com/g7xu/leetcode-practice/tree/main/0743-network-delay-time/) | Medium |
 | [0767-reorganize-string](https://github.com/g7xu/leetcode-practice/tree/main/0767-reorganize-string/) | Medium |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/g7xu/leetcode-practice/tree/main/1985-find-the-kth-largest-integer-in-the-array/) | Medium |
@@ -243,6 +247,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0142-linked-list-cycle-ii](https://github.com/g7xu/leetcode-practice/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/g7xu/leetcode-practice/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0161-one-edit-distance](https://github.com/g7xu/leetcode-practice/tree/main/0161-one-edit-distance/) | Medium |
+| [0253-meeting-rooms-ii](https://github.com/g7xu/leetcode-practice/tree/main/0253-meeting-rooms-ii/) | Medium |
 | [0392-is-subsequence](https://github.com/g7xu/leetcode-practice/tree/main/0392-is-subsequence/) | Easy |
 | [0557-reverse-words-in-a-string-iii](https://github.com/g7xu/leetcode-practice/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 | [0567-permutation-in-string](https://github.com/g7xu/leetcode-practice/tree/main/0567-permutation-in-string/) | Medium |
@@ -456,6 +461,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/g7xu/leetcode-practice/tree/main/0238-product-of-array-except-self/) | Medium |
+| [0253-meeting-rooms-ii](https://github.com/g7xu/leetcode-practice/tree/main/0253-meeting-rooms-ii/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/g7xu/leetcode-practice/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/g7xu/leetcode-practice/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 ## Quickselect
