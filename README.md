@@ -310,6 +310,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0138-copy-list-with-random-pointer](https://github.com/g7xu/leetcode-practice/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [0142-linked-list-cycle-ii](https://github.com/g7xu/leetcode-practice/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0146-lru-cache](https://github.com/g7xu/leetcode-practice/tree/main/0146-lru-cache/) | Medium |
+| [1669-merge-in-between-linked-lists](https://github.com/g7xu/leetcode-practice/tree/main/1669-merge-in-between-linked-lists/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
