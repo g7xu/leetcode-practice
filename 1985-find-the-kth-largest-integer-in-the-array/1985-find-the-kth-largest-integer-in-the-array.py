@@ -1,24 +1,22 @@
-# logic 
-# minHeap of length k, convert nums to int
+from heapq import heapify, heappush, heappop
 
-from heapq import heappop, heappush
+class Num:
+    def __init__(self, s):
+        self.s = s
 
-class Solution(object):
-    def kthLargestNumber(self, nums, k):
-        """
-        :type nums: List[str]
-        :type k: int
-        :rtype: str
-        """
-        minheap = []
+    def __lt__(self, other):
+        if len(self.s) != len(other.s):
+            return len(self.s) < len(other.s)
+        
+        return int(self.s) < int(other.s)
 
+class Solution:
+    def kthLargestNumber(self, nums: List[str], k: int) -> str:
+        minHeap = []
+        
         for num in nums:
-            num = int(num)
+            heappush(minHeap, Num(num))
+            if len(minHeap) > k:
+                heappop(minHeap)
 
-            if len(minheap) < k:
-                heappush(minheap, num)
-            elif minheap[0] < num:
-                heappush(minheap, num)
-                heappop(minheap)
-
-        return str(minheap[0])
+        return minHeap[0].s
