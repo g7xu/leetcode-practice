@@ -35,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0271-encode-and-decode-strings](https://github.com/g7xu/leetcode-practice/tree/main/0271-encode-and-decode-strings/) | Medium |
 | [0280-wiggle-sort](https://github.com/g7xu/leetcode-practice/tree/main/0280-wiggle-sort/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/g7xu/leetcode-practice/tree/main/0300-longest-increasing-subsequence/) | Medium |
+| [0346-moving-average-from-data-stream](https://github.com/g7xu/leetcode-practice/tree/main/0346-moving-average-from-data-stream/) | Easy |
 | [0362-design-hit-counter](https://github.com/g7xu/leetcode-practice/tree/main/0362-design-hit-counter/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/g7xu/leetcode-practice/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0422-valid-word-square](https://github.com/g7xu/leetcode-practice/tree/main/0422-valid-word-square/) | Easy |
@@ -334,6 +335,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0155-min-stack](https://github.com/g7xu/leetcode-practice/tree/main/0155-min-stack/) | Medium |
 | [0271-encode-and-decode-strings](https://github.com/g7xu/leetcode-practice/tree/main/0271-encode-and-decode-strings/) | Medium |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/g7xu/leetcode-practice/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
+| [0346-moving-average-from-data-stream](https://github.com/g7xu/leetcode-practice/tree/main/0346-moving-average-from-data-stream/) | Easy |
 | [0359-logger-rate-limiter](https://github.com/g7xu/leetcode-practice/tree/main/0359-logger-rate-limiter/) | Easy |
 | [0362-design-hit-counter](https://github.com/g7xu/leetcode-practice/tree/main/0362-design-hit-counter/) | Medium |
 | [0604-design-compressed-string-iterator](https://github.com/g7xu/leetcode-practice/tree/main/0604-design-compressed-string-iterator/) | Easy |
@@ -413,6 +415,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0346-moving-average-from-data-stream](https://github.com/g7xu/leetcode-practice/tree/main/0346-moving-average-from-data-stream/) | Easy |
 | [0362-design-hit-counter](https://github.com/g7xu/leetcode-practice/tree/main/0362-design-hit-counter/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/g7xu/leetcode-practice/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/g7xu/leetcode-practice/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
@@ -450,6 +453,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Data Stream
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0346-moving-average-from-data-stream](https://github.com/g7xu/leetcode-practice/tree/main/0346-moving-average-from-data-stream/) | Easy |
 | [0359-logger-rate-limiter](https://github.com/g7xu/leetcode-practice/tree/main/0359-logger-rate-limiter/) | Easy |
 | [0362-design-hit-counter](https://github.com/g7xu/leetcode-practice/tree/main/0362-design-hit-counter/) | Medium |
 ## Monotonic Stack
