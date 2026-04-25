@@ -156,6 +156,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0020-valid-parentheses](https://github.com/g7xu/leetcode-practice/tree/main/0020-valid-parentheses/) | Easy |
 | [0049-group-anagrams](https://github.com/g7xu/leetcode-practice/tree/main/0049-group-anagrams/) | Medium |
 | [0058-length-of-last-word](https://github.com/g7xu/leetcode-practice/tree/main/0058-length-of-last-word/) | Easy |
+| [0071-simplify-path](https://github.com/g7xu/leetcode-practice/tree/main/0071-simplify-path/) | Medium |
 | [0076-minimum-window-substring](https://github.com/g7xu/leetcode-practice/tree/main/0076-minimum-window-substring/) | Hard |
 | [0079-word-search](https://github.com/g7xu/leetcode-practice/tree/main/0079-word-search/) | Medium |
 | [0091-decode-ways](https://github.com/g7xu/leetcode-practice/tree/main/0091-decode-ways/) | Medium |
@@ -323,6 +324,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/g7xu/leetcode-practice/tree/main/0020-valid-parentheses/) | Easy |
+| [0071-simplify-path](https://github.com/g7xu/leetcode-practice/tree/main/0071-simplify-path/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/g7xu/leetcode-practice/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0155-min-stack](https://github.com/g7xu/leetcode-practice/tree/main/0155-min-stack/) | Medium |
 | [0402-remove-k-digits](https://github.com/g7xu/leetcode-practice/tree/main/0402-remove-k-digits/) | Medium |
