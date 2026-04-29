@@ -107,6 +107,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0767-reorganize-string](https://github.com/g7xu/leetcode-practice/tree/main/0767-reorganize-string/) | Medium |
 | [0846-hand-of-straights](https://github.com/g7xu/leetcode-practice/tree/main/0846-hand-of-straights/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/g7xu/leetcode-practice/tree/main/0904-fruit-into-baskets/) | Medium |
+| [1100-find-k-length-substrings-with-no-repeated-characters](https://github.com/g7xu/leetcode-practice/tree/main/1100-find-k-length-substrings-with-no-repeated-characters/) | Medium |
 | [1133-largest-unique-number](https://github.com/g7xu/leetcode-practice/tree/main/1133-largest-unique-number/) | Easy |
 | [1165-single-row-keyboard](https://github.com/g7xu/leetcode-practice/tree/main/1165-single-row-keyboard/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/g7xu/leetcode-practice/tree/main/1189-maximum-number-of-balloons/) | Easy |
@@ -127,6 +128,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0567-permutation-in-string](https://github.com/g7xu/leetcode-practice/tree/main/0567-permutation-in-string/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/g7xu/leetcode-practice/tree/main/0904-fruit-into-baskets/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/g7xu/leetcode-practice/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [1100-find-k-length-substrings-with-no-repeated-characters](https://github.com/g7xu/leetcode-practice/tree/main/1100-find-k-length-substrings-with-no-repeated-characters/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -178,6 +180,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0734-sentence-similarity](https://github.com/g7xu/leetcode-practice/tree/main/0734-sentence-similarity/) | Easy |
 | [0752-open-the-lock](https://github.com/g7xu/leetcode-practice/tree/main/0752-open-the-lock/) | Medium |
 | [0767-reorganize-string](https://github.com/g7xu/leetcode-practice/tree/main/0767-reorganize-string/) | Medium |
+| [1100-find-k-length-substrings-with-no-repeated-characters](https://github.com/g7xu/leetcode-practice/tree/main/1100-find-k-length-substrings-with-no-repeated-characters/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/g7xu/leetcode-practice/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1165-single-row-keyboard](https://github.com/g7xu/leetcode-practice/tree/main/1165-single-row-keyboard/) | Easy |
 | [1180-count-substrings-with-only-one-distinct-letter](https://github.com/g7xu/leetcode-practice/tree/main/1180-count-substrings-with-only-one-distinct-letter/) | Easy |
