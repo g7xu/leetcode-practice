@@ -21,6 +21,7 @@ from collections import deque, defaultdict
 class Solution:
     def pushDominoes(self, dominoes: str) -> str:
         queue = deque([])
+        dominoes = list(dominoes)
         for idx in range(len(dominoes)):
             if dominoes[idx] != '.':
                 if dominoes[idx] == 'L':
@@ -42,14 +43,14 @@ class Solution:
                 if 'L' in dirList and 'R' in dirList:
                     continue
 
-                dominoes = dominoes[:idx] + dirList[0] + dominoes[idx + 1:]
+                dominoes[idx] = dirList[0]
 
                 if dirList[0] == 'R':
                     queue.append((idx + 1, 'R'))
                 else:
                     queue.append((idx - 1, 'L'))
 
-        return dominoes
+        return "".join(dominoes)
 
 
 
