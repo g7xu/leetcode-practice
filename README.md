@@ -114,6 +114,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1426-counting-elements](https://github.com/g7xu/leetcode-practice/tree/main/1426-counting-elements/) | Easy |
 | [1436-destination-city](https://github.com/g7xu/leetcode-practice/tree/main/1436-destination-city/) | Easy |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/g7xu/leetcode-practice/tree/main/1647-minimum-deletions-to-make-character-frequencies-unique/) | Medium |
+| [1857-largest-color-value-in-a-directed-graph](https://github.com/g7xu/leetcode-practice/tree/main/1857-largest-color-value-in-a-directed-graph/) | Hard |
 | [1980-find-unique-binary-string](https://github.com/g7xu/leetcode-practice/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/g7xu/leetcode-practice/tree/main/2341-maximum-number-of-pairs-in-array/) | Easy |
 | [2365-task-scheduler-ii](https://github.com/g7xu/leetcode-practice/tree/main/2365-task-scheduler-ii/) | Medium |
@@ -189,6 +190,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1427-perform-string-shifts](https://github.com/g7xu/leetcode-practice/tree/main/1427-perform-string-shifts/) | Easy |
 | [1436-destination-city](https://github.com/g7xu/leetcode-practice/tree/main/1436-destination-city/) | Easy |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/g7xu/leetcode-practice/tree/main/1647-minimum-deletions-to-make-character-frequencies-unique/) | Medium |
+| [1857-largest-color-value-in-a-directed-graph](https://github.com/g7xu/leetcode-practice/tree/main/1857-largest-color-value-in-a-directed-graph/) | Hard |
 | [1980-find-unique-binary-string](https://github.com/g7xu/leetcode-practice/tree/main/1980-find-unique-binary-string/) | Medium |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/g7xu/leetcode-practice/tree/main/1985-find-the-kth-largest-integer-in-the-array/) | Medium |
 | [2405-optimal-partition-of-string](https://github.com/g7xu/leetcode-practice/tree/main/2405-optimal-partition-of-string/) | Medium |
@@ -255,6 +257,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0383-ransom-note](https://github.com/g7xu/leetcode-practice/tree/main/0383-ransom-note/) | Easy |
 | [0767-reorganize-string](https://github.com/g7xu/leetcode-practice/tree/main/0767-reorganize-string/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/g7xu/leetcode-practice/tree/main/1189-maximum-number-of-balloons/) | Easy |
+| [1857-largest-color-value-in-a-directed-graph](https://github.com/g7xu/leetcode-practice/tree/main/1857-largest-color-value-in-a-directed-graph/) | Hard |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/g7xu/leetcode-practice/tree/main/2341-maximum-number-of-pairs-in-array/) | Easy |
 | [3223-minimum-length-of-string-after-operations](https://github.com/g7xu/leetcode-practice/tree/main/3223-minimum-length-of-string-after-operations/) | Medium |
 ## Two Pointers
@@ -316,6 +319,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0918-maximum-sum-circular-subarray](https://github.com/g7xu/leetcode-practice/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/g7xu/leetcode-practice/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/g7xu/leetcode-practice/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
+| [1857-largest-color-value-in-a-directed-graph](https://github.com/g7xu/leetcode-practice/tree/main/1857-largest-color-value-in-a-directed-graph/) | Hard |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -401,6 +405,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/g7xu/leetcode-practice/tree/main/0323-number-of-connected-components-in-an-undirected-graph/) | Medium |
 | [0743-network-delay-time](https://github.com/g7xu/leetcode-practice/tree/main/0743-network-delay-time/) | Medium |
 | [1462-course-schedule-iv](https://github.com/g7xu/leetcode-practice/tree/main/1462-course-schedule-iv/) | Medium |
+| [1857-largest-color-value-in-a-directed-graph](https://github.com/g7xu/leetcode-practice/tree/main/1857-largest-color-value-in-a-directed-graph/) | Hard |
 ## Shortest Path
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -483,6 +488,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0210-course-schedule-ii](https://github.com/g7xu/leetcode-practice/tree/main/0210-course-schedule-ii/) | Medium |
 | [1462-course-schedule-iv](https://github.com/g7xu/leetcode-practice/tree/main/1462-course-schedule-iv/) | Medium |
+| [1857-largest-color-value-in-a-directed-graph](https://github.com/g7xu/leetcode-practice/tree/main/1857-largest-color-value-in-a-directed-graph/) | Hard |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -540,6 +546,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0139-word-break](https://github.com/g7xu/leetcode-practice/tree/main/0139-word-break/) | Medium |
+| [1857-largest-color-value-in-a-directed-graph](https://github.com/g7xu/leetcode-practice/tree/main/1857-largest-color-value-in-a-directed-graph/) | Hard |
 ## Monotonic Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
