@@ -11,19 +11,22 @@ class Solution:
     def mincostTickets(self, days: List[int], costs: List[int]) -> int:
 
         @cache
-        def helper(p, end):
+        def helper(p):
             if p >= len(days):
                 return 0
 
-            if days[p] <= end:
-                return helper(p+1, end)
-
+            
             res = []
             for day_pass, cost in zip([1, 7, 30], costs):
-                res.append(cost + helper(p + 1, days[p] + day_pass - 1))
+                end = days[p] + day_pass - 1
+                np = p
+                while np < len(days) and days[np] <= end:
+                    np += 1
+
+                res.append(cost + helper(np))
 
             return min(res)
 
-        return helper(0, 0)
+        return helper(0)
 
             
