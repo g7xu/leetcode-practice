@@ -57,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0905-sort-array-by-parity](https://github.com/g7xu/leetcode-practice/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0918-maximum-sum-circular-subarray](https://github.com/g7xu/leetcode-practice/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/g7xu/leetcode-practice/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [0983-minimum-cost-for-tickets](https://github.com/g7xu/leetcode-practice/tree/main/0983-minimum-cost-for-tickets/) | Medium |
 | [0994-rotting-oranges](https://github.com/g7xu/leetcode-practice/tree/main/0994-rotting-oranges/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/g7xu/leetcode-practice/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1133-largest-unique-number](https://github.com/g7xu/leetcode-practice/tree/main/1133-largest-unique-number/) | Easy |
@@ -326,6 +327,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0746-min-cost-climbing-stairs](https://github.com/g7xu/leetcode-practice/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0838-push-dominoes](https://github.com/g7xu/leetcode-practice/tree/main/0838-push-dominoes/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/g7xu/leetcode-practice/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
+| [0983-minimum-cost-for-tickets](https://github.com/g7xu/leetcode-practice/tree/main/0983-minimum-cost-for-tickets/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/g7xu/leetcode-practice/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/g7xu/leetcode-practice/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/g7xu/leetcode-practice/tree/main/1857-largest-color-value-in-a-directed-graph/) | Hard |
