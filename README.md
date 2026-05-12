@@ -93,6 +93,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0142-linked-list-cycle-ii](https://github.com/g7xu/leetcode-practice/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0146-lru-cache](https://github.com/g7xu/leetcode-practice/tree/main/0146-lru-cache/) | Medium |
 | [0169-majority-element](https://github.com/g7xu/leetcode-practice/tree/main/0169-majority-element/) | Easy |
+| [0205-isomorphic-strings](https://github.com/g7xu/leetcode-practice/tree/main/0205-isomorphic-strings/) | Easy |
 | [0217-contains-duplicate](https://github.com/g7xu/leetcode-practice/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/g7xu/leetcode-practice/tree/main/0242-valid-anagram/) | Easy |
 | [0266-palindrome-permutation](https://github.com/g7xu/leetcode-practice/tree/main/0266-palindrome-permutation/) | Easy |
@@ -170,6 +171,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0139-word-break](https://github.com/g7xu/leetcode-practice/tree/main/0139-word-break/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/g7xu/leetcode-practice/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0161-one-edit-distance](https://github.com/g7xu/leetcode-practice/tree/main/0161-one-edit-distance/) | Medium |
+| [0205-isomorphic-strings](https://github.com/g7xu/leetcode-practice/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/g7xu/leetcode-practice/tree/main/0242-valid-anagram/) | Easy |
 | [0266-palindrome-permutation](https://github.com/g7xu/leetcode-practice/tree/main/0266-palindrome-permutation/) | Easy |
 | [0271-encode-and-decode-strings](https://github.com/g7xu/leetcode-practice/tree/main/0271-encode-and-decode-strings/) | Medium |
