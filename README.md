@@ -75,6 +75,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1929-concatenation-of-array](https://github.com/g7xu/leetcode-practice/tree/main/1929-concatenation-of-array/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/g7xu/leetcode-practice/tree/main/1980-find-unique-binary-string/) | Medium |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/g7xu/leetcode-practice/tree/main/1985-find-the-kth-largest-integer-in-the-array/) | Medium |
+| [2326-spiral-matrix-iv](https://github.com/g7xu/leetcode-practice/tree/main/2326-spiral-matrix-iv/) | Medium |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/g7xu/leetcode-practice/tree/main/2341-maximum-number-of-pairs-in-array/) | Easy |
 | [2365-task-scheduler-ii](https://github.com/g7xu/leetcode-practice/tree/main/2365-task-scheduler-ii/) | Medium |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/g7xu/leetcode-practice/tree/main/2491-divide-players-into-teams-of-equal-skill/) | Medium |
@@ -344,6 +345,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0142-linked-list-cycle-ii](https://github.com/g7xu/leetcode-practice/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0146-lru-cache](https://github.com/g7xu/leetcode-practice/tree/main/0146-lru-cache/) | Medium |
 | [1669-merge-in-between-linked-lists](https://github.com/g7xu/leetcode-practice/tree/main/1669-merge-in-between-linked-lists/) | Medium |
+| [2326-spiral-matrix-iv](https://github.com/g7xu/leetcode-practice/tree/main/2326-spiral-matrix-iv/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -440,6 +442,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1688-count-of-matches-in-tournament](https://github.com/g7xu/leetcode-practice/tree/main/1688-count-of-matches-in-tournament/) | Easy |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/g7xu/leetcode-practice/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [1929-concatenation-of-array](https://github.com/g7xu/leetcode-practice/tree/main/1929-concatenation-of-array/) | Easy |
+| [2326-spiral-matrix-iv](https://github.com/g7xu/leetcode-practice/tree/main/2326-spiral-matrix-iv/) | Medium |
 | [2365-task-scheduler-ii](https://github.com/g7xu/leetcode-practice/tree/main/2365-task-scheduler-ii/) | Medium |
 | [2553-separate-the-digits-in-an-array](https://github.com/g7xu/leetcode-practice/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/g7xu/leetcode-practice/tree/main/2696-minimum-string-length-after-removing-substrings/) | Easy |
@@ -518,6 +521,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0695-max-area-of-island](https://github.com/g7xu/leetcode-practice/tree/main/0695-max-area-of-island/) | Medium |
 | [0994-rotting-oranges](https://github.com/g7xu/leetcode-practice/tree/main/0994-rotting-oranges/) | Medium |
 | [1765-map-of-highest-peak](https://github.com/g7xu/leetcode-practice/tree/main/1765-map-of-highest-peak/) | Medium |
+| [2326-spiral-matrix-iv](https://github.com/g7xu/leetcode-practice/tree/main/2326-spiral-matrix-iv/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
