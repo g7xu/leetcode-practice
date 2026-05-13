@@ -114,6 +114,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0767-reorganize-string](https://github.com/g7xu/leetcode-practice/tree/main/0767-reorganize-string/) | Medium |
 | [0846-hand-of-straights](https://github.com/g7xu/leetcode-practice/tree/main/0846-hand-of-straights/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/g7xu/leetcode-practice/tree/main/0904-fruit-into-baskets/) | Medium |
+| [1079-letter-tile-possibilities](https://github.com/g7xu/leetcode-practice/tree/main/1079-letter-tile-possibilities/) | Medium |
 | [1100-find-k-length-substrings-with-no-repeated-characters](https://github.com/g7xu/leetcode-practice/tree/main/1100-find-k-length-substrings-with-no-repeated-characters/) | Medium |
 | [1133-largest-unique-number](https://github.com/g7xu/leetcode-practice/tree/main/1133-largest-unique-number/) | Easy |
 | [1165-single-row-keyboard](https://github.com/g7xu/leetcode-practice/tree/main/1165-single-row-keyboard/) | Easy |
@@ -193,6 +194,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0752-open-the-lock](https://github.com/g7xu/leetcode-practice/tree/main/0752-open-the-lock/) | Medium |
 | [0767-reorganize-string](https://github.com/g7xu/leetcode-practice/tree/main/0767-reorganize-string/) | Medium |
 | [0838-push-dominoes](https://github.com/g7xu/leetcode-practice/tree/main/0838-push-dominoes/) | Medium |
+| [1079-letter-tile-possibilities](https://github.com/g7xu/leetcode-practice/tree/main/1079-letter-tile-possibilities/) | Medium |
 | [1100-find-k-length-substrings-with-no-repeated-characters](https://github.com/g7xu/leetcode-practice/tree/main/1100-find-k-length-substrings-with-no-repeated-characters/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/g7xu/leetcode-practice/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1165-single-row-keyboard](https://github.com/g7xu/leetcode-practice/tree/main/1165-single-row-keyboard/) | Easy |
@@ -270,6 +272,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/g7xu/leetcode-practice/tree/main/0169-majority-element/) | Easy |
 | [0383-ransom-note](https://github.com/g7xu/leetcode-practice/tree/main/0383-ransom-note/) | Easy |
 | [0767-reorganize-string](https://github.com/g7xu/leetcode-practice/tree/main/0767-reorganize-string/) | Medium |
+| [1079-letter-tile-possibilities](https://github.com/g7xu/leetcode-practice/tree/main/1079-letter-tile-possibilities/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/g7xu/leetcode-practice/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/g7xu/leetcode-practice/tree/main/1857-largest-color-value-in-a-directed-graph/) | Hard |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/g7xu/leetcode-practice/tree/main/2341-maximum-number-of-pairs-in-array/) | Easy |
@@ -306,6 +309,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0039-combination-sum](https://github.com/g7xu/leetcode-practice/tree/main/0039-combination-sum/) | Medium |
 | [0079-word-search](https://github.com/g7xu/leetcode-practice/tree/main/0079-word-search/) | Medium |
 | [0090-subsets-ii](https://github.com/g7xu/leetcode-practice/tree/main/0090-subsets-ii/) | Medium |
+| [1079-letter-tile-possibilities](https://github.com/g7xu/leetcode-practice/tree/main/1079-letter-tile-possibilities/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/g7xu/leetcode-practice/tree/main/1980-find-unique-binary-string/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
