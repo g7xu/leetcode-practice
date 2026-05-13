@@ -206,6 +206,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/g7xu/leetcode-practice/tree/main/1857-largest-color-value-in-a-directed-graph/) | Hard |
 | [1980-find-unique-binary-string](https://github.com/g7xu/leetcode-practice/tree/main/1980-find-unique-binary-string/) | Medium |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/g7xu/leetcode-practice/tree/main/1985-find-the-kth-largest-integer-in-the-array/) | Medium |
+| [2375-construct-smallest-number-from-di-string](https://github.com/g7xu/leetcode-practice/tree/main/2375-construct-smallest-number-from-di-string/) | Medium |
 | [2405-optimal-partition-of-string](https://github.com/g7xu/leetcode-practice/tree/main/2405-optimal-partition-of-string/) | Medium |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/g7xu/leetcode-practice/tree/main/2696-minimum-string-length-after-removing-substrings/) | Easy |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/g7xu/leetcode-practice/tree/main/2839-check-if-strings-can-be-made-equal-with-operations-i/) | Easy |
@@ -228,6 +229,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/g7xu/leetcode-practice/tree/main/1647-minimum-deletions-to-make-character-frequencies-unique/) | Medium |
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/g7xu/leetcode-practice/tree/main/1899-merge-triplets-to-form-target-triplet/) | Medium |
 | [1921-eliminate-maximum-number-of-monsters](https://github.com/g7xu/leetcode-practice/tree/main/1921-eliminate-maximum-number-of-monsters/) | Medium |
+| [2375-construct-smallest-number-from-di-string](https://github.com/g7xu/leetcode-practice/tree/main/2375-construct-smallest-number-from-di-string/) | Medium |
 | [2405-optimal-partition-of-string](https://github.com/g7xu/leetcode-practice/tree/main/2405-optimal-partition-of-string/) | Medium |
 | [2530-maximal-score-after-applying-k-operations](https://github.com/g7xu/leetcode-practice/tree/main/2530-maximal-score-after-applying-k-operations/) | Medium |
 | [3572-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues](https://github.com/g7xu/leetcode-practice/tree/main/3572-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues/) | Medium |
@@ -311,6 +313,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0090-subsets-ii](https://github.com/g7xu/leetcode-practice/tree/main/0090-subsets-ii/) | Medium |
 | [1079-letter-tile-possibilities](https://github.com/g7xu/leetcode-practice/tree/main/1079-letter-tile-possibilities/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/g7xu/leetcode-practice/tree/main/1980-find-unique-binary-string/) | Medium |
+| [2375-construct-smallest-number-from-di-string](https://github.com/g7xu/leetcode-practice/tree/main/2375-construct-smallest-number-from-di-string/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -362,6 +365,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0739-daily-temperatures](https://github.com/g7xu/leetcode-practice/tree/main/0739-daily-temperatures/) | Medium |
 | [0853-car-fleet](https://github.com/g7xu/leetcode-practice/tree/main/0853-car-fleet/) | Medium |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/g7xu/leetcode-practice/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
+| [2375-construct-smallest-number-from-di-string](https://github.com/g7xu/leetcode-practice/tree/main/2375-construct-smallest-number-from-di-string/) | Medium |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/g7xu/leetcode-practice/tree/main/2696-minimum-string-length-after-removing-substrings/) | Easy |
 | [3174-clear-digits](https://github.com/g7xu/leetcode-practice/tree/main/3174-clear-digits/) | Easy |
 ## Design
