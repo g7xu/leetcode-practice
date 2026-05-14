@@ -404,6 +404,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/g7xu/leetcode-practice/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/g7xu/leetcode-practice/tree/main/0323-number-of-connected-components-in-an-undirected-graph/) | Medium |
 | [0437-path-sum-iii](https://github.com/g7xu/leetcode-practice/tree/main/0437-path-sum-iii/) | Medium |
+| [0547-number-of-provinces](https://github.com/g7xu/leetcode-practice/tree/main/0547-number-of-provinces/) | Medium |
 | [0582-kill-process](https://github.com/g7xu/leetcode-practice/tree/main/0582-kill-process/) | Medium |
 | [0695-max-area-of-island](https://github.com/g7xu/leetcode-practice/tree/main/0695-max-area-of-island/) | Medium |
 | [0743-network-delay-time](https://github.com/g7xu/leetcode-practice/tree/main/0743-network-delay-time/) | Medium |
@@ -419,6 +420,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0226-invert-binary-tree](https://github.com/g7xu/leetcode-practice/tree/main/0226-invert-binary-tree/) | Easy |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/g7xu/leetcode-practice/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/g7xu/leetcode-practice/tree/main/0323-number-of-connected-components-in-an-undirected-graph/) | Medium |
+| [0547-number-of-provinces](https://github.com/g7xu/leetcode-practice/tree/main/0547-number-of-provinces/) | Medium |
 | [0582-kill-process](https://github.com/g7xu/leetcode-practice/tree/main/0582-kill-process/) | Medium |
 | [0695-max-area-of-island](https://github.com/g7xu/leetcode-practice/tree/main/0695-max-area-of-island/) | Medium |
 | [0743-network-delay-time](https://github.com/g7xu/leetcode-practice/tree/main/0743-network-delay-time/) | Medium |
@@ -433,6 +435,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0210-course-schedule-ii](https://github.com/g7xu/leetcode-practice/tree/main/0210-course-schedule-ii/) | Medium |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/g7xu/leetcode-practice/tree/main/0323-number-of-connected-components-in-an-undirected-graph/) | Medium |
+| [0547-number-of-provinces](https://github.com/g7xu/leetcode-practice/tree/main/0547-number-of-provinces/) | Medium |
 | [0743-network-delay-time](https://github.com/g7xu/leetcode-practice/tree/main/0743-network-delay-time/) | Medium |
 | [1462-course-schedule-iv](https://github.com/g7xu/leetcode-practice/tree/main/1462-course-schedule-iv/) | Medium |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/g7xu/leetcode-practice/tree/main/1857-largest-color-value-in-a-directed-graph/) | Hard |
@@ -515,6 +518,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0130-surrounded-regions](https://github.com/g7xu/leetcode-practice/tree/main/0130-surrounded-regions/) | Medium |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/g7xu/leetcode-practice/tree/main/0323-number-of-connected-components-in-an-undirected-graph/) | Medium |
+| [0547-number-of-provinces](https://github.com/g7xu/leetcode-practice/tree/main/0547-number-of-provinces/) | Medium |
 | [0695-max-area-of-island](https://github.com/g7xu/leetcode-practice/tree/main/0695-max-area-of-island/) | Medium |
 ## Topological Sort
 | Problem Name | Difficulty |
