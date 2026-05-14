@@ -147,6 +147,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0002-add-two-numbers](https://github.com/g7xu/leetcode-practice/tree/main/0002-add-two-numbers/) | Medium |
 | [0012-integer-to-roman](https://github.com/g7xu/leetcode-practice/tree/main/0012-integer-to-roman/) | Medium |
 | [0050-powx-n](https://github.com/g7xu/leetcode-practice/tree/main/0050-powx-n/) | Medium |
+| [0062-unique-paths](https://github.com/g7xu/leetcode-practice/tree/main/0062-unique-paths/) | Medium |
 | [0096-unique-binary-search-trees](https://github.com/g7xu/leetcode-practice/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0204-count-primes](https://github.com/g7xu/leetcode-practice/tree/main/0204-count-primes/) | Medium |
 | [1056-confusing-number](https://github.com/g7xu/leetcode-practice/tree/main/1056-confusing-number/) | Easy |
@@ -323,6 +324,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0005-longest-palindromic-substring](https://github.com/g7xu/leetcode-practice/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0045-jump-game-ii](https://github.com/g7xu/leetcode-practice/tree/main/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/g7xu/leetcode-practice/tree/main/0055-jump-game/) | Medium |
+| [0062-unique-paths](https://github.com/g7xu/leetcode-practice/tree/main/0062-unique-paths/) | Medium |
 | [0091-decode-ways](https://github.com/g7xu/leetcode-practice/tree/main/0091-decode-ways/) | Medium |
 | [0096-unique-binary-search-trees](https://github.com/g7xu/leetcode-practice/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0097-interleaving-string](https://github.com/g7xu/leetcode-practice/tree/main/0097-interleaving-string/) | Medium |
@@ -583,4 +585,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/g7xu/leetcode-practice/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
+## Combinatorics
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0062-unique-paths](https://github.com/g7xu/leetcode-practice/tree/main/0062-unique-paths/) | Medium |
 <!---LeetCode Topics End-->
