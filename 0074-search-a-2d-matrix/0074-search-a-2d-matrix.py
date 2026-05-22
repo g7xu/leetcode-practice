@@ -14,12 +14,11 @@ class Solution:
             
 
             m = (l + r) // 2
-            
+            currrent = matrix[m // w][m % w]
 
-            
-            if matrix[m // w][m % w] == target:
+            if currrent == target:
                 return True
-            elif matrix[m // w][m % w] < target:
+            elif currrent < target:
                 l = m + 1
             else:
                 r = m - 1
