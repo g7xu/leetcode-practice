@@ -15,12 +15,11 @@ class Solution:
 
             m = (l + r) // 2
             
-            col = m % w
-            row = m // w
+
             
-            if matrix[row][col] == target:
+            if matrix[m // w][m % w] == target:
                 return True
-            elif matrix[row][col] < target:
+            elif matrix[m // w][m % w] < target:
                 l = m + 1
             else:
                 r = m - 1
