@@ -8,7 +8,9 @@ class Solution:
         l = 0
         r = h * w - 1
 
-        while r - l > 1:
+        while True:
+            if r - l <= 1:
+                return matrix[l // w][l % w] == target or matrix[r // w][r % w] == target
             
 
             m = (l + r) // 2
@@ -23,8 +25,4 @@ class Solution:
             else:
                 r = m - 1
 
-        if matrix[l // w][l % w] == target or matrix[r // w][r % w] == target:
-            return True
-
-        return False
 
