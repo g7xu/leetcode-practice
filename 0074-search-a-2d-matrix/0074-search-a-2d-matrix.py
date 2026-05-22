@@ -16,8 +16,6 @@ class Solution:
             col = m % w
             row = m // w
             
-
-            # print(matrix[r][c])
             if matrix[row][col] == target:
                 return True
             elif matrix[row][col] < target:
@@ -25,7 +23,6 @@ class Solution:
             else:
                 r = m - 1
 
-            print(l, r)
         if matrix[l // w][l % w] == target or matrix[r // w][r % w] == target:
             return True
 
