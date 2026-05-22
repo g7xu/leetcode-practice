@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0054-spiral-matrix](https://github.com/g7xu/leetcode-practice/tree/main/0054-spiral-matrix/) | Medium |
 | [0055-jump-game](https://github.com/g7xu/leetcode-practice/tree/main/0055-jump-game/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/g7xu/leetcode-practice/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [0074-search-a-2d-matrix](https://github.com/g7xu/leetcode-practice/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0079-word-search](https://github.com/g7xu/leetcode-practice/tree/main/0079-word-search/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/g7xu/leetcode-practice/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0090-subsets-ii](https://github.com/g7xu/leetcode-practice/tree/main/0090-subsets-ii/) | Medium |
@@ -308,6 +309,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/g7xu/leetcode-practice/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
+| [0074-search-a-2d-matrix](https://github.com/g7xu/leetcode-practice/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/g7xu/leetcode-practice/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/g7xu/leetcode-practice/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0362-design-hit-counter](https://github.com/g7xu/leetcode-practice/tree/main/0362-design-hit-counter/) | Medium |
@@ -536,6 +538,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0036-valid-sudoku](https://github.com/g7xu/leetcode-practice/tree/main/0036-valid-sudoku/) | Medium |
 | [0054-spiral-matrix](https://github.com/g7xu/leetcode-practice/tree/main/0054-spiral-matrix/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/g7xu/leetcode-practice/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [0074-search-a-2d-matrix](https://github.com/g7xu/leetcode-practice/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0079-word-search](https://github.com/g7xu/leetcode-practice/tree/main/0079-word-search/) | Medium |
 | [0130-surrounded-regions](https://github.com/g7xu/leetcode-practice/tree/main/0130-surrounded-regions/) | Medium |
 | [0422-valid-word-square](https://github.com/g7xu/leetcode-practice/tree/main/0422-valid-word-square/) | Easy |
