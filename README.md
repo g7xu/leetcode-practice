@@ -403,6 +403,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0079-word-search](https://github.com/g7xu/leetcode-practice/tree/main/0079-word-search/) | Medium |
+| [0098-validate-binary-search-tree](https://github.com/g7xu/leetcode-practice/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0110-balanced-binary-tree](https://github.com/g7xu/leetcode-practice/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/g7xu/leetcode-practice/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
 | [0130-surrounded-regions](https://github.com/g7xu/leetcode-practice/tree/main/0130-surrounded-regions/) | Medium |
@@ -483,6 +484,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0096-unique-binary-search-trees](https://github.com/g7xu/leetcode-practice/tree/main/0096-unique-binary-search-trees/) | Medium |
+| [0098-validate-binary-search-tree](https://github.com/g7xu/leetcode-practice/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0102-binary-tree-level-order-traversal](https://github.com/g7xu/leetcode-practice/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0110-balanced-binary-tree](https://github.com/g7xu/leetcode-practice/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/g7xu/leetcode-practice/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
@@ -497,10 +499,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0096-unique-binary-search-trees](https://github.com/g7xu/leetcode-practice/tree/main/0096-unique-binary-search-trees/) | Medium |
+| [0098-validate-binary-search-tree](https://github.com/g7xu/leetcode-practice/tree/main/0098-validate-binary-search-tree/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0096-unique-binary-search-trees](https://github.com/g7xu/leetcode-practice/tree/main/0096-unique-binary-search-trees/) | Medium |
+| [0098-validate-binary-search-tree](https://github.com/g7xu/leetcode-practice/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0102-binary-tree-level-order-traversal](https://github.com/g7xu/leetcode-practice/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0110-balanced-binary-tree](https://github.com/g7xu/leetcode-practice/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/g7xu/leetcode-practice/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
