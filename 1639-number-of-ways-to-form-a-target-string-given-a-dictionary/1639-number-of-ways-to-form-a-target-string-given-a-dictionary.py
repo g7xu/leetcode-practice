@@ -1,8 +1,3 @@
-
-
-# the hlper (i, k)
-# 
-
 from collections import defaultdict
 
 class Solution:
@@ -25,7 +20,5 @@ class Solution:
                 return helper(i, k + 1)
 
             return helper(i + 1, k + 1) * idx_set[k][target[i]] + helper(i, k + 1)
-
-            
 
         return helper(0, 0) % (10**9 + 7)
