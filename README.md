@@ -154,6 +154,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0012-integer-to-roman](https://github.com/g7xu/leetcode-practice/tree/main/0012-integer-to-roman/) | Medium |
 | [0050-powx-n](https://github.com/g7xu/leetcode-practice/tree/main/0050-powx-n/) | Medium |
 | [0062-unique-paths](https://github.com/g7xu/leetcode-practice/tree/main/0062-unique-paths/) | Medium |
+| [0070-climbing-stairs](https://github.com/g7xu/leetcode-practice/tree/main/0070-climbing-stairs/) | Easy |
 | [0096-unique-binary-search-trees](https://github.com/g7xu/leetcode-practice/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/g7xu/leetcode-practice/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0204-count-primes](https://github.com/g7xu/leetcode-practice/tree/main/0204-count-primes/) | Medium |
@@ -338,6 +339,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0053-maximum-subarray](https://github.com/g7xu/leetcode-practice/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/g7xu/leetcode-practice/tree/main/0055-jump-game/) | Medium |
 | [0062-unique-paths](https://github.com/g7xu/leetcode-practice/tree/main/0062-unique-paths/) | Medium |
+| [0070-climbing-stairs](https://github.com/g7xu/leetcode-practice/tree/main/0070-climbing-stairs/) | Easy |
 | [0091-decode-ways](https://github.com/g7xu/leetcode-practice/tree/main/0091-decode-ways/) | Medium |
 | [0096-unique-binary-search-trees](https://github.com/g7xu/leetcode-practice/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0097-interleaving-string](https://github.com/g7xu/leetcode-practice/tree/main/0097-interleaving-string/) | Medium |
@@ -610,6 +612,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0070-climbing-stairs](https://github.com/g7xu/leetcode-practice/tree/main/0070-climbing-stairs/) | Easy |
 | [0139-word-break](https://github.com/g7xu/leetcode-practice/tree/main/0139-word-break/) | Medium |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/g7xu/leetcode-practice/tree/main/1857-largest-color-value-in-a-directed-graph/) | Hard |
 ## Monotonic Queue
