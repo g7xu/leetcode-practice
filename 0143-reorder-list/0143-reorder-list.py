@@ -14,7 +14,7 @@ class Solution:
         """
         Do not return anything, modify head in-place instead.
         """
-        s, f = head, head.next
+        s, f = head, head
         while f and f.next:
             s = s.next
             f = f.next.next
