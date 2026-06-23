@@ -101,6 +101,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0076-minimum-window-substring](https://github.com/g7xu/leetcode-practice/tree/main/0076-minimum-window-substring/) | Hard |
 | [0138-copy-list-with-random-pointer](https://github.com/g7xu/leetcode-practice/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [0139-word-break](https://github.com/g7xu/leetcode-practice/tree/main/0139-word-break/) | Medium |
+| [0141-linked-list-cycle](https://github.com/g7xu/leetcode-practice/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/g7xu/leetcode-practice/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0146-lru-cache](https://github.com/g7xu/leetcode-practice/tree/main/0146-lru-cache/) | Medium |
 | [0169-majority-element](https://github.com/g7xu/leetcode-practice/tree/main/0169-majority-element/) | Easy |
@@ -301,6 +302,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0011-container-with-most-water](https://github.com/g7xu/leetcode-practice/tree/main/0011-container-with-most-water/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/g7xu/leetcode-practice/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/g7xu/leetcode-practice/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
+| [0141-linked-list-cycle](https://github.com/g7xu/leetcode-practice/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/g7xu/leetcode-practice/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0143-reorder-list](https://github.com/g7xu/leetcode-practice/tree/main/0143-reorder-list/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/g7xu/leetcode-practice/tree/main/0151-reverse-words-in-a-string/) | Medium |
@@ -374,6 +376,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0021-merge-two-sorted-lists](https://github.com/g7xu/leetcode-practice/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/g7xu/leetcode-practice/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
 | [0138-copy-list-with-random-pointer](https://github.com/g7xu/leetcode-practice/tree/main/0138-copy-list-with-random-pointer/) | Medium |
+| [0141-linked-list-cycle](https://github.com/g7xu/leetcode-practice/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/g7xu/leetcode-practice/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0143-reorder-list](https://github.com/g7xu/leetcode-practice/tree/main/0143-reorder-list/) | Medium |
 | [0146-lru-cache](https://github.com/g7xu/leetcode-practice/tree/main/0146-lru-cache/) | Medium |
