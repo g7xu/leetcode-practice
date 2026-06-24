@@ -28,7 +28,6 @@ class Solution:
 
                 first += 1
 
-            print(nums, a, b)
             return
 
         helper(nums, 0, len(nums) - 1)
