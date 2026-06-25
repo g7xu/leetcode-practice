@@ -8,6 +8,6 @@ class Solution:
         gap = abs(min_percentage - hr_percentage)
         angle_one = gap * 360
 
-        print(min(angle_one, 360 - angle_one))
+        
         return min(angle_one, 360 - angle_one)
         
