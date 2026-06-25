@@ -7,17 +7,12 @@ class Solution:
 
         res = 0
         while head <= tail:
-            if people[tail] + people[head] > limit:
-                res += 1
-                tail -= 1
-            else:
-                res += 1
-                tail -= 1
+            res += 1
+            if people[tail] + people[head] <= limit:    
                 head += 1
+            tail -= 1
+                
 
-
-        if head == tail:
-            return res + 1 
 
         return res
             
