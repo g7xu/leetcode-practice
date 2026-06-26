@@ -165,6 +165,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0012-integer-to-roman](https://github.com/g7xu/leetcode-practice/tree/main/0012-integer-to-roman/) | Medium |
 | [0050-powx-n](https://github.com/g7xu/leetcode-practice/tree/main/0050-powx-n/) | Medium |
 | [0062-unique-paths](https://github.com/g7xu/leetcode-practice/tree/main/0062-unique-paths/) | Medium |
+| [0069-sqrtx](https://github.com/g7xu/leetcode-practice/tree/main/0069-sqrtx/) | Easy |
 | [0070-climbing-stairs](https://github.com/g7xu/leetcode-practice/tree/main/0070-climbing-stairs/) | Easy |
 | [0096-unique-binary-search-trees](https://github.com/g7xu/leetcode-practice/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/g7xu/leetcode-practice/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
@@ -341,6 +342,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/g7xu/leetcode-practice/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
+| [0069-sqrtx](https://github.com/g7xu/leetcode-practice/tree/main/0069-sqrtx/) | Easy |
 | [0074-search-a-2d-matrix](https://github.com/g7xu/leetcode-practice/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/g7xu/leetcode-practice/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/g7xu/leetcode-practice/tree/main/0287-find-the-duplicate-number/) | Medium |
