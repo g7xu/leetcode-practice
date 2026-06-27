@@ -138,6 +138,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1189-maximum-number-of-balloons](https://github.com/g7xu/leetcode-practice/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1426-counting-elements](https://github.com/g7xu/leetcode-practice/tree/main/1426-counting-elements/) | Easy |
 | [1436-destination-city](https://github.com/g7xu/leetcode-practice/tree/main/1436-destination-city/) | Easy |
+| [1496-path-crossing](https://github.com/g7xu/leetcode-practice/tree/main/1496-path-crossing/) | Easy |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/g7xu/leetcode-practice/tree/main/1647-minimum-deletions-to-make-character-frequencies-unique/) | Medium |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/g7xu/leetcode-practice/tree/main/1857-largest-color-value-in-a-directed-graph/) | Hard |
 | [1980-find-unique-binary-string](https://github.com/g7xu/leetcode-practice/tree/main/1980-find-unique-binary-string/) | Medium |
@@ -228,6 +229,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1189-maximum-number-of-balloons](https://github.com/g7xu/leetcode-practice/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1427-perform-string-shifts](https://github.com/g7xu/leetcode-practice/tree/main/1427-perform-string-shifts/) | Easy |
 | [1436-destination-city](https://github.com/g7xu/leetcode-practice/tree/main/1436-destination-city/) | Easy |
+| [1496-path-crossing](https://github.com/g7xu/leetcode-practice/tree/main/1496-path-crossing/) | Easy |
 | [1639-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/g7xu/leetcode-practice/tree/main/1639-number-of-ways-to-form-a-target-string-given-a-dictionary/) | Hard |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/g7xu/leetcode-practice/tree/main/1647-minimum-deletions-to-make-character-frequencies-unique/) | Medium |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/g7xu/leetcode-practice/tree/main/1857-largest-color-value-in-a-directed-graph/) | Hard |
