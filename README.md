@@ -231,6 +231,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0752-open-the-lock](https://github.com/g7xu/leetcode-practice/tree/main/0752-open-the-lock/) | Medium |
 | [0767-reorganize-string](https://github.com/g7xu/leetcode-practice/tree/main/0767-reorganize-string/) | Medium |
 | [0838-push-dominoes](https://github.com/g7xu/leetcode-practice/tree/main/0838-push-dominoes/) | Medium |
+| [1055-shortest-way-to-form-string](https://github.com/g7xu/leetcode-practice/tree/main/1055-shortest-way-to-form-string/) | Medium |
 | [1079-letter-tile-possibilities](https://github.com/g7xu/leetcode-practice/tree/main/1079-letter-tile-possibilities/) | Medium |
 | [1100-find-k-length-substrings-with-no-repeated-characters](https://github.com/g7xu/leetcode-practice/tree/main/1100-find-k-length-substrings-with-no-repeated-characters/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/g7xu/leetcode-practice/tree/main/1143-longest-common-subsequence/) | Medium |
@@ -270,6 +271,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0767-reorganize-string](https://github.com/g7xu/leetcode-practice/tree/main/0767-reorganize-string/) | Medium |
 | [0846-hand-of-straights](https://github.com/g7xu/leetcode-practice/tree/main/0846-hand-of-straights/) | Medium |
 | [0881-boats-to-save-people](https://github.com/g7xu/leetcode-practice/tree/main/0881-boats-to-save-people/) | Medium |
+| [1055-shortest-way-to-form-string](https://github.com/g7xu/leetcode-practice/tree/main/1055-shortest-way-to-form-string/) | Medium |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/g7xu/leetcode-practice/tree/main/1647-minimum-deletions-to-make-character-frequencies-unique/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/g7xu/leetcode-practice/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/g7xu/leetcode-practice/tree/main/1899-merge-triplets-to-form-target-triplet/) | Medium |
@@ -354,6 +356,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0881-boats-to-save-people](https://github.com/g7xu/leetcode-practice/tree/main/0881-boats-to-save-people/) | Medium |
 | [0905-sort-array-by-parity](https://github.com/g7xu/leetcode-practice/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/g7xu/leetcode-practice/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [1055-shortest-way-to-form-string](https://github.com/g7xu/leetcode-practice/tree/main/1055-shortest-way-to-form-string/) | Medium |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/g7xu/leetcode-practice/tree/main/2300-successful-pairs-of-spells-and-potions/) | Medium |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/g7xu/leetcode-practice/tree/main/2491-divide-players-into-teams-of-equal-skill/) | Medium |
 | [3667-sort-array-by-absolute-value](https://github.com/g7xu/leetcode-practice/tree/main/3667-sort-array-by-absolute-value/) | Easy |
@@ -369,6 +372,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0362-design-hit-counter](https://github.com/g7xu/leetcode-practice/tree/main/0362-design-hit-counter/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/g7xu/leetcode-practice/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/g7xu/leetcode-practice/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [1055-shortest-way-to-form-string](https://github.com/g7xu/leetcode-practice/tree/main/1055-shortest-way-to-form-string/) | Medium |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/g7xu/leetcode-practice/tree/main/2300-successful-pairs-of-spells-and-potions/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
