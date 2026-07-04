@@ -74,6 +74,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1004-max-consecutive-ones-iii](https://github.com/g7xu/leetcode-practice/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1122-relative-sort-array](https://github.com/g7xu/leetcode-practice/tree/main/1122-relative-sort-array/) | Easy |
 | [1133-largest-unique-number](https://github.com/g7xu/leetcode-practice/tree/main/1133-largest-unique-number/) | Easy |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/g7xu/leetcode-practice/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
 | [1243-array-transformation](https://github.com/g7xu/leetcode-practice/tree/main/1243-array-transformation/) | Easy |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/g7xu/leetcode-practice/tree/main/1299-replace-elements-with-greatest-element-on-right-side/) | Easy |
 | [1408-string-matching-in-an-array](https://github.com/g7xu/leetcode-practice/tree/main/1408-string-matching-in-an-array/) | Easy |
@@ -145,6 +146,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1100-find-k-length-substrings-with-no-repeated-characters](https://github.com/g7xu/leetcode-practice/tree/main/1100-find-k-length-substrings-with-no-repeated-characters/) | Medium |
 | [1122-relative-sort-array](https://github.com/g7xu/leetcode-practice/tree/main/1122-relative-sort-array/) | Easy |
 | [1133-largest-unique-number](https://github.com/g7xu/leetcode-practice/tree/main/1133-largest-unique-number/) | Easy |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/g7xu/leetcode-practice/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
 | [1165-single-row-keyboard](https://github.com/g7xu/leetcode-practice/tree/main/1165-single-row-keyboard/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/g7xu/leetcode-practice/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1426-counting-elements](https://github.com/g7xu/leetcode-practice/tree/main/1426-counting-elements/) | Easy |
@@ -244,6 +246,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1079-letter-tile-possibilities](https://github.com/g7xu/leetcode-practice/tree/main/1079-letter-tile-possibilities/) | Medium |
 | [1100-find-k-length-substrings-with-no-repeated-characters](https://github.com/g7xu/leetcode-practice/tree/main/1100-find-k-length-substrings-with-no-repeated-characters/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/g7xu/leetcode-practice/tree/main/1143-longest-common-subsequence/) | Medium |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/g7xu/leetcode-practice/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
 | [1165-single-row-keyboard](https://github.com/g7xu/leetcode-practice/tree/main/1165-single-row-keyboard/) | Easy |
 | [1180-count-substrings-with-only-one-distinct-letter](https://github.com/g7xu/leetcode-practice/tree/main/1180-count-substrings-with-only-one-distinct-letter/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/g7xu/leetcode-practice/tree/main/1189-maximum-number-of-balloons/) | Easy |
@@ -341,6 +344,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0383-ransom-note](https://github.com/g7xu/leetcode-practice/tree/main/0383-ransom-note/) | Easy |
 | [0767-reorganize-string](https://github.com/g7xu/leetcode-practice/tree/main/0767-reorganize-string/) | Medium |
 | [1079-letter-tile-possibilities](https://github.com/g7xu/leetcode-practice/tree/main/1079-letter-tile-possibilities/) | Medium |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/g7xu/leetcode-practice/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/g7xu/leetcode-practice/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/g7xu/leetcode-practice/tree/main/1857-largest-color-value-in-a-directed-graph/) | Hard |
 | [2053-kth-distinct-string-in-an-array](https://github.com/g7xu/leetcode-practice/tree/main/2053-kth-distinct-string-in-an-array/) | Easy |
