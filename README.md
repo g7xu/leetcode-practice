@@ -92,6 +92,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/g7xu/leetcode-practice/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/g7xu/leetcode-practice/tree/main/1980-find-unique-binary-string/) | Medium |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/g7xu/leetcode-practice/tree/main/1985-find-the-kth-largest-integer-in-the-array/) | Medium |
+| [2053-kth-distinct-string-in-an-array](https://github.com/g7xu/leetcode-practice/tree/main/2053-kth-distinct-string-in-an-array/) | Easy |
 | [2196-create-binary-tree-from-descriptions](https://github.com/g7xu/leetcode-practice/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/g7xu/leetcode-practice/tree/main/2300-successful-pairs-of-spells-and-potions/) | Medium |
 | [2326-spiral-matrix-iv](https://github.com/g7xu/leetcode-practice/tree/main/2326-spiral-matrix-iv/) | Medium |
@@ -151,6 +152,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/g7xu/leetcode-practice/tree/main/1647-minimum-deletions-to-make-character-frequencies-unique/) | Medium |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/g7xu/leetcode-practice/tree/main/1857-largest-color-value-in-a-directed-graph/) | Hard |
 | [1980-find-unique-binary-string](https://github.com/g7xu/leetcode-practice/tree/main/1980-find-unique-binary-string/) | Medium |
+| [2053-kth-distinct-string-in-an-array](https://github.com/g7xu/leetcode-practice/tree/main/2053-kth-distinct-string-in-an-array/) | Easy |
 | [2196-create-binary-tree-from-descriptions](https://github.com/g7xu/leetcode-practice/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/g7xu/leetcode-practice/tree/main/2341-maximum-number-of-pairs-in-array/) | Easy |
 | [2365-task-scheduler-ii](https://github.com/g7xu/leetcode-practice/tree/main/2365-task-scheduler-ii/) | Medium |
@@ -253,6 +255,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/g7xu/leetcode-practice/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/g7xu/leetcode-practice/tree/main/1980-find-unique-binary-string/) | Medium |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/g7xu/leetcode-practice/tree/main/1985-find-the-kth-largest-integer-in-the-array/) | Medium |
+| [2053-kth-distinct-string-in-an-array](https://github.com/g7xu/leetcode-practice/tree/main/2053-kth-distinct-string-in-an-array/) | Easy |
 | [2375-construct-smallest-number-from-di-string](https://github.com/g7xu/leetcode-practice/tree/main/2375-construct-smallest-number-from-di-string/) | Medium |
 | [2405-optimal-partition-of-string](https://github.com/g7xu/leetcode-practice/tree/main/2405-optimal-partition-of-string/) | Medium |
 | [2418-sort-the-people](https://github.com/g7xu/leetcode-practice/tree/main/2418-sort-the-people/) | Easy |
@@ -338,6 +341,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1079-letter-tile-possibilities](https://github.com/g7xu/leetcode-practice/tree/main/1079-letter-tile-possibilities/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/g7xu/leetcode-practice/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/g7xu/leetcode-practice/tree/main/1857-largest-color-value-in-a-directed-graph/) | Hard |
+| [2053-kth-distinct-string-in-an-array](https://github.com/g7xu/leetcode-practice/tree/main/2053-kth-distinct-string-in-an-array/) | Easy |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/g7xu/leetcode-practice/tree/main/2341-maximum-number-of-pairs-in-array/) | Easy |
 | [3223-minimum-length-of-string-after-operations](https://github.com/g7xu/leetcode-practice/tree/main/3223-minimum-length-of-string-after-operations/) | Medium |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/g7xu/leetcode-practice/tree/main/3442-maximum-difference-between-even-and-odd-frequency-i/) | Easy |
