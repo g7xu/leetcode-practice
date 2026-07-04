@@ -75,6 +75,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1133-largest-unique-number](https://github.com/g7xu/leetcode-practice/tree/main/1133-largest-unique-number/) | Easy |
 | [1243-array-transformation](https://github.com/g7xu/leetcode-practice/tree/main/1243-array-transformation/) | Easy |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/g7xu/leetcode-practice/tree/main/1299-replace-elements-with-greatest-element-on-right-side/) | Easy |
+| [1408-string-matching-in-an-array](https://github.com/g7xu/leetcode-practice/tree/main/1408-string-matching-in-an-array/) | Easy |
 | [1426-counting-elements](https://github.com/g7xu/leetcode-practice/tree/main/1426-counting-elements/) | Easy |
 | [1427-perform-string-shifts](https://github.com/g7xu/leetcode-practice/tree/main/1427-perform-string-shifts/) | Easy |
 | [1436-destination-city](https://github.com/g7xu/leetcode-practice/tree/main/1436-destination-city/) | Easy |
@@ -238,6 +239,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1165-single-row-keyboard](https://github.com/g7xu/leetcode-practice/tree/main/1165-single-row-keyboard/) | Easy |
 | [1180-count-substrings-with-only-one-distinct-letter](https://github.com/g7xu/leetcode-practice/tree/main/1180-count-substrings-with-only-one-distinct-letter/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/g7xu/leetcode-practice/tree/main/1189-maximum-number-of-balloons/) | Easy |
+| [1408-string-matching-in-an-array](https://github.com/g7xu/leetcode-practice/tree/main/1408-string-matching-in-an-array/) | Easy |
 | [1427-perform-string-shifts](https://github.com/g7xu/leetcode-practice/tree/main/1427-perform-string-shifts/) | Easy |
 | [1436-destination-city](https://github.com/g7xu/leetcode-practice/tree/main/1436-destination-city/) | Easy |
 | [1496-path-crossing](https://github.com/g7xu/leetcode-practice/tree/main/1496-path-crossing/) | Easy |
@@ -699,4 +701,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [1122-relative-sort-array](https://github.com/g7xu/leetcode-practice/tree/main/1122-relative-sort-array/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/g7xu/leetcode-practice/tree/main/1833-maximum-ice-cream-bars/) | Medium |
+## String Matching
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1408-string-matching-in-an-array](https://github.com/g7xu/leetcode-practice/tree/main/1408-string-matching-in-an-array/) | Easy |
 <!---LeetCode Topics End-->
