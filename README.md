@@ -107,6 +107,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2784-check-if-array-is-good](https://github.com/g7xu/leetcode-practice/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2965-find-missing-and-repeated-values](https://github.com/g7xu/leetcode-practice/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/g7xu/leetcode-practice/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
+| [3481-apply-substitutions](https://github.com/g7xu/leetcode-practice/tree/main/3481-apply-substitutions/) | Medium |
 | [3572-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues](https://github.com/g7xu/leetcode-practice/tree/main/3572-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues/) | Medium |
 | [3667-sort-array-by-absolute-value](https://github.com/g7xu/leetcode-practice/tree/main/3667-sort-array-by-absolute-value/) | Easy |
 ## Hash Table
@@ -169,6 +170,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/g7xu/leetcode-practice/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3223-minimum-length-of-string-after-operations](https://github.com/g7xu/leetcode-practice/tree/main/3223-minimum-length-of-string-after-operations/) | Medium |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/g7xu/leetcode-practice/tree/main/3442-maximum-difference-between-even-and-odd-frequency-i/) | Easy |
+| [3481-apply-substitutions](https://github.com/g7xu/leetcode-practice/tree/main/3481-apply-substitutions/) | Medium |
 | [3572-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues](https://github.com/g7xu/leetcode-practice/tree/main/3572-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -275,6 +277,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3174-clear-digits](https://github.com/g7xu/leetcode-practice/tree/main/3174-clear-digits/) | Easy |
 | [3223-minimum-length-of-string-after-operations](https://github.com/g7xu/leetcode-practice/tree/main/3223-minimum-length-of-string-after-operations/) | Medium |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/g7xu/leetcode-practice/tree/main/3442-maximum-difference-between-even-and-odd-frequency-i/) | Easy |
+| [3481-apply-substitutions](https://github.com/g7xu/leetcode-practice/tree/main/3481-apply-substitutions/) | Medium |
 | [3612-process-string-with-special-operations-i](https://github.com/g7xu/leetcode-practice/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
@@ -514,6 +517,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0743-network-delay-time](https://github.com/g7xu/leetcode-practice/tree/main/0743-network-delay-time/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/g7xu/leetcode-practice/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 | [1462-course-schedule-iv](https://github.com/g7xu/leetcode-practice/tree/main/1462-course-schedule-iv/) | Medium |
+| [3481-apply-substitutions](https://github.com/g7xu/leetcode-practice/tree/main/3481-apply-substitutions/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -535,6 +539,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1448-count-good-nodes-in-binary-tree](https://github.com/g7xu/leetcode-practice/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 | [1462-course-schedule-iv](https://github.com/g7xu/leetcode-practice/tree/main/1462-course-schedule-iv/) | Medium |
 | [1765-map-of-highest-peak](https://github.com/g7xu/leetcode-practice/tree/main/1765-map-of-highest-peak/) | Medium |
+| [3481-apply-substitutions](https://github.com/g7xu/leetcode-practice/tree/main/3481-apply-substitutions/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -544,6 +549,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0743-network-delay-time](https://github.com/g7xu/leetcode-practice/tree/main/0743-network-delay-time/) | Medium |
 | [1462-course-schedule-iv](https://github.com/g7xu/leetcode-practice/tree/main/1462-course-schedule-iv/) | Medium |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/g7xu/leetcode-practice/tree/main/1857-largest-color-value-in-a-directed-graph/) | Hard |
+| [3481-apply-substitutions](https://github.com/g7xu/leetcode-practice/tree/main/3481-apply-substitutions/) | Medium |
 ## Shortest Path
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -644,6 +650,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0210-course-schedule-ii](https://github.com/g7xu/leetcode-practice/tree/main/0210-course-schedule-ii/) | Medium |
 | [1462-course-schedule-iv](https://github.com/g7xu/leetcode-practice/tree/main/1462-course-schedule-iv/) | Medium |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/g7xu/leetcode-practice/tree/main/1857-largest-color-value-in-a-directed-graph/) | Hard |
+| [3481-apply-substitutions](https://github.com/g7xu/leetcode-practice/tree/main/3481-apply-substitutions/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
