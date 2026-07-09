@@ -6,7 +6,7 @@
 #         self.right = right
 class Solution:
     def mergeTrees(self, root1: Optional[TreeNode], root2: Optional[TreeNode]) -> Optional[TreeNode]:
-        if root1 is None and root2 is None:
+        if not root1 and not root2:
             return None
 
 
@@ -14,13 +14,13 @@ class Solution:
 
             t1.val += t2.val
 
-            if t2.left is not None:
-                if t1.left is None:
+            if t2.left:
+                if not t1.left:
                     t1.left = TreeNode(0)
                 combineTree(t1.left, t2.left)
 
-            if t2.right is not None:
-                if t1.right is None:
+            if t2.right:
+                if not t1.right:
                     t1.right = TreeNode(0)
                 combineTree(t1.right, t2.right)
 
