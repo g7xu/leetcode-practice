@@ -108,6 +108,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2965-find-missing-and-repeated-values](https://github.com/g7xu/leetcode-practice/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/g7xu/leetcode-practice/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3481-apply-substitutions](https://github.com/g7xu/leetcode-practice/tree/main/3481-apply-substitutions/) | Medium |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/g7xu/leetcode-practice/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3572-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues](https://github.com/g7xu/leetcode-practice/tree/main/3572-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues/) | Medium |
 | [3667-sort-array-by-absolute-value](https://github.com/g7xu/leetcode-practice/tree/main/3667-sort-array-by-absolute-value/) | Easy |
 ## Hash Table
@@ -171,6 +172,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3223-minimum-length-of-string-after-operations](https://github.com/g7xu/leetcode-practice/tree/main/3223-minimum-length-of-string-after-operations/) | Medium |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/g7xu/leetcode-practice/tree/main/3442-maximum-difference-between-even-and-odd-frequency-i/) | Easy |
 | [3481-apply-substitutions](https://github.com/g7xu/leetcode-practice/tree/main/3481-apply-substitutions/) | Medium |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/g7xu/leetcode-practice/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3572-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues](https://github.com/g7xu/leetcode-practice/tree/main/3572-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -400,6 +402,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1004-max-consecutive-ones-iii](https://github.com/g7xu/leetcode-practice/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1055-shortest-way-to-form-string](https://github.com/g7xu/leetcode-practice/tree/main/1055-shortest-way-to-form-string/) | Medium |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/g7xu/leetcode-practice/tree/main/2300-successful-pairs-of-spells-and-potions/) | Medium |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/g7xu/leetcode-practice/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -551,6 +554,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1462-course-schedule-iv](https://github.com/g7xu/leetcode-practice/tree/main/1462-course-schedule-iv/) | Medium |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/g7xu/leetcode-practice/tree/main/1857-largest-color-value-in-a-directed-graph/) | Hard |
 | [3481-apply-substitutions](https://github.com/g7xu/leetcode-practice/tree/main/3481-apply-substitutions/) | Medium |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/g7xu/leetcode-practice/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 ## Shortest Path
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -647,6 +651,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/g7xu/leetcode-practice/tree/main/0323-number-of-connected-components-in-an-undirected-graph/) | Medium |
 | [0547-number-of-provinces](https://github.com/g7xu/leetcode-practice/tree/main/0547-number-of-provinces/) | Medium |
 | [0695-max-area-of-island](https://github.com/g7xu/leetcode-practice/tree/main/0695-max-area-of-island/) | Medium |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/g7xu/leetcode-practice/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 ## Topological Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
