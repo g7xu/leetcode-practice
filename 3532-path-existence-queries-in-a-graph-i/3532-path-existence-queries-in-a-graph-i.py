@@ -1,0 +1,26 @@
+class Solution:
+    def pathExistenceQueries(self, n: int, nums: List[int], maxDiff: int, queries: List[List[int]]) -> List[bool]:
+        max_idx = dict()
+
+        slow = fast = 0
+        while fast < len(nums):
+
+            if fast == len(nums) - 1 or abs(nums[fast + 1] - nums[fast]) > maxDiff:
+                while slow <= fast:
+                    max_idx[slow] = fast
+                    slow += 1
+
+                fast += 1
+                continue
+
+            fast += 1
+
+        res = []
+        for q in queries:
+            a, b = sorted(q)
+            if max_idx[a] >= b:
+                res.append(True)
+            else:
+                res.append(False)
+
+        return res 
