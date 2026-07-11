@@ -70,6 +70,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0918-maximum-sum-circular-subarray](https://github.com/g7xu/leetcode-practice/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [0929-unique-email-addresses](https://github.com/g7xu/leetcode-practice/tree/main/0929-unique-email-addresses/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/g7xu/leetcode-practice/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [0980-unique-paths-iii](https://github.com/g7xu/leetcode-practice/tree/main/0980-unique-paths-iii/) | Hard |
 | [0983-minimum-cost-for-tickets](https://github.com/g7xu/leetcode-practice/tree/main/0983-minimum-cost-for-tickets/) | Medium |
 | [0994-rotting-oranges](https://github.com/g7xu/leetcode-practice/tree/main/0994-rotting-oranges/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/g7xu/leetcode-practice/tree/main/1004-max-consecutive-ones-iii/) | Medium |
@@ -411,6 +412,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0078-subsets](https://github.com/g7xu/leetcode-practice/tree/main/0078-subsets/) | Medium |
 | [0079-word-search](https://github.com/g7xu/leetcode-practice/tree/main/0079-word-search/) | Medium |
 | [0090-subsets-ii](https://github.com/g7xu/leetcode-practice/tree/main/0090-subsets-ii/) | Medium |
+| [0980-unique-paths-iii](https://github.com/g7xu/leetcode-practice/tree/main/0980-unique-paths-iii/) | Hard |
 | [1079-letter-tile-possibilities](https://github.com/g7xu/leetcode-practice/tree/main/1079-letter-tile-possibilities/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/g7xu/leetcode-practice/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2375-construct-smallest-number-from-di-string](https://github.com/g7xu/leetcode-practice/tree/main/2375-construct-smallest-number-from-di-string/) | Medium |
@@ -681,6 +683,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0130-surrounded-regions](https://github.com/g7xu/leetcode-practice/tree/main/0130-surrounded-regions/) | Medium |
 | [0422-valid-word-square](https://github.com/g7xu/leetcode-practice/tree/main/0422-valid-word-square/) | Easy |
 | [0695-max-area-of-island](https://github.com/g7xu/leetcode-practice/tree/main/0695-max-area-of-island/) | Medium |
+| [0980-unique-paths-iii](https://github.com/g7xu/leetcode-practice/tree/main/0980-unique-paths-iii/) | Hard |
 | [0994-rotting-oranges](https://github.com/g7xu/leetcode-practice/tree/main/0994-rotting-oranges/) | Medium |
 | [1765-map-of-highest-peak](https://github.com/g7xu/leetcode-practice/tree/main/1765-map-of-highest-peak/) | Medium |
 | [2326-spiral-matrix-iv](https://github.com/g7xu/leetcode-practice/tree/main/2326-spiral-matrix-iv/) | Medium |
@@ -706,6 +709,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0266-palindrome-permutation](https://github.com/g7xu/leetcode-practice/tree/main/0266-palindrome-permutation/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/g7xu/leetcode-practice/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0645-set-mismatch](https://github.com/g7xu/leetcode-practice/tree/main/0645-set-mismatch/) | Easy |
+| [0980-unique-paths-iii](https://github.com/g7xu/leetcode-practice/tree/main/0980-unique-paths-iii/) | Hard |
 | [1684-count-the-number-of-consistent-strings](https://github.com/g7xu/leetcode-practice/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 ## Iterator
 | Problem Name | Difficulty |
