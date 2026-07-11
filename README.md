@@ -522,6 +522,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1120-maximum-average-subtree](https://github.com/g7xu/leetcode-practice/tree/main/1120-maximum-average-subtree/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/g7xu/leetcode-practice/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 | [1462-course-schedule-iv](https://github.com/g7xu/leetcode-practice/tree/main/1462-course-schedule-iv/) | Medium |
+| [2685-count-the-number-of-complete-components](https://github.com/g7xu/leetcode-practice/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 | [3481-apply-substitutions](https://github.com/g7xu/leetcode-practice/tree/main/3481-apply-substitutions/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -545,6 +546,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1448-count-good-nodes-in-binary-tree](https://github.com/g7xu/leetcode-practice/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 | [1462-course-schedule-iv](https://github.com/g7xu/leetcode-practice/tree/main/1462-course-schedule-iv/) | Medium |
 | [1765-map-of-highest-peak](https://github.com/g7xu/leetcode-practice/tree/main/1765-map-of-highest-peak/) | Medium |
+| [2685-count-the-number-of-complete-components](https://github.com/g7xu/leetcode-practice/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 | [3481-apply-substitutions](https://github.com/g7xu/leetcode-practice/tree/main/3481-apply-substitutions/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
@@ -555,6 +557,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0743-network-delay-time](https://github.com/g7xu/leetcode-practice/tree/main/0743-network-delay-time/) | Medium |
 | [1462-course-schedule-iv](https://github.com/g7xu/leetcode-practice/tree/main/1462-course-schedule-iv/) | Medium |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/g7xu/leetcode-practice/tree/main/1857-largest-color-value-in-a-directed-graph/) | Hard |
+| [2685-count-the-number-of-complete-components](https://github.com/g7xu/leetcode-practice/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 | [3481-apply-substitutions](https://github.com/g7xu/leetcode-practice/tree/main/3481-apply-substitutions/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/g7xu/leetcode-practice/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 ## Shortest Path
@@ -655,6 +658,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/g7xu/leetcode-practice/tree/main/0323-number-of-connected-components-in-an-undirected-graph/) | Medium |
 | [0547-number-of-provinces](https://github.com/g7xu/leetcode-practice/tree/main/0547-number-of-provinces/) | Medium |
 | [0695-max-area-of-island](https://github.com/g7xu/leetcode-practice/tree/main/0695-max-area-of-island/) | Medium |
+| [2685-count-the-number-of-complete-components](https://github.com/g7xu/leetcode-practice/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/g7xu/leetcode-practice/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 ## Topological Sort
 | Problem Name | Difficulty |
