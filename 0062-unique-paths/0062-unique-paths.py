@@ -12,21 +12,19 @@
 
 class Solution:
     def uniquePaths(self, m: int, n: int) -> int:
-        x = y = 0
-        
-        @cache
-        def helper(x, y):
-            if x == m - 1 and y == n - 1:
-                return 1
+        dp = [[0 for _ in range(n)] for _ in range(m)]
 
-            p = 0
-            for dx, dy in [(0, 1), (1, 0)]:
-                nx = dx + x
-                ny = dy + y
+        # row
+        for i in range(m):
+            dp[i][0] = 1
 
-                if nx >= 0 and nx < m and ny >= 0 and ny < n:
-                    p += helper(nx, ny)
-            
-            return p
+        # col
+        for j in range(n):
+            dp[0][j] = 1
 
-        return helper(0, 0)
+        # top down
+        for i in range(1, m):
+            for j in range(1, n):
+                dp[i][j] = dp[i - 1][j] + dp[i][j-1]
+
+        return dp[m - 1][n - 1]
