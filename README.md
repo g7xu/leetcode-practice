@@ -137,6 +137,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0359-logger-rate-limiter](https://github.com/g7xu/leetcode-practice/tree/main/0359-logger-rate-limiter/) | Easy |
 | [0383-ransom-note](https://github.com/g7xu/leetcode-practice/tree/main/0383-ransom-note/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/g7xu/leetcode-practice/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
+| [0460-lfu-cache](https://github.com/g7xu/leetcode-practice/tree/main/0460-lfu-cache/) | Hard |
 | [0567-permutation-in-string](https://github.com/g7xu/leetcode-practice/tree/main/0567-permutation-in-string/) | Medium |
 | [0582-kill-process](https://github.com/g7xu/leetcode-practice/tree/main/0582-kill-process/) | Medium |
 | [0645-set-mismatch](https://github.com/g7xu/leetcode-practice/tree/main/0645-set-mismatch/) | Easy |
@@ -464,6 +465,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0142-linked-list-cycle-ii](https://github.com/g7xu/leetcode-practice/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0143-reorder-list](https://github.com/g7xu/leetcode-practice/tree/main/0143-reorder-list/) | Medium |
 | [0146-lru-cache](https://github.com/g7xu/leetcode-practice/tree/main/0146-lru-cache/) | Medium |
+| [0460-lfu-cache](https://github.com/g7xu/leetcode-practice/tree/main/0460-lfu-cache/) | Hard |
 | [1669-merge-in-between-linked-lists](https://github.com/g7xu/leetcode-practice/tree/main/1669-merge-in-between-linked-lists/) | Medium |
 | [2326-spiral-matrix-iv](https://github.com/g7xu/leetcode-practice/tree/main/2326-spiral-matrix-iv/) | Medium |
 ## Stack
@@ -495,6 +497,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0346-moving-average-from-data-stream](https://github.com/g7xu/leetcode-practice/tree/main/0346-moving-average-from-data-stream/) | Easy |
 | [0359-logger-rate-limiter](https://github.com/g7xu/leetcode-practice/tree/main/0359-logger-rate-limiter/) | Easy |
 | [0362-design-hit-counter](https://github.com/g7xu/leetcode-practice/tree/main/0362-design-hit-counter/) | Medium |
+| [0460-lfu-cache](https://github.com/g7xu/leetcode-practice/tree/main/0460-lfu-cache/) | Hard |
 | [0604-design-compressed-string-iterator](https://github.com/g7xu/leetcode-practice/tree/main/0604-design-compressed-string-iterator/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
@@ -732,6 +735,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0146-lru-cache](https://github.com/g7xu/leetcode-practice/tree/main/0146-lru-cache/) | Medium |
+| [0460-lfu-cache](https://github.com/g7xu/leetcode-practice/tree/main/0460-lfu-cache/) | Hard |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
