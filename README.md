@@ -70,6 +70,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0905-sort-array-by-parity](https://github.com/g7xu/leetcode-practice/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0918-maximum-sum-circular-subarray](https://github.com/g7xu/leetcode-practice/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [0929-unique-email-addresses](https://github.com/g7xu/leetcode-practice/tree/main/0929-unique-email-addresses/) | Easy |
+| [0931-minimum-falling-path-sum](https://github.com/g7xu/leetcode-practice/tree/main/0931-minimum-falling-path-sum/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/g7xu/leetcode-practice/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [0980-unique-paths-iii](https://github.com/g7xu/leetcode-practice/tree/main/0980-unique-paths-iii/) | Hard |
 | [0983-minimum-cost-for-tickets](https://github.com/g7xu/leetcode-practice/tree/main/0983-minimum-cost-for-tickets/) | Medium |
@@ -451,6 +452,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0746-min-cost-climbing-stairs](https://github.com/g7xu/leetcode-practice/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0838-push-dominoes](https://github.com/g7xu/leetcode-practice/tree/main/0838-push-dominoes/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/g7xu/leetcode-practice/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
+| [0931-minimum-falling-path-sum](https://github.com/g7xu/leetcode-practice/tree/main/0931-minimum-falling-path-sum/) | Medium |
 | [0983-minimum-cost-for-tickets](https://github.com/g7xu/leetcode-practice/tree/main/0983-minimum-cost-for-tickets/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/g7xu/leetcode-practice/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/g7xu/leetcode-practice/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
@@ -702,6 +704,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0422-valid-word-square](https://github.com/g7xu/leetcode-practice/tree/main/0422-valid-word-square/) | Easy |
 | [0695-max-area-of-island](https://github.com/g7xu/leetcode-practice/tree/main/0695-max-area-of-island/) | Medium |
 | [0741-cherry-pickup](https://github.com/g7xu/leetcode-practice/tree/main/0741-cherry-pickup/) | Hard |
+| [0931-minimum-falling-path-sum](https://github.com/g7xu/leetcode-practice/tree/main/0931-minimum-falling-path-sum/) | Medium |
 | [0980-unique-paths-iii](https://github.com/g7xu/leetcode-practice/tree/main/0980-unique-paths-iii/) | Hard |
 | [0994-rotting-oranges](https://github.com/g7xu/leetcode-practice/tree/main/0994-rotting-oranges/) | Medium |
 | [1765-map-of-highest-peak](https://github.com/g7xu/leetcode-practice/tree/main/1765-map-of-highest-peak/) | Medium |
