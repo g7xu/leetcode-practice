@@ -527,6 +527,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/g7xu/leetcode-practice/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/g7xu/leetcode-practice/tree/main/0323-number-of-connected-components-in-an-undirected-graph/) | Medium |
 | [0437-path-sum-iii](https://github.com/g7xu/leetcode-practice/tree/main/0437-path-sum-iii/) | Medium |
+| [0545-boundary-of-binary-tree](https://github.com/g7xu/leetcode-practice/tree/main/0545-boundary-of-binary-tree/) | Medium |
 | [0547-number-of-provinces](https://github.com/g7xu/leetcode-practice/tree/main/0547-number-of-provinces/) | Medium |
 | [0582-kill-process](https://github.com/g7xu/leetcode-practice/tree/main/0582-kill-process/) | Medium |
 | [0617-merge-two-binary-trees](https://github.com/g7xu/leetcode-practice/tree/main/0617-merge-two-binary-trees/) | Easy |
@@ -624,6 +625,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0250-count-univalue-subtrees](https://github.com/g7xu/leetcode-practice/tree/main/0250-count-univalue-subtrees/) | Medium |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/g7xu/leetcode-practice/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0437-path-sum-iii](https://github.com/g7xu/leetcode-practice/tree/main/0437-path-sum-iii/) | Medium |
+| [0545-boundary-of-binary-tree](https://github.com/g7xu/leetcode-practice/tree/main/0545-boundary-of-binary-tree/) | Medium |
 | [0582-kill-process](https://github.com/g7xu/leetcode-practice/tree/main/0582-kill-process/) | Medium |
 | [0617-merge-two-binary-trees](https://github.com/g7xu/leetcode-practice/tree/main/0617-merge-two-binary-trees/) | Easy |
 | [1120-maximum-average-subtree](https://github.com/g7xu/leetcode-practice/tree/main/1120-maximum-average-subtree/) | Medium |
@@ -653,6 +655,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0250-count-univalue-subtrees](https://github.com/g7xu/leetcode-practice/tree/main/0250-count-univalue-subtrees/) | Medium |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/g7xu/leetcode-practice/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0437-path-sum-iii](https://github.com/g7xu/leetcode-practice/tree/main/0437-path-sum-iii/) | Medium |
+| [0545-boundary-of-binary-tree](https://github.com/g7xu/leetcode-practice/tree/main/0545-boundary-of-binary-tree/) | Medium |
 | [0617-merge-two-binary-trees](https://github.com/g7xu/leetcode-practice/tree/main/0617-merge-two-binary-trees/) | Easy |
 | [1120-maximum-average-subtree](https://github.com/g7xu/leetcode-practice/tree/main/1120-maximum-average-subtree/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/g7xu/leetcode-practice/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
