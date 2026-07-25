@@ -9,34 +9,37 @@ class Solution:
         """
         Do not return anything, modify root in-place instead.
         """
-        l = []
+        node1 = node2 = prev = None
+        curr = root
 
-        def inOrder(node):
-            if node is None:
-                return
+        while curr:
+            if curr.left is None:
+                # compare
+                if prev and prev.val > curr.val:
+                    node2 = curr
+                    if node1 is None:
+                        node1 = prev
 
-            inOrder(node.left)
-            l.append(node)
-            inOrder(node.right)
+                # move
+                prev = curr
+                curr = curr.right
+            else:
+                pred = curr.left
+                while pred.right is not None and pred.right != curr:
+                    pred = pred.right
 
-        inOrder(root)
-
-        node1 = node2 = None
-
-        i = 0
-        while i < len(l) - 1:
-            if l[i].val > l[i+1].val:
-                if node1 is None:
-                    node1 = l[i]
-                    node2 = l[i+1]
+                if pred.right is None:
+                    pred.right = curr
+                    curr = curr.left
                 else:
-                    node2 = l[i+1]
-                    break
-                    
-            i += 1
+                    pred.right = None # reset
+                    # compare
+                    if prev and prev.val > curr.val:
+                        node2 = curr
+                        if node1 is None:
+                            node1 = prev
+                    prev = curr
+                    curr = curr.right
 
-        
         node1.val, node2.val = node2.val, node1.val
-        return root
 
-            
