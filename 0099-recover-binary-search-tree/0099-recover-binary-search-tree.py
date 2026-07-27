@@ -9,37 +9,33 @@ class Solution:
         """
         Do not return anything, modify root in-place instead.
         """
-        node1 = node2 = prev = None
-        curr = root
+        # in order traversal -> sorted array
+        l = []
 
-        while curr:
-            if curr.left is None:
-                # compare
-                if prev and prev.val > curr.val:
-                    node2 = curr
-                    if node1 is None:
-                        node1 = prev
+        def inOrder(node):
+            if node is None:
+                return
 
-                # move
-                prev = curr
-                curr = curr.right
-            else:
-                pred = curr.left
-                while pred.right is not None and pred.right != curr:
-                    pred = pred.right
+            inOrder(node.left)
+            l.append(node)
+            inOrder(node.right)
 
-                if pred.right is None:
-                    pred.right = curr
-                    curr = curr.left
+        inOrder(root)
+
+        # go through the array -> find invarsions
+        i = 0 
+        node1 = node2 = None
+        while i < len(l) - 1:
+            if l[i].val > l[i+1].val:
+                if node1 is None:
+                    node1 = l[i]
+                    node2 = l[i+1]
                 else:
-                    pred.right = None # reset
-                    # compare
-                    if prev and prev.val > curr.val:
-                        node2 = curr
-                        if node1 is None:
-                            node1 = prev
-                    prev = curr
-                    curr = curr.right
+                    node2 = l[i+1]
+                    break
 
+            i += 1
+
+        # swap
         node1.val, node2.val = node2.val, node1.val
-
+        return root
