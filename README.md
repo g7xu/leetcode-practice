@@ -85,6 +85,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1426-counting-elements](https://github.com/g7xu/leetcode-practice/tree/main/1426-counting-elements/) | Easy |
 | [1427-perform-string-shifts](https://github.com/g7xu/leetcode-practice/tree/main/1427-perform-string-shifts/) | Easy |
 | [1436-destination-city](https://github.com/g7xu/leetcode-practice/tree/main/1436-destination-city/) | Easy |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/g7xu/leetcode-practice/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/g7xu/leetcode-practice/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1639-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/g7xu/leetcode-practice/tree/main/1639-number-of-ways-to-form-a-target-string-given-a-dictionary/) | Hard |
 | [1684-count-the-number-of-consistent-strings](https://github.com/g7xu/leetcode-practice/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
@@ -332,6 +333,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0977-squares-of-a-sorted-array](https://github.com/g7xu/leetcode-practice/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1122-relative-sort-array](https://github.com/g7xu/leetcode-practice/tree/main/1122-relative-sort-array/) | Easy |
 | [1133-largest-unique-number](https://github.com/g7xu/leetcode-practice/tree/main/1133-largest-unique-number/) | Easy |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/g7xu/leetcode-practice/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/g7xu/leetcode-practice/tree/main/1647-minimum-deletions-to-make-character-frequencies-unique/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/g7xu/leetcode-practice/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/g7xu/leetcode-practice/tree/main/1913-maximum-product-difference-between-two-pairs/) | Easy |
@@ -351,6 +353,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0253-meeting-rooms-ii](https://github.com/g7xu/leetcode-practice/tree/main/0253-meeting-rooms-ii/) | Medium |
 | [0743-network-delay-time](https://github.com/g7xu/leetcode-practice/tree/main/0743-network-delay-time/) | Medium |
 | [0767-reorganize-string](https://github.com/g7xu/leetcode-practice/tree/main/0767-reorganize-string/) | Medium |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/g7xu/leetcode-practice/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/g7xu/leetcode-practice/tree/main/1985-find-the-kth-largest-integer-in-the-array/) | Medium |
 | [2530-maximal-score-after-applying-k-operations](https://github.com/g7xu/leetcode-practice/tree/main/2530-maximal-score-after-applying-k-operations/) | Medium |
 | [3572-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues](https://github.com/g7xu/leetcode-practice/tree/main/3572-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues/) | Medium |
