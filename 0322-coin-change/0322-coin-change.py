@@ -7,35 +7,23 @@
 
 class Solution:
     def coinChange(self, coins: List[int], amount: int) -> int:
-        coins = sorted(coins)[::-1]
+        dp = [0] * (amount + 1) 
+        coins.sort()
+        
+        for i in range(1, len(dp)):
+            can = []
+            for coin in coins:
+                if coin > i:
+                    break
+                
+                if dp[i - coin] >= 0:
+                    can.append(1 + dp[i - coin])
 
-        @cache
-        def helper(i, amount):
-            if amount == 0:
-                return 0
+            if can:
+                dp[i] = min(can)
+            else:
+                dp[i] = -1
 
-            if i >= len(coins):
-                return -1
-
-            if coins[i] > amount:
-                return helper(i + 1, amount)
-
-            res = []
-
-            non_skip = helper(i, amount - coins[i])
-            if non_skip != -1:
-                res.append(non_skip + 1)
-            
-            skip = helper(i + 1, amount)
-            if skip != -1:
-                res.append(skip)
-
-            if res:
-                return min(res)
-            
-            return -1
-
-
-        return helper(0, amount)
-
-
+        return dp[-1]
+                
+        
