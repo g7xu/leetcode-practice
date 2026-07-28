@@ -49,6 +49,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0362-design-hit-counter](https://github.com/g7xu/leetcode-practice/tree/main/0362-design-hit-counter/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/g7xu/leetcode-practice/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0422-valid-word-square](https://github.com/g7xu/leetcode-practice/tree/main/0422-valid-word-square/) | Easy |
+| [0435-non-overlapping-intervals](https://github.com/g7xu/leetcode-practice/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/g7xu/leetcode-practice/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0582-kill-process](https://github.com/g7xu/leetcode-practice/tree/main/0582-kill-process/) | Medium |
 | [0604-design-compressed-string-iterator](https://github.com/g7xu/leetcode-practice/tree/main/0604-design-compressed-string-iterator/) | Easy |
@@ -298,6 +299,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0253-meeting-rooms-ii](https://github.com/g7xu/leetcode-practice/tree/main/0253-meeting-rooms-ii/) | Medium |
 | [0280-wiggle-sort](https://github.com/g7xu/leetcode-practice/tree/main/0280-wiggle-sort/) | Medium |
 | [0402-remove-k-digits](https://github.com/g7xu/leetcode-practice/tree/main/0402-remove-k-digits/) | Medium |
+| [0435-non-overlapping-intervals](https://github.com/g7xu/leetcode-practice/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0646-maximum-length-of-pair-chain](https://github.com/g7xu/leetcode-practice/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/g7xu/leetcode-practice/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0767-reorganize-string](https://github.com/g7xu/leetcode-practice/tree/main/0767-reorganize-string/) | Medium |
@@ -323,6 +325,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0242-valid-anagram](https://github.com/g7xu/leetcode-practice/tree/main/0242-valid-anagram/) | Easy |
 | [0253-meeting-rooms-ii](https://github.com/g7xu/leetcode-practice/tree/main/0253-meeting-rooms-ii/) | Medium |
 | [0280-wiggle-sort](https://github.com/g7xu/leetcode-practice/tree/main/0280-wiggle-sort/) | Medium |
+| [0435-non-overlapping-intervals](https://github.com/g7xu/leetcode-practice/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0645-set-mismatch](https://github.com/g7xu/leetcode-practice/tree/main/0645-set-mismatch/) | Easy |
 | [0646-maximum-length-of-pair-chain](https://github.com/g7xu/leetcode-practice/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
 | [0767-reorganize-string](https://github.com/g7xu/leetcode-practice/tree/main/0767-reorganize-string/) | Medium |
@@ -447,6 +450,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0322-coin-change](https://github.com/g7xu/leetcode-practice/tree/main/0322-coin-change/) | Medium |
 | [0392-is-subsequence](https://github.com/g7xu/leetcode-practice/tree/main/0392-is-subsequence/) | Easy |
 | [0416-partition-equal-subset-sum](https://github.com/g7xu/leetcode-practice/tree/main/0416-partition-equal-subset-sum/) | Medium |
+| [0435-non-overlapping-intervals](https://github.com/g7xu/leetcode-practice/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0576-out-of-boundary-paths](https://github.com/g7xu/leetcode-practice/tree/main/0576-out-of-boundary-paths/) | Medium |
 | [0646-maximum-length-of-pair-chain](https://github.com/g7xu/leetcode-practice/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/g7xu/leetcode-practice/tree/main/0678-valid-parenthesis-string/) | Medium |
