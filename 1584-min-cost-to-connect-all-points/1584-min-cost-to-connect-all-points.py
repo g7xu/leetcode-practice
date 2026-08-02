@@ -1,3 +1,14 @@
+# start time: 2:36
+# end time: ~
+
+# thinking: 2:36 - 2:46
+# writing: ~
+# end: ~
+
+# give up at the end
+
+# spend 30 mins
+
 from heapq import heappop, heappush
 
 class Solution:
