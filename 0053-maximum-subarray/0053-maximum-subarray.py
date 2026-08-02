@@ -2,7 +2,7 @@
 
 class Solution:
     def maxSubArray(self, nums: List[int]) -> int:
-        res = max(nums)
+        res = float('-inf')
         fast = 0
         cur = 0
         while fast < len(nums):
