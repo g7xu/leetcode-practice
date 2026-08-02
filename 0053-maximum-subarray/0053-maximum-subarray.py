@@ -1,11 +1,16 @@
-
+# classic sliding window
 
 class Solution:
     def maxSubArray(self, nums: List[int]) -> int:
-        dp = nums[::]
-        
-        for i in range(1, len(nums)):
-            dp[i] = max(dp[i], dp[i] + dp[i-1])
+        res = max(nums)
+        fast = 0
+        cur = 0
+        while fast < len(nums):
+            if cur < 0 and nums[fast] > cur:
+                cur = 0
 
-        print(dp)
-        return max(dp)
+            cur += nums[fast]
+            res = max(res, cur)
+            fast += 1
+
+        return res
