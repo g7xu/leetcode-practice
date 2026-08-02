@@ -52,6 +52,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0422-valid-word-square](https://github.com/g7xu/leetcode-practice/tree/main/0422-valid-word-square/) | Easy |
 | [0435-non-overlapping-intervals](https://github.com/g7xu/leetcode-practice/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/g7xu/leetcode-practice/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
+| [0494-target-sum](https://github.com/g7xu/leetcode-practice/tree/main/0494-target-sum/) | Medium |
 | [0582-kill-process](https://github.com/g7xu/leetcode-practice/tree/main/0582-kill-process/) | Medium |
 | [0604-design-compressed-string-iterator](https://github.com/g7xu/leetcode-practice/tree/main/0604-design-compressed-string-iterator/) | Easy |
 | [0645-set-mismatch](https://github.com/g7xu/leetcode-practice/tree/main/0645-set-mismatch/) | Easy |
@@ -433,6 +434,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0078-subsets](https://github.com/g7xu/leetcode-practice/tree/main/0078-subsets/) | Medium |
 | [0079-word-search](https://github.com/g7xu/leetcode-practice/tree/main/0079-word-search/) | Medium |
 | [0090-subsets-ii](https://github.com/g7xu/leetcode-practice/tree/main/0090-subsets-ii/) | Medium |
+| [0494-target-sum](https://github.com/g7xu/leetcode-practice/tree/main/0494-target-sum/) | Medium |
 | [0980-unique-paths-iii](https://github.com/g7xu/leetcode-practice/tree/main/0980-unique-paths-iii/) | Hard |
 | [1079-letter-tile-possibilities](https://github.com/g7xu/leetcode-practice/tree/main/1079-letter-tile-possibilities/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/g7xu/leetcode-practice/tree/main/1980-find-unique-binary-string/) | Medium |
@@ -460,6 +462,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0392-is-subsequence](https://github.com/g7xu/leetcode-practice/tree/main/0392-is-subsequence/) | Easy |
 | [0416-partition-equal-subset-sum](https://github.com/g7xu/leetcode-practice/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/g7xu/leetcode-practice/tree/main/0435-non-overlapping-intervals/) | Medium |
+| [0494-target-sum](https://github.com/g7xu/leetcode-practice/tree/main/0494-target-sum/) | Medium |
 | [0576-out-of-boundary-paths](https://github.com/g7xu/leetcode-practice/tree/main/0576-out-of-boundary-paths/) | Medium |
 | [0646-maximum-length-of-pair-chain](https://github.com/g7xu/leetcode-practice/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/g7xu/leetcode-practice/tree/main/0678-valid-parenthesis-string/) | Medium |
