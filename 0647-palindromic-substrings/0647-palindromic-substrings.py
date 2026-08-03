@@ -4,10 +4,7 @@ class Solution:
 
         def helper(s, l, r):
             res = 0
-            while True:
-                if l < 0 or r >= len(s) or s[l] != s[r]:
-                    break
-                
+            while l >= 0 and r < len(s) and s[l] == s[r]:
                 res += 1
                 l -= 1
                 r += 1
@@ -18,8 +15,4 @@ class Solution:
             res += helper(s, i, i)
             res += helper(s, i, i + 1)
 
-
-            
         return res
-
-
