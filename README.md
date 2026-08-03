@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0055-jump-game](https://github.com/g7xu/leetcode-practice/tree/main/0055-jump-game/) | Medium |
 | [0056-merge-intervals](https://github.com/g7xu/leetcode-practice/tree/main/0056-merge-intervals/) | Medium |
 | [0063-unique-paths-ii](https://github.com/g7xu/leetcode-practice/tree/main/0063-unique-paths-ii/) | Medium |
+| [0066-plus-one](https://github.com/g7xu/leetcode-practice/tree/main/0066-plus-one/) | Easy |
 | [0073-set-matrix-zeroes](https://github.com/g7xu/leetcode-practice/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/g7xu/leetcode-practice/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0075-sort-colors](https://github.com/g7xu/leetcode-practice/tree/main/0075-sort-colors/) | Medium |
@@ -208,6 +209,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0012-integer-to-roman](https://github.com/g7xu/leetcode-practice/tree/main/0012-integer-to-roman/) | Medium |
 | [0050-powx-n](https://github.com/g7xu/leetcode-practice/tree/main/0050-powx-n/) | Medium |
 | [0062-unique-paths](https://github.com/g7xu/leetcode-practice/tree/main/0062-unique-paths/) | Medium |
+| [0066-plus-one](https://github.com/g7xu/leetcode-practice/tree/main/0066-plus-one/) | Easy |
 | [0069-sqrtx](https://github.com/g7xu/leetcode-practice/tree/main/0069-sqrtx/) | Easy |
 | [0070-climbing-stairs](https://github.com/g7xu/leetcode-practice/tree/main/0070-climbing-stairs/) | Easy |
 | [0096-unique-binary-search-trees](https://github.com/g7xu/leetcode-practice/tree/main/0096-unique-binary-search-trees/) | Medium |
