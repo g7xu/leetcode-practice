@@ -40,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/g7xu/leetcode-practice/tree/main/0217-contains-duplicate/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/g7xu/leetcode-practice/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0243-shortest-word-distance](https://github.com/g7xu/leetcode-practice/tree/main/0243-shortest-word-distance/) | Easy |
+| [0252-meeting-rooms](https://github.com/g7xu/leetcode-practice/tree/main/0252-meeting-rooms/) | Easy |
 | [0253-meeting-rooms-ii](https://github.com/g7xu/leetcode-practice/tree/main/0253-meeting-rooms-ii/) | Medium |
 | [0271-encode-and-decode-strings](https://github.com/g7xu/leetcode-practice/tree/main/0271-encode-and-decode-strings/) | Medium |
 | [0280-wiggle-sort](https://github.com/g7xu/leetcode-practice/tree/main/0280-wiggle-sort/) | Medium |
@@ -337,6 +338,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0215-kth-largest-element-in-an-array](https://github.com/g7xu/leetcode-practice/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/g7xu/leetcode-practice/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/g7xu/leetcode-practice/tree/main/0242-valid-anagram/) | Easy |
+| [0252-meeting-rooms](https://github.com/g7xu/leetcode-practice/tree/main/0252-meeting-rooms/) | Easy |
 | [0253-meeting-rooms-ii](https://github.com/g7xu/leetcode-practice/tree/main/0253-meeting-rooms-ii/) | Medium |
 | [0280-wiggle-sort](https://github.com/g7xu/leetcode-practice/tree/main/0280-wiggle-sort/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/g7xu/leetcode-practice/tree/main/0435-non-overlapping-intervals/) | Medium |
