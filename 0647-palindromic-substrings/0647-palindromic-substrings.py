@@ -16,9 +16,7 @@ class Solution:
 
         for i in range(len(s)):
             res += helper(s, i, i)
-
-            if i < len(s) - 1:
-                res += helper(s, i, i + 1)
+            res += helper(s, i, i + 1)
 
 
             
