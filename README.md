@@ -88,6 +88,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1133-largest-unique-number](https://github.com/g7xu/leetcode-practice/tree/main/1133-largest-unique-number/) | Easy |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/g7xu/leetcode-practice/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
 | [1243-array-transformation](https://github.com/g7xu/leetcode-practice/tree/main/1243-array-transformation/) | Easy |
+| [1288-remove-covered-intervals](https://github.com/g7xu/leetcode-practice/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/g7xu/leetcode-practice/tree/main/1299-replace-elements-with-greatest-element-on-right-side/) | Easy |
 | [1408-string-matching-in-an-array](https://github.com/g7xu/leetcode-practice/tree/main/1408-string-matching-in-an-array/) | Easy |
 | [1426-counting-elements](https://github.com/g7xu/leetcode-practice/tree/main/1426-counting-elements/) | Easy |
@@ -358,6 +359,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0977-squares-of-a-sorted-array](https://github.com/g7xu/leetcode-practice/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1122-relative-sort-array](https://github.com/g7xu/leetcode-practice/tree/main/1122-relative-sort-array/) | Easy |
 | [1133-largest-unique-number](https://github.com/g7xu/leetcode-practice/tree/main/1133-largest-unique-number/) | Easy |
+| [1288-remove-covered-intervals](https://github.com/g7xu/leetcode-practice/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/g7xu/leetcode-practice/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/g7xu/leetcode-practice/tree/main/1647-minimum-deletions-to-make-character-frequencies-unique/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/g7xu/leetcode-practice/tree/main/1833-maximum-ice-cream-bars/) | Medium |
