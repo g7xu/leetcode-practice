@@ -95,6 +95,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1133-largest-unique-number](https://github.com/g7xu/leetcode-practice/tree/main/1133-largest-unique-number/) | Easy |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/g7xu/leetcode-practice/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
 | [1243-array-transformation](https://github.com/g7xu/leetcode-practice/tree/main/1243-array-transformation/) | Easy |
+| [1248-count-number-of-nice-subarrays](https://github.com/g7xu/leetcode-practice/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1288-remove-covered-intervals](https://github.com/g7xu/leetcode-practice/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/g7xu/leetcode-practice/tree/main/1299-replace-elements-with-greatest-element-on-right-side/) | Easy |
 | [1408-string-matching-in-an-array](https://github.com/g7xu/leetcode-practice/tree/main/1408-string-matching-in-an-array/) | Easy |
@@ -186,6 +187,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/g7xu/leetcode-practice/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
 | [1165-single-row-keyboard](https://github.com/g7xu/leetcode-practice/tree/main/1165-single-row-keyboard/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/g7xu/leetcode-practice/tree/main/1189-maximum-number-of-balloons/) | Easy |
+| [1248-count-number-of-nice-subarrays](https://github.com/g7xu/leetcode-practice/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1426-counting-elements](https://github.com/g7xu/leetcode-practice/tree/main/1426-counting-elements/) | Easy |
 | [1436-destination-city](https://github.com/g7xu/leetcode-practice/tree/main/1436-destination-city/) | Easy |
 | [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/g7xu/leetcode-practice/tree/main/1443-minimum-time-to-collect-all-apples-in-a-tree/) | Medium |
@@ -221,6 +223,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0904-fruit-into-baskets](https://github.com/g7xu/leetcode-practice/tree/main/0904-fruit-into-baskets/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/g7xu/leetcode-practice/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1100-find-k-length-substrings-with-no-repeated-characters](https://github.com/g7xu/leetcode-practice/tree/main/1100-find-k-length-substrings-with-no-repeated-characters/) | Medium |
+| [1248-count-number-of-nice-subarrays](https://github.com/g7xu/leetcode-practice/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -240,6 +243,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0877-stone-game](https://github.com/g7xu/leetcode-practice/tree/main/0877-stone-game/) | Medium |
 | [1056-confusing-number](https://github.com/g7xu/leetcode-practice/tree/main/1056-confusing-number/) | Easy |
 | [1180-count-substrings-with-only-one-distinct-letter](https://github.com/g7xu/leetcode-practice/tree/main/1180-count-substrings-with-only-one-distinct-letter/) | Easy |
+| [1248-count-number-of-nice-subarrays](https://github.com/g7xu/leetcode-practice/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1344-angle-between-hands-of-a-clock](https://github.com/g7xu/leetcode-practice/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [1427-perform-string-shifts](https://github.com/g7xu/leetcode-practice/tree/main/1427-perform-string-shifts/) | Easy |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/g7xu/leetcode-practice/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
@@ -811,6 +815,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0238-product-of-array-except-self](https://github.com/g7xu/leetcode-practice/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0253-meeting-rooms-ii](https://github.com/g7xu/leetcode-practice/tree/main/0253-meeting-rooms-ii/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/g7xu/leetcode-practice/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [1248-count-number-of-nice-subarrays](https://github.com/g7xu/leetcode-practice/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/g7xu/leetcode-practice/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 ## Quickselect
 | Problem Name | Difficulty |
