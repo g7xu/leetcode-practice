@@ -96,6 +96,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/g7xu/leetcode-practice/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
 | [1243-array-transformation](https://github.com/g7xu/leetcode-practice/tree/main/1243-array-transformation/) | Easy |
 | [1248-count-number-of-nice-subarrays](https://github.com/g7xu/leetcode-practice/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
+| [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/g7xu/leetcode-practice/tree/main/1282-group-the-people-given-the-group-size-they-belong-to/) | Medium |
 | [1288-remove-covered-intervals](https://github.com/g7xu/leetcode-practice/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/g7xu/leetcode-practice/tree/main/1299-replace-elements-with-greatest-element-on-right-side/) | Easy |
 | [1408-string-matching-in-an-array](https://github.com/g7xu/leetcode-practice/tree/main/1408-string-matching-in-an-array/) | Easy |
@@ -188,6 +189,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1165-single-row-keyboard](https://github.com/g7xu/leetcode-practice/tree/main/1165-single-row-keyboard/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/g7xu/leetcode-practice/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1248-count-number-of-nice-subarrays](https://github.com/g7xu/leetcode-practice/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
+| [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/g7xu/leetcode-practice/tree/main/1282-group-the-people-given-the-group-size-they-belong-to/) | Medium |
 | [1426-counting-elements](https://github.com/g7xu/leetcode-practice/tree/main/1426-counting-elements/) | Easy |
 | [1436-destination-city](https://github.com/g7xu/leetcode-practice/tree/main/1436-destination-city/) | Easy |
 | [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/g7xu/leetcode-practice/tree/main/1443-minimum-time-to-collect-all-apples-in-a-tree/) | Medium |
@@ -351,6 +353,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0846-hand-of-straights](https://github.com/g7xu/leetcode-practice/tree/main/0846-hand-of-straights/) | Medium |
 | [0881-boats-to-save-people](https://github.com/g7xu/leetcode-practice/tree/main/0881-boats-to-save-people/) | Medium |
 | [1055-shortest-way-to-form-string](https://github.com/g7xu/leetcode-practice/tree/main/1055-shortest-way-to-form-string/) | Medium |
+| [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/g7xu/leetcode-practice/tree/main/1282-group-the-people-given-the-group-size-they-belong-to/) | Medium |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/g7xu/leetcode-practice/tree/main/1647-minimum-deletions-to-make-character-frequencies-unique/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/g7xu/leetcode-practice/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/g7xu/leetcode-practice/tree/main/1899-merge-triplets-to-form-target-triplet/) | Medium |
