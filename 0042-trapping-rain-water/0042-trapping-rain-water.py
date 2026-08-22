@@ -17,8 +17,6 @@ class Solution:
 
         right_to_left_max = right_to_left_max[::-1]
 
-        print(left_to_right_max, right_to_left_max)
-
         res = 0
 
         for i, j, b in zip(left_to_right_max, right_to_left_max, height):
