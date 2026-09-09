@@ -258,6 +258,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/g7xu/leetcode-practice/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 | [3667-sort-array-by-absolute-value](https://github.com/g7xu/leetcode-practice/tree/main/3667-sort-array-by-absolute-value/) | Easy |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/g7xu/leetcode-practice/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
+| [3871-count-commas-in-range-ii](https://github.com/g7xu/leetcode-practice/tree/main/3871-count-commas-in-range-ii/) | Medium |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
