@@ -251,6 +251,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/g7xu/leetcode-practice/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
 | [1344-angle-between-hands-of-a-clock](https://github.com/g7xu/leetcode-practice/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [1427-perform-string-shifts](https://github.com/g7xu/leetcode-practice/tree/main/1427-perform-string-shifts/) | Easy |
+| [1523-count-odd-numbers-in-an-interval-range](https://github.com/g7xu/leetcode-practice/tree/main/1523-count-odd-numbers-in-an-interval-range/) | Easy |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/g7xu/leetcode-practice/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1688-count-of-matches-in-tournament](https://github.com/g7xu/leetcode-practice/tree/main/1688-count-of-matches-in-tournament/) | Easy |
 | [2965-find-missing-and-repeated-values](https://github.com/g7xu/leetcode-practice/tree/main/2965-find-missing-and-repeated-values/) | Easy |
