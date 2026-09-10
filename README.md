@@ -166,6 +166,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0290-word-pattern](https://github.com/g7xu/leetcode-practice/tree/main/0290-word-pattern/) | Easy |
 | [0359-logger-rate-limiter](https://github.com/g7xu/leetcode-practice/tree/main/0359-logger-rate-limiter/) | Easy |
 | [0383-ransom-note](https://github.com/g7xu/leetcode-practice/tree/main/0383-ransom-note/) | Easy |
+| [0389-find-the-difference](https://github.com/g7xu/leetcode-practice/tree/main/0389-find-the-difference/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/g7xu/leetcode-practice/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/g7xu/leetcode-practice/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0460-lfu-cache](https://github.com/g7xu/leetcode-practice/tree/main/0460-lfu-cache/) | Hard |
@@ -294,6 +295,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0290-word-pattern](https://github.com/g7xu/leetcode-practice/tree/main/0290-word-pattern/) | Easy |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/g7xu/leetcode-practice/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0383-ransom-note](https://github.com/g7xu/leetcode-practice/tree/main/0383-ransom-note/) | Easy |
+| [0389-find-the-difference](https://github.com/g7xu/leetcode-practice/tree/main/0389-find-the-difference/) | Easy |
 | [0392-is-subsequence](https://github.com/g7xu/leetcode-practice/tree/main/0392-is-subsequence/) | Easy |
 | [0402-remove-k-digits](https://github.com/g7xu/leetcode-practice/tree/main/0402-remove-k-digits/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/g7xu/leetcode-practice/tree/main/0424-longest-repeating-character-replacement/) | Medium |
@@ -379,6 +381,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0252-meeting-rooms](https://github.com/g7xu/leetcode-practice/tree/main/0252-meeting-rooms/) | Easy |
 | [0253-meeting-rooms-ii](https://github.com/g7xu/leetcode-practice/tree/main/0253-meeting-rooms-ii/) | Medium |
 | [0280-wiggle-sort](https://github.com/g7xu/leetcode-practice/tree/main/0280-wiggle-sort/) | Medium |
+| [0389-find-the-difference](https://github.com/g7xu/leetcode-practice/tree/main/0389-find-the-difference/) | Easy |
 | [0435-non-overlapping-intervals](https://github.com/g7xu/leetcode-practice/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0645-set-mismatch](https://github.com/g7xu/leetcode-practice/tree/main/0645-set-mismatch/) | Easy |
 | [0646-maximum-length-of-pair-chain](https://github.com/g7xu/leetcode-practice/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
@@ -853,6 +856,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0136-single-number](https://github.com/g7xu/leetcode-practice/tree/main/0136-single-number/) | Easy |
 | [0266-palindrome-permutation](https://github.com/g7xu/leetcode-practice/tree/main/0266-palindrome-permutation/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/g7xu/leetcode-practice/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0389-find-the-difference](https://github.com/g7xu/leetcode-practice/tree/main/0389-find-the-difference/) | Easy |
 | [0645-set-mismatch](https://github.com/g7xu/leetcode-practice/tree/main/0645-set-mismatch/) | Easy |
 | [0980-unique-paths-iii](https://github.com/g7xu/leetcode-practice/tree/main/0980-unique-paths-iii/) | Hard |
 | [1684-count-the-number-of-consistent-strings](https://github.com/g7xu/leetcode-practice/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
