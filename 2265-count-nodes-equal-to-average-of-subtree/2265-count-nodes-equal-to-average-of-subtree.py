@@ -31,7 +31,7 @@ class Solution(object):
         :type root: TreeNode
         :rtype: int
         """
-        
+
         def helper(node):
             if node is None:
                 return 0, 0, 0
@@ -40,10 +40,13 @@ class Solution(object):
             r_sum, r_c, r_res = helper(node.right)
 
             res = l_res + r_res
-            if (l_sum + r_sum + node.val) // (l_c + r_c + 1) == node.val:
+            c_sum = l_sum + r_sum + node.val
+            c_c = l_c + r_c + 1
+
+            if c_sum // c_c == node.val:
                 res += 1
 
-            return l_sum + r_sum + node.val, l_c + r_c + 1, res 
+            return c_sum, c_c, res 
 
         _, _, res = helper(root)
 
