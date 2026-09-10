@@ -632,6 +632,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/g7xu/leetcode-practice/tree/main/1443-minimum-time-to-collect-all-apples-in-a-tree/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/g7xu/leetcode-practice/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 | [1462-course-schedule-iv](https://github.com/g7xu/leetcode-practice/tree/main/1462-course-schedule-iv/) | Medium |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/g7xu/leetcode-practice/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/g7xu/leetcode-practice/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 | [3310-remove-methods-from-project](https://github.com/g7xu/leetcode-practice/tree/main/3310-remove-methods-from-project/) | Medium |
 | [3481-apply-substitutions](https://github.com/g7xu/leetcode-practice/tree/main/3481-apply-substitutions/) | Medium |
@@ -737,6 +738,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/g7xu/leetcode-practice/tree/main/1443-minimum-time-to-collect-all-apples-in-a-tree/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/g7xu/leetcode-practice/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/g7xu/leetcode-practice/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/g7xu/leetcode-practice/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -767,6 +769,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1120-maximum-average-subtree](https://github.com/g7xu/leetcode-practice/tree/main/1120-maximum-average-subtree/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/g7xu/leetcode-practice/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/g7xu/leetcode-practice/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/g7xu/leetcode-practice/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Data Stream
 | Problem Name | Difficulty |
 | ------- | ------- |
