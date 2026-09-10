@@ -629,6 +629,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0695-max-area-of-island](https://github.com/g7xu/leetcode-practice/tree/main/0695-max-area-of-island/) | Medium |
 | [0743-network-delay-time](https://github.com/g7xu/leetcode-practice/tree/main/0743-network-delay-time/) | Medium |
 | [1120-maximum-average-subtree](https://github.com/g7xu/leetcode-practice/tree/main/1120-maximum-average-subtree/) | Medium |
+| [1376-time-needed-to-inform-all-employees](https://github.com/g7xu/leetcode-practice/tree/main/1376-time-needed-to-inform-all-employees/) | Medium |
 | [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/g7xu/leetcode-practice/tree/main/1443-minimum-time-to-collect-all-apples-in-a-tree/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/g7xu/leetcode-practice/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 | [1462-course-schedule-iv](https://github.com/g7xu/leetcode-practice/tree/main/1462-course-schedule-iv/) | Medium |
@@ -658,6 +659,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0752-open-the-lock](https://github.com/g7xu/leetcode-practice/tree/main/0752-open-the-lock/) | Medium |
 | [0994-rotting-oranges](https://github.com/g7xu/leetcode-practice/tree/main/0994-rotting-oranges/) | Medium |
 | [1197-minimum-knight-moves](https://github.com/g7xu/leetcode-practice/tree/main/1197-minimum-knight-moves/) | Medium |
+| [1376-time-needed-to-inform-all-employees](https://github.com/g7xu/leetcode-practice/tree/main/1376-time-needed-to-inform-all-employees/) | Medium |
 | [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/g7xu/leetcode-practice/tree/main/1443-minimum-time-to-collect-all-apples-in-a-tree/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/g7xu/leetcode-practice/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 | [1462-course-schedule-iv](https://github.com/g7xu/leetcode-practice/tree/main/1462-course-schedule-iv/) | Medium |
@@ -735,6 +737,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0617-merge-two-binary-trees](https://github.com/g7xu/leetcode-practice/tree/main/0617-merge-two-binary-trees/) | Easy |
 | [0703-kth-largest-element-in-a-stream](https://github.com/g7xu/leetcode-practice/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [1120-maximum-average-subtree](https://github.com/g7xu/leetcode-practice/tree/main/1120-maximum-average-subtree/) | Medium |
+| [1376-time-needed-to-inform-all-employees](https://github.com/g7xu/leetcode-practice/tree/main/1376-time-needed-to-inform-all-employees/) | Medium |
 | [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/g7xu/leetcode-practice/tree/main/1443-minimum-time-to-collect-all-apples-in-a-tree/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/g7xu/leetcode-practice/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/g7xu/leetcode-practice/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
