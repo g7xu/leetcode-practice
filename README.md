@@ -166,6 +166,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0242-valid-anagram](https://github.com/g7xu/leetcode-practice/tree/main/0242-valid-anagram/) | Easy |
 | [0266-palindrome-permutation](https://github.com/g7xu/leetcode-practice/tree/main/0266-palindrome-permutation/) | Easy |
 | [0290-word-pattern](https://github.com/g7xu/leetcode-practice/tree/main/0290-word-pattern/) | Easy |
+| [0340-longest-substring-with-at-most-k-distinct-characters](https://github.com/g7xu/leetcode-practice/tree/main/0340-longest-substring-with-at-most-k-distinct-characters/) | Medium |
 | [0359-logger-rate-limiter](https://github.com/g7xu/leetcode-practice/tree/main/0359-logger-rate-limiter/) | Easy |
 | [0383-ransom-note](https://github.com/g7xu/leetcode-practice/tree/main/0383-ransom-note/) | Easy |
 | [0389-find-the-difference](https://github.com/g7xu/leetcode-practice/tree/main/0389-find-the-difference/) | Easy |
@@ -225,6 +226,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/g7xu/leetcode-practice/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0076-minimum-window-substring](https://github.com/g7xu/leetcode-practice/tree/main/0076-minimum-window-substring/) | Hard |
+| [0340-longest-substring-with-at-most-k-distinct-characters](https://github.com/g7xu/leetcode-practice/tree/main/0340-longest-substring-with-at-most-k-distinct-characters/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/g7xu/leetcode-practice/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0567-permutation-in-string](https://github.com/g7xu/leetcode-practice/tree/main/0567-permutation-in-string/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/g7xu/leetcode-practice/tree/main/0904-fruit-into-baskets/) | Medium |
@@ -299,6 +301,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0271-encode-and-decode-strings](https://github.com/g7xu/leetcode-practice/tree/main/0271-encode-and-decode-strings/) | Medium |
 | [0290-word-pattern](https://github.com/g7xu/leetcode-practice/tree/main/0290-word-pattern/) | Easy |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/g7xu/leetcode-practice/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
+| [0340-longest-substring-with-at-most-k-distinct-characters](https://github.com/g7xu/leetcode-practice/tree/main/0340-longest-substring-with-at-most-k-distinct-characters/) | Medium |
 | [0383-ransom-note](https://github.com/g7xu/leetcode-practice/tree/main/0383-ransom-note/) | Easy |
 | [0389-find-the-difference](https://github.com/g7xu/leetcode-practice/tree/main/0389-find-the-difference/) | Easy |
 | [0392-is-subsequence](https://github.com/g7xu/leetcode-practice/tree/main/0392-is-subsequence/) | Easy |
