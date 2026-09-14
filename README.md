@@ -244,6 +244,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0189-rotate-array](https://github.com/g7xu/leetcode-practice/tree/main/0189-rotate-array/) | Medium |
 | [0202-happy-number](https://github.com/g7xu/leetcode-practice/tree/main/0202-happy-number/) | Easy |
 | [0204-count-primes](https://github.com/g7xu/leetcode-practice/tree/main/0204-count-primes/) | Medium |
+| [0836-rectangle-overlap](https://github.com/g7xu/leetcode-practice/tree/main/0836-rectangle-overlap/) | Easy |
 | [0877-stone-game](https://github.com/g7xu/leetcode-practice/tree/main/0877-stone-game/) | Medium |
 | [1056-confusing-number](https://github.com/g7xu/leetcode-practice/tree/main/1056-confusing-number/) | Easy |
 | [1180-count-substrings-with-only-one-distinct-letter](https://github.com/g7xu/leetcode-practice/tree/main/1180-count-substrings-with-only-one-distinct-letter/) | Easy |
@@ -925,4 +926,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0979-distribute-coins-in-binary-tree](https://github.com/g7xu/leetcode-practice/tree/main/0979-distribute-coins-in-binary-tree/) | Medium |
+## Geometry
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0836-rectangle-overlap](https://github.com/g7xu/leetcode-practice/tree/main/0836-rectangle-overlap/) | Easy |
 <!---LeetCode Topics End-->
