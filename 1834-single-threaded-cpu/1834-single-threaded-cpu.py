@@ -24,10 +24,7 @@ class Solution(object):
         :type tasks: List[List[int]]
         :rtype: List[int]
         """
-
         sorted_tasks = sorted([[i, tasks[i][0], tasks[i][1]] for i in range(len(tasks))], key = lambda x: x[1])
-
-        print(sorted_tasks)
 
         MinHeap = []
         res = []
