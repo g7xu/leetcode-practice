@@ -252,6 +252,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0189-rotate-array](https://github.com/g7xu/leetcode-practice/tree/main/0189-rotate-array/) | Medium |
 | [0202-happy-number](https://github.com/g7xu/leetcode-practice/tree/main/0202-happy-number/) | Easy |
 | [0204-count-primes](https://github.com/g7xu/leetcode-practice/tree/main/0204-count-primes/) | Medium |
+| [0227-basic-calculator-ii](https://github.com/g7xu/leetcode-practice/tree/main/0227-basic-calculator-ii/) | Medium |
 | [0670-maximum-swap](https://github.com/g7xu/leetcode-practice/tree/main/0670-maximum-swap/) | Medium |
 | [0836-rectangle-overlap](https://github.com/g7xu/leetcode-practice/tree/main/0836-rectangle-overlap/) | Easy |
 | [0877-stone-game](https://github.com/g7xu/leetcode-practice/tree/main/0877-stone-game/) | Medium |
@@ -301,6 +302,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0205-isomorphic-strings](https://github.com/g7xu/leetcode-practice/tree/main/0205-isomorphic-strings/) | Easy |
 | [0208-implement-trie-prefix-tree](https://github.com/g7xu/leetcode-practice/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0211-design-add-and-search-words-data-structure](https://github.com/g7xu/leetcode-practice/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
+| [0227-basic-calculator-ii](https://github.com/g7xu/leetcode-practice/tree/main/0227-basic-calculator-ii/) | Medium |
 | [0242-valid-anagram](https://github.com/g7xu/leetcode-practice/tree/main/0242-valid-anagram/) | Easy |
 | [0243-shortest-word-distance](https://github.com/g7xu/leetcode-practice/tree/main/0243-shortest-word-distance/) | Easy |
 | [0266-palindrome-permutation](https://github.com/g7xu/leetcode-practice/tree/main/0266-palindrome-permutation/) | Easy |
@@ -590,6 +592,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0144-binary-tree-preorder-traversal](https://github.com/g7xu/leetcode-practice/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/g7xu/leetcode-practice/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0155-min-stack](https://github.com/g7xu/leetcode-practice/tree/main/0155-min-stack/) | Medium |
+| [0227-basic-calculator-ii](https://github.com/g7xu/leetcode-practice/tree/main/0227-basic-calculator-ii/) | Medium |
 | [0402-remove-k-digits](https://github.com/g7xu/leetcode-practice/tree/main/0402-remove-k-digits/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/g7xu/leetcode-practice/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0739-daily-temperatures](https://github.com/g7xu/leetcode-practice/tree/main/0739-daily-temperatures/) | Medium |
