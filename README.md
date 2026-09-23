@@ -112,6 +112,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1552-magnetic-force-between-two-balls](https://github.com/g7xu/leetcode-practice/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
 | [1584-min-cost-to-connect-all-points](https://github.com/g7xu/leetcode-practice/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
 | [1639-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/g7xu/leetcode-practice/tree/main/1639-number-of-ways-to-form-a-target-string-given-a-dictionary/) | Hard |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/g7xu/leetcode-practice/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1684-count-the-number-of-consistent-strings](https://github.com/g7xu/leetcode-practice/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/g7xu/leetcode-practice/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [1765-map-of-highest-peak](https://github.com/g7xu/leetcode-practice/tree/main/1765-map-of-highest-peak/) | Medium |
@@ -204,6 +205,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/g7xu/leetcode-practice/tree/main/1443-minimum-time-to-collect-all-apples-in-a-tree/) | Medium |
 | [1496-path-crossing](https://github.com/g7xu/leetcode-practice/tree/main/1496-path-crossing/) | Easy |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/g7xu/leetcode-practice/tree/main/1647-minimum-deletions-to-make-character-frequencies-unique/) | Medium |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/g7xu/leetcode-practice/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1684-count-the-number-of-consistent-strings](https://github.com/g7xu/leetcode-practice/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/g7xu/leetcode-practice/tree/main/1857-largest-color-value-in-a-directed-graph/) | Hard |
 | [1980-find-unique-binary-string](https://github.com/g7xu/leetcode-practice/tree/main/1980-find-unique-binary-string/) | Medium |
@@ -236,6 +238,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1004-max-consecutive-ones-iii](https://github.com/g7xu/leetcode-practice/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1100-find-k-length-substrings-with-no-repeated-characters](https://github.com/g7xu/leetcode-practice/tree/main/1100-find-k-length-substrings-with-no-repeated-characters/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/g7xu/leetcode-practice/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/g7xu/leetcode-practice/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -507,6 +510,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1004-max-consecutive-ones-iii](https://github.com/g7xu/leetcode-practice/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1055-shortest-way-to-form-string](https://github.com/g7xu/leetcode-practice/tree/main/1055-shortest-way-to-form-string/) | Medium |
 | [1552-magnetic-force-between-two-balls](https://github.com/g7xu/leetcode-practice/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/g7xu/leetcode-practice/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/g7xu/leetcode-practice/tree/main/2300-successful-pairs-of-spells-and-potions/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/g7xu/leetcode-practice/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 ## Backtracking
@@ -870,6 +874,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1004-max-consecutive-ones-iii](https://github.com/g7xu/leetcode-practice/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/g7xu/leetcode-practice/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/g7xu/leetcode-practice/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/g7xu/leetcode-practice/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 ## Quickselect
 | Problem Name | Difficulty |
 | ------- | ------- |
