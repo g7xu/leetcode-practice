@@ -348,6 +348,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1639-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/g7xu/leetcode-practice/tree/main/1639-number-of-ways-to-form-a-target-string-given-a-dictionary/) | Hard |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/g7xu/leetcode-practice/tree/main/1647-minimum-deletions-to-make-character-frequencies-unique/) | Medium |
 | [1684-count-the-number-of-consistent-strings](https://github.com/g7xu/leetcode-practice/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
+| [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/g7xu/leetcode-practice/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/g7xu/leetcode-practice/tree/main/1857-largest-color-value-in-a-directed-graph/) | Hard |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/g7xu/leetcode-practice/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/g7xu/leetcode-practice/tree/main/1980-find-unique-binary-string/) | Medium |
