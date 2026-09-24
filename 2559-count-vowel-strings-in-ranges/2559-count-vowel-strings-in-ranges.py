@@ -10,9 +10,6 @@ class Solution:
             else:
                 prefix_vowels.append(prefix_vowels[-1])
 
-        # prefix_vowels = prefix_vowels + [prefix_vowels[-1]]
-        print(prefix_vowels)
-
         res = []
         for a, b in queries:
             res.append(prefix_vowels[b + 1] - prefix_vowels[a])
