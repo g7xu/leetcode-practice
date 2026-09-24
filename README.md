@@ -341,6 +341,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1180-count-substrings-with-only-one-distinct-letter](https://github.com/g7xu/leetcode-practice/tree/main/1180-count-substrings-with-only-one-distinct-letter/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/g7xu/leetcode-practice/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1408-string-matching-in-an-array](https://github.com/g7xu/leetcode-practice/tree/main/1408-string-matching-in-an-array/) | Easy |
+| [1422-maximum-score-after-splitting-a-string](https://github.com/g7xu/leetcode-practice/tree/main/1422-maximum-score-after-splitting-a-string/) | Easy |
 | [1427-perform-string-shifts](https://github.com/g7xu/leetcode-practice/tree/main/1427-perform-string-shifts/) | Easy |
 | [1436-destination-city](https://github.com/g7xu/leetcode-practice/tree/main/1436-destination-city/) | Easy |
 | [1496-path-crossing](https://github.com/g7xu/leetcode-practice/tree/main/1496-path-crossing/) | Easy |
@@ -877,6 +878,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0974-subarray-sums-divisible-by-k](https://github.com/g7xu/leetcode-practice/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/g7xu/leetcode-practice/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/g7xu/leetcode-practice/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
+| [1422-maximum-score-after-splitting-a-string](https://github.com/g7xu/leetcode-practice/tree/main/1422-maximum-score-after-splitting-a-string/) | Easy |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/g7xu/leetcode-practice/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/g7xu/leetcode-practice/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [2483-minimum-penalty-for-a-shop](https://github.com/g7xu/leetcode-practice/tree/main/2483-minimum-penalty-for-a-shop/) | Medium |
