@@ -352,6 +352,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1980-find-unique-binary-string](https://github.com/g7xu/leetcode-practice/tree/main/1980-find-unique-binary-string/) | Medium |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/g7xu/leetcode-practice/tree/main/1985-find-the-kth-largest-integer-in-the-array/) | Medium |
 | [2053-kth-distinct-string-in-an-array](https://github.com/g7xu/leetcode-practice/tree/main/2053-kth-distinct-string-in-an-array/) | Easy |
+| [2264-largest-3-same-digit-number-in-string](https://github.com/g7xu/leetcode-practice/tree/main/2264-largest-3-same-digit-number-in-string/) | Easy |
 | [2375-construct-smallest-number-from-di-string](https://github.com/g7xu/leetcode-practice/tree/main/2375-construct-smallest-number-from-di-string/) | Medium |
 | [2405-optimal-partition-of-string](https://github.com/g7xu/leetcode-practice/tree/main/2405-optimal-partition-of-string/) | Medium |
 | [2418-sort-the-people](https://github.com/g7xu/leetcode-practice/tree/main/2418-sort-the-people/) | Easy |
