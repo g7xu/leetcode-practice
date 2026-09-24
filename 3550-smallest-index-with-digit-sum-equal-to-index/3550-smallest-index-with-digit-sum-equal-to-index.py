@@ -9,10 +9,6 @@ class Solution:
 
             return res
 
-        # nums = sorted([(val, idx) for idx, val in enumerate(nums)])
-
-        # print(nums)
-
         for i in range(len(nums)):
             if helper(nums[i]) == i:
                 return i
