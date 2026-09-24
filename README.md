@@ -136,6 +136,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/g7xu/leetcode-practice/tree/main/2491-divide-players-into-teams-of-equal-skill/) | Medium |
 | [2530-maximal-score-after-applying-k-operations](https://github.com/g7xu/leetcode-practice/tree/main/2530-maximal-score-after-applying-k-operations/) | Medium |
 | [2553-separate-the-digits-in-an-array](https://github.com/g7xu/leetcode-practice/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
+| [2559-count-vowel-strings-in-ranges](https://github.com/g7xu/leetcode-practice/tree/main/2559-count-vowel-strings-in-ranges/) | Medium |
 | [2672-number-of-adjacent-elements-with-the-same-color](https://github.com/g7xu/leetcode-practice/tree/main/2672-number-of-adjacent-elements-with-the-same-color/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/g7xu/leetcode-practice/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2965-find-missing-and-repeated-values](https://github.com/g7xu/leetcode-practice/tree/main/2965-find-missing-and-repeated-values/) | Easy |
@@ -370,6 +371,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2405-optimal-partition-of-string](https://github.com/g7xu/leetcode-practice/tree/main/2405-optimal-partition-of-string/) | Medium |
 | [2418-sort-the-people](https://github.com/g7xu/leetcode-practice/tree/main/2418-sort-the-people/) | Easy |
 | [2483-minimum-penalty-for-a-shop](https://github.com/g7xu/leetcode-practice/tree/main/2483-minimum-penalty-for-a-shop/) | Medium |
+| [2559-count-vowel-strings-in-ranges](https://github.com/g7xu/leetcode-practice/tree/main/2559-count-vowel-strings-in-ranges/) | Medium |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/g7xu/leetcode-practice/tree/main/2696-minimum-string-length-after-removing-substrings/) | Easy |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/g7xu/leetcode-practice/tree/main/2839-check-if-strings-can-be-made-equal-with-operations-i/) | Easy |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/g7xu/leetcode-practice/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
@@ -898,6 +900,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/g7xu/leetcode-practice/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/g7xu/leetcode-practice/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [2483-minimum-penalty-for-a-shop](https://github.com/g7xu/leetcode-practice/tree/main/2483-minimum-penalty-for-a-shop/) | Medium |
+| [2559-count-vowel-strings-in-ranges](https://github.com/g7xu/leetcode-practice/tree/main/2559-count-vowel-strings-in-ranges/) | Medium |
 ## Quickselect
 | Problem Name | Difficulty |
 | ------- | ------- |
