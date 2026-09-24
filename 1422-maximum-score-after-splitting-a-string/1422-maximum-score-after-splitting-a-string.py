@@ -20,9 +20,6 @@ class Solution:
         postfix_one = postfix_one[::-1][1:-1]
 
 
-        print(prefix_zero)
-        print(postfix_one)
-
         res = 0
 
         for a, b in zip(prefix_zero, postfix_one):
