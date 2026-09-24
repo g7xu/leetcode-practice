@@ -92,6 +92,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0980-unique-paths-iii](https://github.com/g7xu/leetcode-practice/tree/main/0980-unique-paths-iii/) | Hard |
 | [0983-minimum-cost-for-tickets](https://github.com/g7xu/leetcode-practice/tree/main/0983-minimum-cost-for-tickets/) | Medium |
 | [0994-rotting-oranges](https://github.com/g7xu/leetcode-practice/tree/main/0994-rotting-oranges/) | Medium |
+| [1002-find-common-characters](https://github.com/g7xu/leetcode-practice/tree/main/1002-find-common-characters/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/g7xu/leetcode-practice/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1046-last-stone-weight](https://github.com/g7xu/leetcode-practice/tree/main/1046-last-stone-weight/) | Easy |
 | [1122-relative-sort-array](https://github.com/g7xu/leetcode-practice/tree/main/1122-relative-sort-array/) | Easy |
@@ -194,6 +195,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0929-unique-email-addresses](https://github.com/g7xu/leetcode-practice/tree/main/0929-unique-email-addresses/) | Easy |
 | [0974-subarray-sums-divisible-by-k](https://github.com/g7xu/leetcode-practice/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [0981-time-based-key-value-store](https://github.com/g7xu/leetcode-practice/tree/main/0981-time-based-key-value-store/) | Medium |
+| [1002-find-common-characters](https://github.com/g7xu/leetcode-practice/tree/main/1002-find-common-characters/) | Easy |
 | [1079-letter-tile-possibilities](https://github.com/g7xu/leetcode-practice/tree/main/1079-letter-tile-possibilities/) | Medium |
 | [1100-find-k-length-substrings-with-no-repeated-characters](https://github.com/g7xu/leetcode-practice/tree/main/1100-find-k-length-substrings-with-no-repeated-characters/) | Medium |
 | [1122-relative-sort-array](https://github.com/g7xu/leetcode-practice/tree/main/1122-relative-sort-array/) | Easy |
@@ -338,6 +340,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0838-push-dominoes](https://github.com/g7xu/leetcode-practice/tree/main/0838-push-dominoes/) | Medium |
 | [0929-unique-email-addresses](https://github.com/g7xu/leetcode-practice/tree/main/0929-unique-email-addresses/) | Easy |
 | [0981-time-based-key-value-store](https://github.com/g7xu/leetcode-practice/tree/main/0981-time-based-key-value-store/) | Medium |
+| [1002-find-common-characters](https://github.com/g7xu/leetcode-practice/tree/main/1002-find-common-characters/) | Easy |
 | [1055-shortest-way-to-form-string](https://github.com/g7xu/leetcode-practice/tree/main/1055-shortest-way-to-form-string/) | Medium |
 | [1079-letter-tile-possibilities](https://github.com/g7xu/leetcode-practice/tree/main/1079-letter-tile-possibilities/) | Medium |
 | [1100-find-k-length-substrings-with-no-repeated-characters](https://github.com/g7xu/leetcode-practice/tree/main/1100-find-k-length-substrings-with-no-repeated-characters/) | Medium |
