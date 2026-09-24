@@ -206,6 +206,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1436-destination-city](https://github.com/g7xu/leetcode-practice/tree/main/1436-destination-city/) | Easy |
 | [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/g7xu/leetcode-practice/tree/main/1443-minimum-time-to-collect-all-apples-in-a-tree/) | Medium |
 | [1496-path-crossing](https://github.com/g7xu/leetcode-practice/tree/main/1496-path-crossing/) | Easy |
+| [1624-largest-substring-between-two-equal-characters](https://github.com/g7xu/leetcode-practice/tree/main/1624-largest-substring-between-two-equal-characters/) | Easy |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/g7xu/leetcode-practice/tree/main/1647-minimum-deletions-to-make-character-frequencies-unique/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/g7xu/leetcode-practice/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1684-count-the-number-of-consistent-strings](https://github.com/g7xu/leetcode-practice/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
@@ -348,6 +349,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1427-perform-string-shifts](https://github.com/g7xu/leetcode-practice/tree/main/1427-perform-string-shifts/) | Easy |
 | [1436-destination-city](https://github.com/g7xu/leetcode-practice/tree/main/1436-destination-city/) | Easy |
 | [1496-path-crossing](https://github.com/g7xu/leetcode-practice/tree/main/1496-path-crossing/) | Easy |
+| [1624-largest-substring-between-two-equal-characters](https://github.com/g7xu/leetcode-practice/tree/main/1624-largest-substring-between-two-equal-characters/) | Easy |
 | [1639-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/g7xu/leetcode-practice/tree/main/1639-number-of-ways-to-form-a-target-string-given-a-dictionary/) | Hard |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/g7xu/leetcode-practice/tree/main/1647-minimum-deletions-to-make-character-frequencies-unique/) | Medium |
 | [1684-count-the-number-of-consistent-strings](https://github.com/g7xu/leetcode-practice/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
