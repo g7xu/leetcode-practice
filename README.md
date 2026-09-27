@@ -135,6 +135,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2341-maximum-number-of-pairs-in-array](https://github.com/g7xu/leetcode-practice/tree/main/2341-maximum-number-of-pairs-in-array/) | Easy |
 | [2365-task-scheduler-ii](https://github.com/g7xu/leetcode-practice/tree/main/2365-task-scheduler-ii/) | Medium |
 | [2418-sort-the-people](https://github.com/g7xu/leetcode-practice/tree/main/2418-sort-the-people/) | Easy |
+| [2467-most-profitable-path-in-a-tree](https://github.com/g7xu/leetcode-practice/tree/main/2467-most-profitable-path-in-a-tree/) | Medium |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/g7xu/leetcode-practice/tree/main/2491-divide-players-into-teams-of-equal-skill/) | Medium |
 | [2530-maximal-score-after-applying-k-operations](https://github.com/g7xu/leetcode-practice/tree/main/2530-maximal-score-after-applying-k-operations/) | Medium |
 | [2553-separate-the-digits-in-an-array](https://github.com/g7xu/leetcode-practice/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
@@ -694,6 +695,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1448-count-good-nodes-in-binary-tree](https://github.com/g7xu/leetcode-practice/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 | [1462-course-schedule-iv](https://github.com/g7xu/leetcode-practice/tree/main/1462-course-schedule-iv/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/g7xu/leetcode-practice/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
+| [2467-most-profitable-path-in-a-tree](https://github.com/g7xu/leetcode-practice/tree/main/2467-most-profitable-path-in-a-tree/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/g7xu/leetcode-practice/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 | [3310-remove-methods-from-project](https://github.com/g7xu/leetcode-practice/tree/main/3310-remove-methods-from-project/) | Medium |
 | [3481-apply-substitutions](https://github.com/g7xu/leetcode-practice/tree/main/3481-apply-substitutions/) | Medium |
@@ -725,6 +727,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1448-count-good-nodes-in-binary-tree](https://github.com/g7xu/leetcode-practice/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 | [1462-course-schedule-iv](https://github.com/g7xu/leetcode-practice/tree/main/1462-course-schedule-iv/) | Medium |
 | [1765-map-of-highest-peak](https://github.com/g7xu/leetcode-practice/tree/main/1765-map-of-highest-peak/) | Medium |
+| [2467-most-profitable-path-in-a-tree](https://github.com/g7xu/leetcode-practice/tree/main/2467-most-profitable-path-in-a-tree/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/g7xu/leetcode-practice/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 | [3310-remove-methods-from-project](https://github.com/g7xu/leetcode-practice/tree/main/3310-remove-methods-from-project/) | Medium |
 | [3481-apply-substitutions](https://github.com/g7xu/leetcode-practice/tree/main/3481-apply-substitutions/) | Medium |
@@ -740,6 +743,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1462-course-schedule-iv](https://github.com/g7xu/leetcode-practice/tree/main/1462-course-schedule-iv/) | Medium |
 | [1584-min-cost-to-connect-all-points](https://github.com/g7xu/leetcode-practice/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/g7xu/leetcode-practice/tree/main/1857-largest-color-value-in-a-directed-graph/) | Hard |
+| [2467-most-profitable-path-in-a-tree](https://github.com/g7xu/leetcode-practice/tree/main/2467-most-profitable-path-in-a-tree/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/g7xu/leetcode-practice/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 | [3310-remove-methods-from-project](https://github.com/g7xu/leetcode-practice/tree/main/3310-remove-methods-from-project/) | Medium |
 | [3481-apply-substitutions](https://github.com/g7xu/leetcode-practice/tree/main/3481-apply-substitutions/) | Medium |
@@ -808,6 +812,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1448-count-good-nodes-in-binary-tree](https://github.com/g7xu/leetcode-practice/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/g7xu/leetcode-practice/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/g7xu/leetcode-practice/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
+| [2467-most-profitable-path-in-a-tree](https://github.com/g7xu/leetcode-practice/tree/main/2467-most-profitable-path-in-a-tree/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
