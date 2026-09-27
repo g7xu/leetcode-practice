@@ -149,6 +149,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/g7xu/leetcode-practice/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/g7xu/leetcode-practice/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3572-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues](https://github.com/g7xu/leetcode-practice/tree/main/3572-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues/) | Medium |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/g7xu/leetcode-practice/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 | [3667-sort-array-by-absolute-value](https://github.com/g7xu/leetcode-practice/tree/main/3667-sort-array-by-absolute-value/) | Easy |
 | [3731-find-missing-elements](https://github.com/g7xu/leetcode-practice/tree/main/3731-find-missing-elements/) | Easy |
 ## Hash Table
@@ -696,6 +697,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2685-count-the-number-of-complete-components](https://github.com/g7xu/leetcode-practice/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 | [3310-remove-methods-from-project](https://github.com/g7xu/leetcode-practice/tree/main/3310-remove-methods-from-project/) | Medium |
 | [3481-apply-substitutions](https://github.com/g7xu/leetcode-practice/tree/main/3481-apply-substitutions/) | Medium |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/g7xu/leetcode-practice/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -726,6 +728,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2685-count-the-number-of-complete-components](https://github.com/g7xu/leetcode-practice/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 | [3310-remove-methods-from-project](https://github.com/g7xu/leetcode-practice/tree/main/3310-remove-methods-from-project/) | Medium |
 | [3481-apply-substitutions](https://github.com/g7xu/leetcode-practice/tree/main/3481-apply-substitutions/) | Medium |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/g7xu/leetcode-practice/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -864,6 +867,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1584-min-cost-to-connect-all-points](https://github.com/g7xu/leetcode-practice/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/g7xu/leetcode-practice/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/g7xu/leetcode-practice/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/g7xu/leetcode-practice/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Topological Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -894,6 +898,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2326-spiral-matrix-iv](https://github.com/g7xu/leetcode-practice/tree/main/2326-spiral-matrix-iv/) | Medium |
 | [2965-find-missing-and-repeated-values](https://github.com/g7xu/leetcode-practice/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [3071-minimum-operations-to-write-the-letter-y-on-a-grid](https://github.com/g7xu/leetcode-practice/tree/main/3071-minimum-operations-to-write-the-letter-y-on-a-grid/) | Medium |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/g7xu/leetcode-practice/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
