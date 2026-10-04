@@ -24,6 +24,4 @@ class Solution:
             return (max(include_curr, not_include_curr), not_include_curr)
 
 
-
-
         return max(helper(root))
