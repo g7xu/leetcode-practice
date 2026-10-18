@@ -352,6 +352,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0929-unique-email-addresses](https://github.com/g7xu/leetcode-practice/tree/main/0929-unique-email-addresses/) | Easy |
 | [0981-time-based-key-value-store](https://github.com/g7xu/leetcode-practice/tree/main/0981-time-based-key-value-store/) | Medium |
 | [1002-find-common-characters](https://github.com/g7xu/leetcode-practice/tree/main/1002-find-common-characters/) | Easy |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/g7xu/leetcode-practice/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1055-shortest-way-to-form-string](https://github.com/g7xu/leetcode-practice/tree/main/1055-shortest-way-to-form-string/) | Medium |
 | [1079-letter-tile-possibilities](https://github.com/g7xu/leetcode-practice/tree/main/1079-letter-tile-possibilities/) | Medium |
 | [1100-find-k-length-substrings-with-no-repeated-characters](https://github.com/g7xu/leetcode-practice/tree/main/1100-find-k-length-substrings-with-no-repeated-characters/) | Medium |
@@ -639,6 +640,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0678-valid-parenthesis-string](https://github.com/g7xu/leetcode-practice/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0739-daily-temperatures](https://github.com/g7xu/leetcode-practice/tree/main/0739-daily-temperatures/) | Medium |
 | [0853-car-fleet](https://github.com/g7xu/leetcode-practice/tree/main/0853-car-fleet/) | Medium |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/g7xu/leetcode-practice/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1472-design-browser-history](https://github.com/g7xu/leetcode-practice/tree/main/1472-design-browser-history/) | Medium |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/g7xu/leetcode-practice/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [2375-construct-smallest-number-from-di-string](https://github.com/g7xu/leetcode-practice/tree/main/2375-construct-smallest-number-from-di-string/) | Medium |
