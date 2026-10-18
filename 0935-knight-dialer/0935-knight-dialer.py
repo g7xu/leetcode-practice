@@ -44,7 +44,7 @@ class Solution:
                 ny = y + ym
 
                 if nx >= 0 and nx < len(grid) and ny >= 0 and ny < len(grid[nx]) and grid[nx][ny] not in ["*", "#"]:
-                    res += helper(nx, ny, n - 1)
+                    res += helper(nx, ny, n - 1) % (10**9 + 7)
 
             return res
             
@@ -54,6 +54,6 @@ class Solution:
                 if grid[i][j] in ["*", "#"]:
                     continue
 
-                res += helper(i, j, n - 1)
+                res += helper(i, j, n - 1) % (10**9 + 7)
 
         return res % (10**9 + 7)
