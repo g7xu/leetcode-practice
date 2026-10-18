@@ -600,6 +600,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0877-stone-game](https://github.com/g7xu/leetcode-practice/tree/main/0877-stone-game/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/g7xu/leetcode-practice/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [0931-minimum-falling-path-sum](https://github.com/g7xu/leetcode-practice/tree/main/0931-minimum-falling-path-sum/) | Medium |
+| [0935-knight-dialer](https://github.com/g7xu/leetcode-practice/tree/main/0935-knight-dialer/) | Medium |
 | [0983-minimum-cost-for-tickets](https://github.com/g7xu/leetcode-practice/tree/main/0983-minimum-cost-for-tickets/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/g7xu/leetcode-practice/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/g7xu/leetcode-practice/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
