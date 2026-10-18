@@ -56,5 +56,4 @@ class Solution:
 
                 res += helper(i, j, n - 1)
 
-        print(res)
         return res % (10**9 + 7)
