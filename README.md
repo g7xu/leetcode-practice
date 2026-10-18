@@ -271,6 +271,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0202-happy-number](https://github.com/g7xu/leetcode-practice/tree/main/0202-happy-number/) | Easy |
 | [0204-count-primes](https://github.com/g7xu/leetcode-practice/tree/main/0204-count-primes/) | Medium |
 | [0227-basic-calculator-ii](https://github.com/g7xu/leetcode-practice/tree/main/0227-basic-calculator-ii/) | Medium |
+| [0326-power-of-three](https://github.com/g7xu/leetcode-practice/tree/main/0326-power-of-three/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/g7xu/leetcode-practice/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0670-maximum-swap](https://github.com/g7xu/leetcode-practice/tree/main/0670-maximum-swap/) | Medium |
 | [0836-rectangle-overlap](https://github.com/g7xu/leetcode-practice/tree/main/0836-rectangle-overlap/) | Easy |
@@ -668,6 +669,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0024-swap-nodes-in-pairs](https://github.com/g7xu/leetcode-practice/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 | [0050-powx-n](https://github.com/g7xu/leetcode-practice/tree/main/0050-powx-n/) | Medium |
 | [0143-reorder-list](https://github.com/g7xu/leetcode-practice/tree/main/0143-reorder-list/) | Medium |
+| [0326-power-of-three](https://github.com/g7xu/leetcode-practice/tree/main/0326-power-of-three/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
