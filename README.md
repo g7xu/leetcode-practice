@@ -392,6 +392,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/g7xu/leetcode-practice/tree/main/3442-maximum-difference-between-even-and-odd-frequency-i/) | Easy |
 | [3481-apply-substitutions](https://github.com/g7xu/leetcode-practice/tree/main/3481-apply-substitutions/) | Medium |
 | [3612-process-string-with-special-operations-i](https://github.com/g7xu/leetcode-practice/tree/main/3612-process-string-with-special-operations-i/) | Medium |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/g7xu/leetcode-practice/tree/main/3863-minimum-operations-to-sort-a-string/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
