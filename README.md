@@ -366,6 +366,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1427-perform-string-shifts](https://github.com/g7xu/leetcode-practice/tree/main/1427-perform-string-shifts/) | Easy |
 | [1436-destination-city](https://github.com/g7xu/leetcode-practice/tree/main/1436-destination-city/) | Easy |
 | [1496-path-crossing](https://github.com/g7xu/leetcode-practice/tree/main/1496-path-crossing/) | Easy |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/g7xu/leetcode-practice/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1624-largest-substring-between-two-equal-characters](https://github.com/g7xu/leetcode-practice/tree/main/1624-largest-substring-between-two-equal-characters/) | Easy |
 | [1639-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/g7xu/leetcode-practice/tree/main/1639-number-of-ways-to-form-a-target-string-given-a-dictionary/) | Hard |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/g7xu/leetcode-practice/tree/main/1647-minimum-deletions-to-make-character-frequencies-unique/) | Medium |
@@ -644,6 +645,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0853-car-fleet](https://github.com/g7xu/leetcode-practice/tree/main/0853-car-fleet/) | Medium |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/g7xu/leetcode-practice/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1472-design-browser-history](https://github.com/g7xu/leetcode-practice/tree/main/1472-design-browser-history/) | Medium |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/g7xu/leetcode-practice/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/g7xu/leetcode-practice/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [2375-construct-smallest-number-from-di-string](https://github.com/g7xu/leetcode-practice/tree/main/2375-construct-smallest-number-from-di-string/) | Medium |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/g7xu/leetcode-practice/tree/main/2696-minimum-string-length-after-removing-substrings/) | Easy |
@@ -1028,4 +1030,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/g7xu/leetcode-practice/tree/main/0698-partition-to-k-equal-sum-subsets/) | Medium |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/g7xu/leetcode-practice/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 <!---LeetCode Topics End-->
