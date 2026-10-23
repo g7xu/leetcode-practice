@@ -183,6 +183,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0266-palindrome-permutation](https://github.com/g7xu/leetcode-practice/tree/main/0266-palindrome-permutation/) | Easy |
 | [0290-word-pattern](https://github.com/g7xu/leetcode-practice/tree/main/0290-word-pattern/) | Easy |
 | [0340-longest-substring-with-at-most-k-distinct-characters](https://github.com/g7xu/leetcode-practice/tree/main/0340-longest-substring-with-at-most-k-distinct-characters/) | Medium |
+| [0355-design-twitter](https://github.com/g7xu/leetcode-practice/tree/main/0355-design-twitter/) | Medium |
 | [0359-logger-rate-limiter](https://github.com/g7xu/leetcode-practice/tree/main/0359-logger-rate-limiter/) | Easy |
 | [0383-ransom-note](https://github.com/g7xu/leetcode-practice/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/g7xu/leetcode-practice/tree/main/0387-first-unique-character-in-a-string/) | Easy |
@@ -473,6 +474,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/g7xu/leetcode-practice/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0253-meeting-rooms-ii](https://github.com/g7xu/leetcode-practice/tree/main/0253-meeting-rooms-ii/) | Medium |
+| [0355-design-twitter](https://github.com/g7xu/leetcode-practice/tree/main/0355-design-twitter/) | Medium |
 | [0703-kth-largest-element-in-a-stream](https://github.com/g7xu/leetcode-practice/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0743-network-delay-time](https://github.com/g7xu/leetcode-practice/tree/main/0743-network-delay-time/) | Medium |
 | [0767-reorganize-string](https://github.com/g7xu/leetcode-practice/tree/main/0767-reorganize-string/) | Medium |
@@ -626,6 +628,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0142-linked-list-cycle-ii](https://github.com/g7xu/leetcode-practice/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0143-reorder-list](https://github.com/g7xu/leetcode-practice/tree/main/0143-reorder-list/) | Medium |
 | [0146-lru-cache](https://github.com/g7xu/leetcode-practice/tree/main/0146-lru-cache/) | Medium |
+| [0355-design-twitter](https://github.com/g7xu/leetcode-practice/tree/main/0355-design-twitter/) | Medium |
 | [0460-lfu-cache](https://github.com/g7xu/leetcode-practice/tree/main/0460-lfu-cache/) | Hard |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/g7xu/leetcode-practice/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
 | [1472-design-browser-history](https://github.com/g7xu/leetcode-practice/tree/main/1472-design-browser-history/) | Medium |
@@ -665,6 +668,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0271-encode-and-decode-strings](https://github.com/g7xu/leetcode-practice/tree/main/0271-encode-and-decode-strings/) | Medium |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/g7xu/leetcode-practice/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0346-moving-average-from-data-stream](https://github.com/g7xu/leetcode-practice/tree/main/0346-moving-average-from-data-stream/) | Easy |
+| [0355-design-twitter](https://github.com/g7xu/leetcode-practice/tree/main/0355-design-twitter/) | Medium |
 | [0359-logger-rate-limiter](https://github.com/g7xu/leetcode-practice/tree/main/0359-logger-rate-limiter/) | Easy |
 | [0362-design-hit-counter](https://github.com/g7xu/leetcode-practice/tree/main/0362-design-hit-counter/) | Medium |
 | [0460-lfu-cache](https://github.com/g7xu/leetcode-practice/tree/main/0460-lfu-cache/) | Hard |
