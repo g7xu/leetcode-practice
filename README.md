@@ -92,6 +92,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0918-maximum-sum-circular-subarray](https://github.com/g7xu/leetcode-practice/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [0929-unique-email-addresses](https://github.com/g7xu/leetcode-practice/tree/main/0929-unique-email-addresses/) | Easy |
 | [0931-minimum-falling-path-sum](https://github.com/g7xu/leetcode-practice/tree/main/0931-minimum-falling-path-sum/) | Medium |
+| [0973-k-closest-points-to-origin](https://github.com/g7xu/leetcode-practice/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/g7xu/leetcode-practice/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/g7xu/leetcode-practice/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [0980-unique-paths-iii](https://github.com/g7xu/leetcode-practice/tree/main/0980-unique-paths-iii/) | Hard |
@@ -277,6 +278,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0670-maximum-swap](https://github.com/g7xu/leetcode-practice/tree/main/0670-maximum-swap/) | Medium |
 | [0836-rectangle-overlap](https://github.com/g7xu/leetcode-practice/tree/main/0836-rectangle-overlap/) | Easy |
 | [0877-stone-game](https://github.com/g7xu/leetcode-practice/tree/main/0877-stone-game/) | Medium |
+| [0973-k-closest-points-to-origin](https://github.com/g7xu/leetcode-practice/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1056-confusing-number](https://github.com/g7xu/leetcode-practice/tree/main/1056-confusing-number/) | Easy |
 | [1180-count-substrings-with-only-one-distinct-letter](https://github.com/g7xu/leetcode-practice/tree/main/1180-count-substrings-with-only-one-distinct-letter/) | Easy |
 | [1248-count-number-of-nice-subarrays](https://github.com/g7xu/leetcode-practice/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
@@ -445,6 +447,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0853-car-fleet](https://github.com/g7xu/leetcode-practice/tree/main/0853-car-fleet/) | Medium |
 | [0881-boats-to-save-people](https://github.com/g7xu/leetcode-practice/tree/main/0881-boats-to-save-people/) | Medium |
 | [0905-sort-array-by-parity](https://github.com/g7xu/leetcode-practice/tree/main/0905-sort-array-by-parity/) | Easy |
+| [0973-k-closest-points-to-origin](https://github.com/g7xu/leetcode-practice/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/g7xu/leetcode-practice/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1122-relative-sort-array](https://github.com/g7xu/leetcode-practice/tree/main/1122-relative-sort-array/) | Easy |
 | [1133-largest-unique-number](https://github.com/g7xu/leetcode-practice/tree/main/1133-largest-unique-number/) | Easy |
@@ -473,6 +476,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0703-kth-largest-element-in-a-stream](https://github.com/g7xu/leetcode-practice/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0743-network-delay-time](https://github.com/g7xu/leetcode-practice/tree/main/0743-network-delay-time/) | Medium |
 | [0767-reorganize-string](https://github.com/g7xu/leetcode-practice/tree/main/0767-reorganize-string/) | Medium |
+| [0973-k-closest-points-to-origin](https://github.com/g7xu/leetcode-practice/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1046-last-stone-weight](https://github.com/g7xu/leetcode-practice/tree/main/1046-last-stone-weight/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/g7xu/leetcode-practice/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1834-single-threaded-cpu](https://github.com/g7xu/leetcode-practice/tree/main/1834-single-threaded-cpu/) | Medium |
@@ -777,6 +781,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/g7xu/leetcode-practice/tree/main/0169-majority-element/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/g7xu/leetcode-practice/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/g7xu/leetcode-practice/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
+| [0973-k-closest-points-to-origin](https://github.com/g7xu/leetcode-practice/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/g7xu/leetcode-practice/tree/main/1985-find-the-kth-largest-integer-in-the-array/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
@@ -941,6 +946,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/g7xu/leetcode-practice/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0973-k-closest-points-to-origin](https://github.com/g7xu/leetcode-practice/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/g7xu/leetcode-practice/tree/main/1985-find-the-kth-largest-integer-in-the-array/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -1027,6 +1033,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0836-rectangle-overlap](https://github.com/g7xu/leetcode-practice/tree/main/0836-rectangle-overlap/) | Easy |
+| [0973-k-closest-points-to-origin](https://github.com/g7xu/leetcode-practice/tree/main/0973-k-closest-points-to-origin/) | Medium |
 ## Bitmask
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1035,4 +1042,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/g7xu/leetcode-practice/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
+## K-D Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0973-k-closest-points-to-origin](https://github.com/g7xu/leetcode-practice/tree/main/0973-k-closest-points-to-origin/) | Medium |
 <!---LeetCode Topics End-->
