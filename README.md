@@ -51,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0243-shortest-word-distance](https://github.com/g7xu/leetcode-practice/tree/main/0243-shortest-word-distance/) | Easy |
 | [0252-meeting-rooms](https://github.com/g7xu/leetcode-practice/tree/main/0252-meeting-rooms/) | Easy |
 | [0253-meeting-rooms-ii](https://github.com/g7xu/leetcode-practice/tree/main/0253-meeting-rooms-ii/) | Medium |
+| [0268-missing-number](https://github.com/g7xu/leetcode-practice/tree/main/0268-missing-number/) | Easy |
 | [0271-encode-and-decode-strings](https://github.com/g7xu/leetcode-practice/tree/main/0271-encode-and-decode-strings/) | Medium |
 | [0280-wiggle-sort](https://github.com/g7xu/leetcode-practice/tree/main/0280-wiggle-sort/) | Medium |
 | [0286-walls-and-gates](https://github.com/g7xu/leetcode-practice/tree/main/0286-walls-and-gates/) | Medium |
@@ -181,6 +182,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/g7xu/leetcode-practice/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/g7xu/leetcode-practice/tree/main/0242-valid-anagram/) | Easy |
 | [0266-palindrome-permutation](https://github.com/g7xu/leetcode-practice/tree/main/0266-palindrome-permutation/) | Easy |
+| [0268-missing-number](https://github.com/g7xu/leetcode-practice/tree/main/0268-missing-number/) | Easy |
 | [0290-word-pattern](https://github.com/g7xu/leetcode-practice/tree/main/0290-word-pattern/) | Easy |
 | [0340-longest-substring-with-at-most-k-distinct-characters](https://github.com/g7xu/leetcode-practice/tree/main/0340-longest-substring-with-at-most-k-distinct-characters/) | Medium |
 | [0355-design-twitter](https://github.com/g7xu/leetcode-practice/tree/main/0355-design-twitter/) | Medium |
@@ -274,6 +276,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0202-happy-number](https://github.com/g7xu/leetcode-practice/tree/main/0202-happy-number/) | Easy |
 | [0204-count-primes](https://github.com/g7xu/leetcode-practice/tree/main/0204-count-primes/) | Medium |
 | [0227-basic-calculator-ii](https://github.com/g7xu/leetcode-practice/tree/main/0227-basic-calculator-ii/) | Medium |
+| [0268-missing-number](https://github.com/g7xu/leetcode-practice/tree/main/0268-missing-number/) | Easy |
 | [0326-power-of-three](https://github.com/g7xu/leetcode-practice/tree/main/0326-power-of-three/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/g7xu/leetcode-practice/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0670-maximum-swap](https://github.com/g7xu/leetcode-practice/tree/main/0670-maximum-swap/) | Medium |
@@ -437,6 +440,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0242-valid-anagram](https://github.com/g7xu/leetcode-practice/tree/main/0242-valid-anagram/) | Easy |
 | [0252-meeting-rooms](https://github.com/g7xu/leetcode-practice/tree/main/0252-meeting-rooms/) | Easy |
 | [0253-meeting-rooms-ii](https://github.com/g7xu/leetcode-practice/tree/main/0253-meeting-rooms-ii/) | Medium |
+| [0268-missing-number](https://github.com/g7xu/leetcode-practice/tree/main/0268-missing-number/) | Easy |
 | [0280-wiggle-sort](https://github.com/g7xu/leetcode-practice/tree/main/0280-wiggle-sort/) | Medium |
 | [0389-find-the-difference](https://github.com/g7xu/leetcode-practice/tree/main/0389-find-the-difference/) | Easy |
 | [0435-non-overlapping-intervals](https://github.com/g7xu/leetcode-practice/tree/main/0435-non-overlapping-intervals/) | Medium |
@@ -545,6 +549,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0074-search-a-2d-matrix](https://github.com/g7xu/leetcode-practice/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/g7xu/leetcode-practice/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0162-find-peak-element](https://github.com/g7xu/leetcode-practice/tree/main/0162-find-peak-element/) | Medium |
+| [0268-missing-number](https://github.com/g7xu/leetcode-practice/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/g7xu/leetcode-practice/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/g7xu/leetcode-practice/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0362-design-hit-counter](https://github.com/g7xu/leetcode-practice/tree/main/0362-design-hit-counter/) | Medium |
@@ -959,6 +964,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0090-subsets-ii](https://github.com/g7xu/leetcode-practice/tree/main/0090-subsets-ii/) | Medium |
 | [0136-single-number](https://github.com/g7xu/leetcode-practice/tree/main/0136-single-number/) | Easy |
 | [0266-palindrome-permutation](https://github.com/g7xu/leetcode-practice/tree/main/0266-palindrome-permutation/) | Easy |
+| [0268-missing-number](https://github.com/g7xu/leetcode-practice/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/g7xu/leetcode-practice/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0389-find-the-difference](https://github.com/g7xu/leetcode-practice/tree/main/0389-find-the-difference/) | Easy |
 | [0645-set-mismatch](https://github.com/g7xu/leetcode-practice/tree/main/0645-set-mismatch/) | Easy |
