@@ -68,6 +68,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/g7xu/leetcode-practice/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0485-max-consecutive-ones](https://github.com/g7xu/leetcode-practice/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0494-target-sum](https://github.com/g7xu/leetcode-practice/tree/main/0494-target-sum/) | Medium |
+| [0529-minesweeper](https://github.com/g7xu/leetcode-practice/tree/main/0529-minesweeper/) | Medium |
 | [0582-kill-process](https://github.com/g7xu/leetcode-practice/tree/main/0582-kill-process/) | Medium |
 | [0604-design-compressed-string-iterator](https://github.com/g7xu/leetcode-practice/tree/main/0604-design-compressed-string-iterator/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/g7xu/leetcode-practice/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
@@ -727,6 +728,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0337-house-robber-iii](https://github.com/g7xu/leetcode-practice/tree/main/0337-house-robber-iii/) | Medium |
 | [0417-pacific-atlantic-water-flow](https://github.com/g7xu/leetcode-practice/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
 | [0437-path-sum-iii](https://github.com/g7xu/leetcode-practice/tree/main/0437-path-sum-iii/) | Medium |
+| [0529-minesweeper](https://github.com/g7xu/leetcode-practice/tree/main/0529-minesweeper/) | Medium |
 | [0545-boundary-of-binary-tree](https://github.com/g7xu/leetcode-practice/tree/main/0545-boundary-of-binary-tree/) | Medium |
 | [0547-number-of-provinces](https://github.com/g7xu/leetcode-practice/tree/main/0547-number-of-provinces/) | Medium |
 | [0582-kill-process](https://github.com/g7xu/leetcode-practice/tree/main/0582-kill-process/) | Medium |
@@ -759,6 +761,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0322-coin-change](https://github.com/g7xu/leetcode-practice/tree/main/0322-coin-change/) | Medium |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/g7xu/leetcode-practice/tree/main/0323-number-of-connected-components-in-an-undirected-graph/) | Medium |
 | [0417-pacific-atlantic-water-flow](https://github.com/g7xu/leetcode-practice/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
+| [0529-minesweeper](https://github.com/g7xu/leetcode-practice/tree/main/0529-minesweeper/) | Medium |
 | [0547-number-of-provinces](https://github.com/g7xu/leetcode-practice/tree/main/0547-number-of-provinces/) | Medium |
 | [0582-kill-process](https://github.com/g7xu/leetcode-practice/tree/main/0582-kill-process/) | Medium |
 | [0617-merge-two-binary-trees](https://github.com/g7xu/leetcode-practice/tree/main/0617-merge-two-binary-trees/) | Easy |
@@ -945,6 +948,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0286-walls-and-gates](https://github.com/g7xu/leetcode-practice/tree/main/0286-walls-and-gates/) | Medium |
 | [0417-pacific-atlantic-water-flow](https://github.com/g7xu/leetcode-practice/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
 | [0422-valid-word-square](https://github.com/g7xu/leetcode-practice/tree/main/0422-valid-word-square/) | Easy |
+| [0529-minesweeper](https://github.com/g7xu/leetcode-practice/tree/main/0529-minesweeper/) | Medium |
 | [0695-max-area-of-island](https://github.com/g7xu/leetcode-practice/tree/main/0695-max-area-of-island/) | Medium |
 | [0741-cherry-pickup](https://github.com/g7xu/leetcode-practice/tree/main/0741-cherry-pickup/) | Hard |
 | [0931-minimum-falling-path-sum](https://github.com/g7xu/leetcode-practice/tree/main/0931-minimum-falling-path-sum/) | Medium |
