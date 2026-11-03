@@ -124,6 +124,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1552-magnetic-force-between-two-balls](https://github.com/g7xu/leetcode-practice/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
 | [1584-min-cost-to-connect-all-points](https://github.com/g7xu/leetcode-practice/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
 | [1639-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/g7xu/leetcode-practice/tree/main/1639-number-of-ways-to-form-a-target-string-given-a-dictionary/) | Hard |
+| [1656-design-an-ordered-stream](https://github.com/g7xu/leetcode-practice/tree/main/1656-design-an-ordered-stream/) | Easy |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/g7xu/leetcode-practice/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1684-count-the-number-of-consistent-strings](https://github.com/g7xu/leetcode-practice/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/g7xu/leetcode-practice/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
@@ -232,6 +233,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1496-path-crossing](https://github.com/g7xu/leetcode-practice/tree/main/1496-path-crossing/) | Easy |
 | [1624-largest-substring-between-two-equal-characters](https://github.com/g7xu/leetcode-practice/tree/main/1624-largest-substring-between-two-equal-characters/) | Easy |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/g7xu/leetcode-practice/tree/main/1647-minimum-deletions-to-make-character-frequencies-unique/) | Medium |
+| [1656-design-an-ordered-stream](https://github.com/g7xu/leetcode-practice/tree/main/1656-design-an-ordered-stream/) | Easy |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/g7xu/leetcode-practice/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1684-count-the-number-of-consistent-strings](https://github.com/g7xu/leetcode-practice/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/g7xu/leetcode-practice/tree/main/1857-largest-color-value-in-a-directed-graph/) | Hard |
@@ -699,6 +701,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0703-kth-largest-element-in-a-stream](https://github.com/g7xu/leetcode-practice/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0981-time-based-key-value-store](https://github.com/g7xu/leetcode-practice/tree/main/0981-time-based-key-value-store/) | Medium |
 | [1472-design-browser-history](https://github.com/g7xu/leetcode-practice/tree/main/1472-design-browser-history/) | Medium |
+| [1656-design-an-ordered-stream](https://github.com/g7xu/leetcode-practice/tree/main/1656-design-an-ordered-stream/) | Easy |
 | [2013-detect-squares](https://github.com/g7xu/leetcode-practice/tree/main/2013-detect-squares/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
@@ -912,6 +915,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0362-design-hit-counter](https://github.com/g7xu/leetcode-practice/tree/main/0362-design-hit-counter/) | Medium |
 | [0703-kth-largest-element-in-a-stream](https://github.com/g7xu/leetcode-practice/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [1472-design-browser-history](https://github.com/g7xu/leetcode-practice/tree/main/1472-design-browser-history/) | Medium |
+| [1656-design-an-ordered-stream](https://github.com/g7xu/leetcode-practice/tree/main/1656-design-an-ordered-stream/) | Easy |
 | [2013-detect-squares](https://github.com/g7xu/leetcode-practice/tree/main/2013-detect-squares/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
