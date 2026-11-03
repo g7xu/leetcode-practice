@@ -74,6 +74,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0628-maximum-product-of-three-numbers](https://github.com/g7xu/leetcode-practice/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0645-set-mismatch](https://github.com/g7xu/leetcode-practice/tree/main/0645-set-mismatch/) | Easy |
 | [0646-maximum-length-of-pair-chain](https://github.com/g7xu/leetcode-practice/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
+| [0690-employee-importance](https://github.com/g7xu/leetcode-practice/tree/main/0690-employee-importance/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/g7xu/leetcode-practice/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0695-max-area-of-island](https://github.com/g7xu/leetcode-practice/tree/main/0695-max-area-of-island/) | Medium |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/g7xu/leetcode-practice/tree/main/0698-partition-to-k-equal-sum-subsets/) | Medium |
@@ -202,6 +203,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0567-permutation-in-string](https://github.com/g7xu/leetcode-practice/tree/main/0567-permutation-in-string/) | Medium |
 | [0582-kill-process](https://github.com/g7xu/leetcode-practice/tree/main/0582-kill-process/) | Medium |
 | [0645-set-mismatch](https://github.com/g7xu/leetcode-practice/tree/main/0645-set-mismatch/) | Easy |
+| [0690-employee-importance](https://github.com/g7xu/leetcode-practice/tree/main/0690-employee-importance/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/g7xu/leetcode-practice/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0734-sentence-similarity](https://github.com/g7xu/leetcode-practice/tree/main/0734-sentence-similarity/) | Easy |
 | [0740-delete-and-earn](https://github.com/g7xu/leetcode-practice/tree/main/0740-delete-and-earn/) | Medium |
@@ -733,6 +735,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0547-number-of-provinces](https://github.com/g7xu/leetcode-practice/tree/main/0547-number-of-provinces/) | Medium |
 | [0582-kill-process](https://github.com/g7xu/leetcode-practice/tree/main/0582-kill-process/) | Medium |
 | [0617-merge-two-binary-trees](https://github.com/g7xu/leetcode-practice/tree/main/0617-merge-two-binary-trees/) | Easy |
+| [0690-employee-importance](https://github.com/g7xu/leetcode-practice/tree/main/0690-employee-importance/) | Medium |
 | [0695-max-area-of-island](https://github.com/g7xu/leetcode-practice/tree/main/0695-max-area-of-island/) | Medium |
 | [0743-network-delay-time](https://github.com/g7xu/leetcode-practice/tree/main/0743-network-delay-time/) | Medium |
 | [0979-distribute-coins-in-binary-tree](https://github.com/g7xu/leetcode-practice/tree/main/0979-distribute-coins-in-binary-tree/) | Medium |
@@ -765,6 +768,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0547-number-of-provinces](https://github.com/g7xu/leetcode-practice/tree/main/0547-number-of-provinces/) | Medium |
 | [0582-kill-process](https://github.com/g7xu/leetcode-practice/tree/main/0582-kill-process/) | Medium |
 | [0617-merge-two-binary-trees](https://github.com/g7xu/leetcode-practice/tree/main/0617-merge-two-binary-trees/) | Easy |
+| [0690-employee-importance](https://github.com/g7xu/leetcode-practice/tree/main/0690-employee-importance/) | Medium |
 | [0695-max-area-of-island](https://github.com/g7xu/leetcode-practice/tree/main/0695-max-area-of-island/) | Medium |
 | [0743-network-delay-time](https://github.com/g7xu/leetcode-practice/tree/main/0743-network-delay-time/) | Medium |
 | [0752-open-the-lock](https://github.com/g7xu/leetcode-practice/tree/main/0752-open-the-lock/) | Medium |
@@ -855,6 +859,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0545-boundary-of-binary-tree](https://github.com/g7xu/leetcode-practice/tree/main/0545-boundary-of-binary-tree/) | Medium |
 | [0582-kill-process](https://github.com/g7xu/leetcode-practice/tree/main/0582-kill-process/) | Medium |
 | [0617-merge-two-binary-trees](https://github.com/g7xu/leetcode-practice/tree/main/0617-merge-two-binary-trees/) | Easy |
+| [0690-employee-importance](https://github.com/g7xu/leetcode-practice/tree/main/0690-employee-importance/) | Medium |
 | [0703-kth-largest-element-in-a-stream](https://github.com/g7xu/leetcode-practice/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0979-distribute-coins-in-binary-tree](https://github.com/g7xu/leetcode-practice/tree/main/0979-distribute-coins-in-binary-tree/) | Medium |
 | [1120-maximum-average-subtree](https://github.com/g7xu/leetcode-practice/tree/main/1120-maximum-average-subtree/) | Medium |
