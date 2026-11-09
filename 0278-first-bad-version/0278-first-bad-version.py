@@ -14,7 +14,5 @@ class Solution:
             else:
                 start = m + 1
 
-            print(start, end, m)
-
         return start
 
