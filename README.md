@@ -573,6 +573,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/g7xu/leetcode-practice/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0162-find-peak-element](https://github.com/g7xu/leetcode-practice/tree/main/0162-find-peak-element/) | Medium |
 | [0268-missing-number](https://github.com/g7xu/leetcode-practice/tree/main/0268-missing-number/) | Easy |
+| [0278-first-bad-version](https://github.com/g7xu/leetcode-practice/tree/main/0278-first-bad-version/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/g7xu/leetcode-practice/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/g7xu/leetcode-practice/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0362-design-hit-counter](https://github.com/g7xu/leetcode-practice/tree/main/0362-design-hit-counter/) | Medium |
@@ -1095,4 +1096,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0692-top-k-frequent-words](https://github.com/g7xu/leetcode-practice/tree/main/0692-top-k-frequent-words/) | Medium |
+## Interactive
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0278-first-bad-version](https://github.com/g7xu/leetcode-practice/tree/main/0278-first-bad-version/) | Easy |
 <!---LeetCode Topics End-->
